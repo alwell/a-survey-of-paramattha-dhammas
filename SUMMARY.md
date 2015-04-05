@@ -3,9 +3,7 @@
 * [Book info](README.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
-* [PART 1](part_1.md)
- 
-**Part I General Introduction** **1**
+* [Part I General Introduction](part_1.md)
 
 Chapter 1 The Scriptures and Their Commentaries 1
 
