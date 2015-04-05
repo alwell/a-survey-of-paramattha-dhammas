@@ -1,6 +1,4 @@
-# Survey_of_Paramattha_Dhammas
-
-A Survey of Paramattha Dhammas (revised 2015)
+# Survey of Paramattha Dhammas 2015
 
 Status: in print (published 2006)
 
