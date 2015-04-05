@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Book info](README.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [PART 1](part_1.md)
