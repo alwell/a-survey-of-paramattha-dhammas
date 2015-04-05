@@ -5,7 +5,7 @@
 * [Introduction](introduction.md)
 * [Part I General Introduction](part_1.md)
     * [The Scriptures and Their Commentaries 1](the_scriptures_and_their_commentaries_1.md)
-    * [The Buddha 10](the_buddha.md)
+    * [The Buddha](the_buddha.md)
     * Exposition of Paramattha Dhammas I (Citta and Cetasikas)
     * Chapter 4 Exposition of Paramattha Dhammas II (Rūpa) 
     * Chapter 5 Exposition of Paramattha Dhammas III (Nibbāna) 36
