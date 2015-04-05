@@ -4,8 +4,7 @@
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [Part I General Introduction](part_1.md)
-
-Chapter 1 The Scriptures and Their Commentaries 1
+* The Scriptures and Their Commentaries 1
 
 Chapter 2 The Buddha 10
 
