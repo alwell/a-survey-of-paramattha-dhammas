@@ -4,7 +4,7 @@
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [Part I General Introduction](part_1.md)
-   * [The Scriptures and Their Commentaries 1](the_scriptures_and_their_commentaries_1.md)
+   * [The Scriptures and Their Commentaries ](the_scriptures_and_their_commentaries_1.md)
    * [The Buddha](the_buddha.md)
    * [Exposition of Paramattha Dhammas I (Citta and Cetasikas)](exposition_of_paramattha_dhammas_i_citta_and_cetasikas.md)
    * Chapter 4 Exposition of Paramattha Dhammas II (Rūpa)
