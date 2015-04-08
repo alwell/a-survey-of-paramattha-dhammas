@@ -111,7 +111,7 @@ accomplishments:
  apart from these, other physical qualities, which were pleasing to
  the eye, impressive to all people, and which gave them joy.
 
- When the cause, the perfections, has been fulfilled, it
+When the cause, the perfections, has been fulfilled, it
 is the condition for the accomplishment of fruition, the attainment of
 enlightenment and becoming the Sammāsambuddha. Not just for his own sake
 did he become the Sammāsambuddha, gaining freedom from dukkha
