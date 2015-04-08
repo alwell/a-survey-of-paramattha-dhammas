@@ -8,7 +8,7 @@
    * [The Buddha](the_buddha.md)
    * [Exposition of Paramattha Dhammas I (Citta and Cetasikas)](exposition_of_paramattha_dhammas_i_citta_and_cetasikas.md)
    * [Exposition of Paramattha Dhammas II (Rūpa)](exposition_of_paramattha_dhammas_ii_rupa.md)
-   * Exposition of Paramattha Dhammas III (Nibbāna) 36
+   * [Exposition of Paramattha Dhammas III (Nibbāna) 36](exposition_of_paramattha_dhammas_iii_nibbana.md)
    * Different Aspects of the Four Paramattha Dhammas 41
 * Part II Citta
    * General Introduction 52
