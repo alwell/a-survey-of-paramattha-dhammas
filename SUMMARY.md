@@ -7,9 +7,9 @@
    * [The Scriptures and Their Commentaries](the_scriptures_and_their_commentaries_1.md)
    * [The Buddha](the_buddha.md)
    * [Exposition of Paramattha Dhammas I (Citta and Cetasikas)](exposition_of_paramattha_dhammas_i_citta_and_cetasikas.md)
-   * [Chapter 4 Exposition of Paramattha Dhammas II (Rūpa)](exposition_of_paramattha_dhammas_ii_rupa.md)
-   * Chapter 5 Exposition of Paramattha Dhammas III (Nibbāna) 36
-   * Chapter 6 Different Aspects of the Four Paramattha Dhammas 41
+   * [Exposition of Paramattha Dhammas II (Rūpa)](exposition_of_paramattha_dhammas_ii_rupa.md)
+   * Exposition of Paramattha Dhammas III (Nibbāna) 36
+   * Different Aspects of the Four Paramattha Dhammas 41
 * Part II Citta
    * General Introduction 52
    * Chapter 8 Citta Knows an Object 69
