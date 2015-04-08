@@ -310,7 +310,7 @@ Viññāṇakkhandha.
 Cetasika Paramattha Dhamma - 52 types: 
 
     vedanā cetasika is:      
-      Vedanākkhandha,
+    Vedanākkhandha,
 
     saññā cetasika is:       
      Saññākkhandha,
@@ -324,18 +324,18 @@ Rūpa Paramattha Dhamma - all 28 types are: Rūpakkhandha.
 
 The Five Khandhas Classified as Three Paramattha Dhammas
 
-Rūpakkhandha is:     Rūpa Paramattha Dhamma (28
+- Rūpakkhandha is: Rūpa Paramattha Dhamma (28
 rūpas).
 
-Vedanākkhandha is: Cetasika Paramattha Dhamma (vedanā).
+- Vedanākkhandha is: Cetasika Paramattha Dhamma (vedanā).
 
-Saññākkhandha is:     Cetasika Paramattha Dhamma
+- Saññākkhandha is: Cetasika Paramattha Dhamma
 (saññā).
 
-Saṅkhārakkhandha is: Cetasika Paramattha Dhamma (50
+- Saṅkhārakkhandha is: Cetasika Paramattha Dhamma (50
 cetasikas).
 
-Viññāṇakkhandha is: Citta Paramattha Dhamma (89 or 121
+- Viññāṇakkhandha is: Citta Paramattha Dhamma (89 or 121
 cittas).
 
 
