@@ -1,2 +1,2 @@
-# Different Aspects of the Four Paramattha Dhammas 41
+## Different Aspects of the Four Paramattha Dhammas
 
