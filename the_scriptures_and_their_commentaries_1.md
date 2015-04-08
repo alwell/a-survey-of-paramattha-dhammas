@@ -61,6 +61,10 @@ The “Dīgha Nikāya” is a collection of long dialogues (*dīgha* means
 long), consisting of thirty-four suttas. This collection is divided into
 three sections (in Pāli: *vagga*):[^20](#sdfootnote20sym)
 
+1. Sīla-kkhandha-vagga (sīla means morality and khandha means group); 
+2. Mahā-vagga (mahā means great); 
+3. Pāṭika-vagga (called after the first sutta; Pāṭika is a proper name). 
+
 The commentary to this collection is the “Sumaṅgalavilāsinī”.
 
 The “Majjhima Nikāya” is a collection of suttas of medium length
@@ -69,10 +73,10 @@ suttas. It is divided into three parts, which are called in Pāli
 “*paṇṇāsa*,” meaning fifty. The first two parts consist of fifty suttas
 each and the third part of fifty-two suttas. They are called:
 
-The commentary to this collection is the “Papañcasūdanī”.
 
-The “Saṃyutta Nikāya” is a group of suttas (*saṃyutta* means joined,
-connected) divided into five main divisions, namely:
+1. Mūla-paṇṇāsa (mūla means root), consisting of five sections of ten suttas;  
+2. Majjhima-paṇṇāsa, consisting of five sections of ten suttas;  
+3. Upari-paṇṇāsa (upari means above or later), consisting of five sections, of which four have ten suttas and the fifth has twelve suttas. 
 
 The commentary to this collection is the “Sāratthappakāsinī”.
 
@@ -83,10 +87,39 @@ sections in all. “Book of the Ones” consists of suttas dealing with one
 kind of subject, and so on up to the Book of the Elevens. Summarizing
 them, they are:
 
+- Eka-nipāta (eka means one), Book of the Ones; 
+- Duka-nipāta (duka, from dve, two, meaning pair), Book of the Twos; 
+- Tika-nipāta, Book of the Threes; 
+- Catuka-nipāta, Book of the Fours; 
+- Pañcaka-nipāta, Book of the Fives; 
+- Chaka-nipāta, Book of the Sixes; 
+- Sattaka-nipāta, Book of the Sevens; 
+- Aṭṭhaka-nipāta, Book of the Eights; 
+- Navaka-nipāta, Book of the Nines; 
+- Dasaka-nipāta, Book of the Tens; 
+- Ekādasaka-nipāta, Book of the Elevens.  
+
 The commentary to the “Aṅguttara Nikāya” is the “Manorathapūranī”.
 
 Apart from these four Nikāyas, there is the “Khuddaka Nikāya”, which
 contains the word of the Buddha. This consists of the following books:
+
+- “Khuddakapāṭha” or “Minor Readings”;1 
+- “Dhammapada” (pada means word or phrase);2 
+- “Udāna” or “Verses of Uplift”; 
+- “Itivuttaka” or “As it was said”; 
+- “Suttanipāta” or “The Group of Discourses”; 
+- “Vimānavatthu” or “Stories of the Mansions” (in “Minor Anthologies IV”); 
+- “Petavatthu” or “Stories of the Departed” (in “Minor Anthologies IV”); 
+- “Theragāthā” or “Psalms of the Brethren”; 
+- “Therīgāthā” or “Psalms of the Sisters”; 
+- “Jātaka” or “Stories of the Buddha’s Former Births” (in three volumes by P.T.S.);  
+- “Mahā-Niddesa” (niddesa means descriptive exposition);  
+- “Cūḷa-Niddesa” (cūḷa or culla means small);3  
+- “Paṭisambhidāmagga” or “The Path of Discrimination”; 
+- “Apadāna” (life histories);4  
+- “Buddhavaṃsa” or “Chronicle of the Buddhas” (in “Minor Anthologies III”); 
+- “Cariyāpiṭaka” or “Basket of Conduct” (in “Minor Anthologies III”). 
 
 The commentaries to these collections of the “Khuddaka Nikāya” are the
 following:
