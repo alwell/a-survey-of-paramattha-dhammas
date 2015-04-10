@@ -13,7 +13,7 @@
    * [General Introduction](general_introduction.md)
    * [Citta Knows an Object](citta_knows_an_object.md)
    * [A Process of Citta](a_process_of_citta.md)
-   * Functions of Citta
+   * [Functions of Citta](functions_of_citta.md)
    * The Duration of Different Processes
    * The Nature of Javana-Citta
    * The Ephemeral Experience of Objects
