@@ -14,7 +14,7 @@
    * [Citta Knows an Object](citta_knows_an_object.md)
    * [A Process of Citta](a_process_of_citta.md)
    * [Functions of Citta](functions_of_citta.md)
-   * The Duration of Different Processes
+   * [The Duration of Different Processes](the_duration_of_different_processes.md)
    * The Nature of Javana-Citta
    * The Ephemeral Experience of Objects
    * The Cycle of Birth and Death
