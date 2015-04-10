@@ -95,20 +95,16 @@ five-sense-door process, they are the following seven types:
 3. The third vīthi-citta is the receiving-consciousness,
  sampaṭicchana-citta, that receives the object from the preceding
  citta, one of the sense-cognitions, after this has fallen away. 
-
 4. The fourth vīthi-citta is the investigating-consciousness,
  santīraṇa-citta, which examines and considers the object. 
-
 5. The fifth vīthi-citta is the determining-consciousness,
  votthapana-citta, which performs the function of determining whether
  it will be succeeded by kusala citta, akusala citta or kiriyacitta
  (in the case of the arahat). 
-
 6. The sixth type of vīthi-citta is the javana vīthi-citta of which
  there are usually seven types in succession. Javana can be
  translated as impulsion or “running.” It goes quickly through the
  object with kusala citta, akusala citta or kiriyacitta. 
-
 7. The seventh type of vīthi-citta is the tadārammaṇa vīthi-citta
  (tadārammaṇa means: “that object”) or tadālambana vīthi-citta
  (ālambana means delaying, hanging on). This citta is called in
@@ -125,36 +121,22 @@ that is rūpa, lasting as long as seventeen moments of citta:
 - When a rūpa arises and impinges on a sense-base, the first moment
  of citta that arises and falls away is the bhavanga-citta that is
  called past bhavanga, atīta-bhavanga. 
-
 - The vibrating bhavanga, bhavanga calana, is the second moment of
  citta. 
-
 - The arrest bhavanga, bhavangupaccheda, is the third moment of
  citta. 
-
 - The five-sense-door adverting-consciousness is the fourth moment
  of citta. 
-
-- One of the sense-cognitions is the fifth moment of citta. 
-
-- The receiving-consciousness is the sixth moment of citta. 
-
+- One of the sense-cognitions is the fifth moment of citta.
+- The receiving-consciousness is the sixth moment of citta.
 - The investigating-consciousness is the seventh moment of citta. 
-
 - The determining-consciousness is the eighth moment of citta. 
-
 - The first javana-citta is the ninth moment of citta. 
-
 - The second javana-citta is the tenth moment of citta. 
-
 - The third javana-citta is the eleventh moment of citta. 
-
 - The fourth javana-citta is the twelfth moment of citta. 
-
-- The fifth javana-citta is the thirteenth moment of citta. 
-
-- The sixth javana-citta is the fourteenth moment of citta. 
-
+- The fifth javana-citta is the thirteenth moment of citta.
+- The sixth javana-citta is the fourteenth moment of citta.
 - The seventh javana-citta is the fifteenth moment of citta. 
 
 
