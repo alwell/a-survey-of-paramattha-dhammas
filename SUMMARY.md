@@ -9,7 +9,7 @@
    * [Exposition of Paramattha Dhammas II (Rūpa)](exposition_of_paramattha_dhammas_ii_rupa.md)
    * [Exposition of Paramattha Dhammas III (Nibbāna)](exposition_of_paramattha_dhammas_iii_nibbana.md)
    * [Different Aspects of the Four Paramattha Dhammas](different_aspects_of_the_four_paramattha_dhammas.md)
-* Part II Citta
+* [Part II Citta](part_ii_citta.md)
    * General Introduction 52
    * Chapter 8 Citta Knows an Object 69
    * Chapter 9 A Process of Citta 77
