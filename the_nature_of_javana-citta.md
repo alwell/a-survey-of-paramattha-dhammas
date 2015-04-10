@@ -1,4 +1,4 @@
-# The Nature of Javana-Citta
+## The Nature of Javana-Citta
 
 
 The arising and falling away of bhavanga-cittas and of
