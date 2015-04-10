@@ -11,7 +11,7 @@
    * [Different Aspects of the Four Paramattha Dhammas](different_aspects_of_the_four_paramattha_dhammas.md)
 * [Part II Citta](part_ii_citta.md)
    * [General Introduction 52](general_introduction_52.md)
-   * Chapter 8 Citta Knows an Object 69
+   * [Chapter 8 Citta Knows an Object 69](citta_knows_an_object_69.md)
    * Chapter 9 A Process of Citta 77
    * Chapter 10 Functions of Citta 89
    * Chapter 11 The Duration of Different Processes 101
