@@ -12,40 +12,40 @@
 * [Part II Citta](part_ii_citta.md)
    * [General Introduction](general_introduction.md)
    * [Citta Knows an Object](citta_knows_an_object.md)
-   * Chapter 9 A Process of Citta 77
-   * Chapter 10 Functions of Citta 89
-   * Chapter 11 The Duration of Different Processes 101
-   * Chapter 12 The Nature of Javana-Citta 115
-   * Chapter 13 The Ephemeral Experience of Objects 124
-   * Chapter 14 The Cycle of Birth and Death 141
-   * Chapter 15 The Nature of Vipāka 155
-   * Chapter 16 Citta and Cetasika 163
-   * Chapter 17 Cittas of the Sense-Sphere 170
-   * Chapter 18 Planes of Existence 178
-   * Chapter 19 Feelings 193
-   * Chapter 20 Associated Dhammas 205
-   * Chapter 21 Roots 219
-   * Chapter 22 Sobhana and Asobhana 229
-   * Chapter 23 The World 239
-   * Chapter 24 The Variegated Nature of Citta 256
+   * A Process of Citta
+   * Functions of Citta
+   * The Duration of Different Processes
+   * The Nature of Javana-Citta
+   * The Ephemeral Experience of Objects
+   * The Cycle of Birth and Death
+   * The Nature of Vipāka
+   * Citta and Cetasika
+   * Cittas of the Sense-Sphere
+   * Planes of Existence
+   * Feelings
+   * Associated Dhammas
+   * Roots
+   * Sobhana and Asobhana
+   * The World
+   * The Variegated Nature of Citta
 * Part III Concepts
-   * Chapter 25 Concepts (I) 268
-   * Chapter 26 Concepts (II) 284
-   * Chapter 27 Concepts (III) 298
+   * Concepts (I)
+   * Concepts (II)
+   * Concepts (III)
 * Part IV The Development of Samatha
-   * Chapter 28 Development of Samatha 312
+   * Development of Samatha
 * Part V The Development of Insight
-   * Chapter 29 The Factors Leading to Enlightenment 336
-   * Chapter 30 The Stages of Vipassanā 349
-   * Chapter 31 Different Kinds of Purity 364
-   * Chapter 32 The Three Kinds of Full Understanding 370
-   * Chapter 33 The Three Attainments 375
+   * The Factors Leading to Enlightenment
+   * The Stages of Vipassanā
+   * Different Kinds of Purity
+   * The Three Kinds of Full Understanding
+   * The Three Attainments
 * Part VI Dialogue on Vipassana
-   * Chapter 34 The Natural Way of Development 379
-   * Chapter 35 The Characteristic of Dukkha 393
-   * Chapter 36 The Meaning of Anattā 407
+   * The Natural Way of Development
+   * The Characteristic of Dukkha
+   * The Meaning of Anattā
 * Appendices
-   * Appendix I: Citta 425
-   * Appendix II: Cetasika 452
-   * Appendix III: Rūpa 474
+   * Appendix I: Citta
+   * Appendix II: Cetasika
+   * Appendix III: Rūpa
 
