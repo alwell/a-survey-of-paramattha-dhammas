@@ -10,8 +10,8 @@
    * [Exposition of Paramattha Dhammas III (Nibbāna)](exposition_of_paramattha_dhammas_iii_nibbana.md)
    * [Different Aspects of the Four Paramattha Dhammas](different_aspects_of_the_four_paramattha_dhammas.md)
 * [Part II Citta](part_ii_citta.md)
-   * [General Introduction](general_introduction_52.md)
-   * [Citta Knows an Object](citta_knows_an_object_69.md)
+   * [General Introduction](general_introduction.md)
+   * [Citta Knows an Object](citta_knows_an_object.md)
    * Chapter 9 A Process of Citta 77
    * Chapter 10 Functions of Citta 89
    * Chapter 11 The Duration of Different Processes 101
