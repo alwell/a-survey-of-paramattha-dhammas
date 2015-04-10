@@ -1,13 +1,11 @@
-# A Process of Citta
-
-A Process of Citta
+## A Process of Citta
 
 
 
 As we read in the “Atthasālinī” (I, Book I, Part II, §
 63) about citta:
 
-“...Or, inasmuch as this word citta is common to all states or classes
+>  “...Or, inasmuch as this word citta is common to all states or classes
 of citta, that which is known as mundane: kusala, akusala or
 mahā-kiriya, is termed ‘citta’, because it arranges itself (cināti) in
 its own series or continuity by way of javana (impulsion), in a process
@@ -72,7 +70,7 @@ they are three:
 To repeat the “Atthasālinī” about the second aspect of
 citta:
 
-“...Or, inasmuch as this word ‘citta’ is common to all states or classes
+> “...Or, inasmuch as this word ‘citta’ is common to all states or classes
 of citta, that which is known as mundane: kusala, akusala or
 mahā-kiriya, is termed citta, because it arranges itself (cināti) in its
 own series or continuity, by way of javana, in a process of citta.”
@@ -247,7 +245,7 @@ generosity, dāna.
 Repeating again the “Atthasālinī” with regard to the
 second aspect of citta:
 
-“...that which is known as mundane: kusala, akusala and mahā-kiriya, is
+> “...that which is known as mundane: kusala, akusala and mahā-kiriya, is
 termed citta, because it arranges itself in its own series or
 continuity, by way of javana, in a process of citta.”
 
