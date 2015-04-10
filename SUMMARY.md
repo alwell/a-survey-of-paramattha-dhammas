@@ -12,7 +12,7 @@
 * [Part II Citta](part_ii_citta.md)
    * [General Introduction](general_introduction.md)
    * [Citta Knows an Object](citta_knows_an_object.md)
-   * A Process of Citta
+   * [A Process of Citta](a_process_of_citta.md)
    * Functions of Citta
    * The Duration of Different Processes
    * The Nature of Javana-Citta
