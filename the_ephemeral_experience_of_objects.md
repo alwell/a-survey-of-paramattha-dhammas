@@ -5,12 +5,9 @@ There are eighty-nine types of citta in all and these
 can be classified by way of four jātis (jāti being nature of citta):
 
     - Kusala: 21 types of citta
-
     - Akusala: 12 types of citta
-
-    - Vipāka: types of citta
-
-    - Kiriya: types of citta
+    - Vipāka: 36 types of citta
+    - Kiriya: 20 types of citta
 
 
 When we study the classification of citta by way of
