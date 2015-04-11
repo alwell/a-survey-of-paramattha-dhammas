@@ -16,7 +16,7 @@
    * [Functions of Citta](functions_of_citta.md)
    * [The Duration of Different Processes](the_duration_of_different_processes.md)
    * [The Nature of Javana-Citta](the_nature_of_javana-citta.md)
-   * The Ephemeral Experience of Objects
+   * [The Ephemeral Experience of Objects](the_ephemeral_experience_of_objects.md)
    * The Cycle of Birth and Death
    * The Nature of Vipāka
    * Citta and Cetasika
