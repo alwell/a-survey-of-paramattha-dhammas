@@ -27,9 +27,7 @@ vīthi-citta, citta arising in a process, it will be clearer what the
 cycle of birth and death is. We are born and we revolve in a threefold
 cycle: the cycle of defilement, the cycle of kamma and the cycle of
 vipāka. This threefold cycle is summarized in the third aspect of citta,
-citta as vipāka, conditioned by
-
-accumulated kamma and defilements. 
+citta as vipāka, conditioned by accumulated kamma and defilements. 
 
 Kusala dhammas and akusala dhammas that arise at the
 moment of javana-citta fall away again, but they are not lost, they are
