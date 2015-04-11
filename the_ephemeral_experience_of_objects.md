@@ -375,7 +375,7 @@ There are fourteen different functions of citta in all:
    5 cittas 
     - arūpāvacara vipākacittas (results of arūpa jhāna)[144](#ftn144) 
    4 cittas 
-
+   
 2. The function of life-continuum, bhavanga, the preservation of
  continuity in a lifespan. The cittas that perform the function of
  bhavanga are also nineteen types of vipākacittas. Whatever type of
@@ -510,7 +510,7 @@ accompanied by indifferent feeling that is akusala vipāka
 accompanied by indifferent feeling that is kusala vipāka 
 1 citta
 
-- kāmāvacara sahetuka kusala vipākacittas (mahā-vipāka)      
+- kāmāvacara sahetuka kusala vipākacittas (mahā-vipāka) 
   8 cittas 
 
 
@@ -608,4 +608,4 @@ their own proper function.
 
 9. Of which jātis are the cittas of the arahat? 
 
-10. .Of which jātis are the cittas of the non-arahat? 
+10. Of which jātis are the cittas of the non-arahat? 
