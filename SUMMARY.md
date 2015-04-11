@@ -17,7 +17,7 @@
    * [The Duration of Different Processes](the_duration_of_different_processes.md)
    * [The Nature of Javana-Citta](the_nature_of_javana-citta.md)
    * [The Ephemeral Experience of Objects](the_ephemeral_experience_of_objects.md)
-   * The Cycle of Birth and Death
+   * [The Cycle of Birth and Death](the_cycle_of_birth_and_death.md)
    * The Nature of Vipāka
    * Citta and Cetasika
    * Cittas of the Sense-Sphere
