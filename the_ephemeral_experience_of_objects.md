@@ -369,7 +369,6 @@ There are fourteen different functions of citta in all:
  function of dying, cuti, of the previous life. The cittas that
  perform the function of rebirth are nineteen types[143](#ftn143) of
  vipākacittas:
-
     - kāmāvacara vipākacittas (results of the sense sphere)     10
  cittas 
     - rūpāvacara vipākacittas (results of rūpa jhāna) 
@@ -395,59 +394,51 @@ There are fourteen different functions of citta in all:
  the first vīthi-citta that arises in a process and experiences an
  object through one of the six doorways. There are two types of
  kiriyacitta that perform the function of adverting: 
-
     - the five-sense-door adverting-consciousness,
  pañca-dvārāvajjana-citta; 
     - the mind-door adverting-consciousness, mano-dvārāvajjana-citta. 
 
 4. The function of seeing, dassana kicca. There are two types of
  vipākacitta that perform the function of seeing: 
-
-- seeing-consciousness that is akusala vipākacitta; 
-- seeing-consciousness that is kusala vipākacitta. 
+    - seeing-consciousness that is akusala vipākacitta; 
+    - seeing-consciousness that is kusala vipākacitta. 
 
 5. The function of hearing, savana kicca. There are two types of
  vipākacitta that perform the function of hearing: 
-
-- hearing-consciousness that is akusala vipākacitta; 
-- hearing-consciousness that is kusala vipākacitta. 
+    - hearing-consciousness that is akusala vipākacitta; 
+    - hearing-consciousness that is kusala vipākacitta. 
 
 6. The function of smelling, ghāyana kicca. There are twotypes of
  vipākacitta that perform the function of smelling: 
-
     - smelling-consciousness that is akusala vipākacitta; 
     - smelling-consciousness that is kusala vipākacitta. 
 
 7. The function of tasting, sāyana kicca. There are two types of
  vipākacitta that perform the function of tasting: 
-
     - tasting-consciousness that is akusala vipākacitta; 
     - tasting-consciousness that is kusala vipākacitta. 
 
 8. The function of experiencing tangible object through the
  bodysense, phusana kicca. There are two types of vipākacitta that
  perform this function: 
-
     - body-consciousness that is akusala vipākacitta; 
     - body-consciousness that is kusala vipākacitta. 
 
 9. The function of receiving, sampaṭicchana kicca, which is the
  receiving of the object after one of the sense-cognitions has fallen
  away. There are two types of citta that perform this function: 
-
-- receiving-consciousness that is akusala vipākacitta; 
-- receiving-consciousness that is kusala vipākacitta. 
+    - receiving-consciousness that is akusala vipākacitta; 
+    - receiving-consciousness that is kusala vipākacitta. 
 
 10. The function of investigation, santīraṇa kicca, which is the
  investigation of the object that appears through one of the five
  sense-doors. There are three types of citta that perform this
  function: 
-
-- investigation-consciousness accompanied by indifferent feeling
+    - investigation-consciousness accompanied by indifferent feeling
  (upekkhā) that is akusala vipākacitta; 
-- investigation-consciousness accompanied by indifferent feeling
+    - investigation-consciousness accompanied by indifferent feeling
  that is kusala vipākacitta; 
-- investigation-consciousness accompanied by pleasant feeling
+    - investigation-consciousness accompanied by pleasant feeling
  (somanassa) that is kusala vipākacitta. 
 
 11. The function of determination, votthapana kicca, which is the
@@ -459,7 +450,6 @@ There are fourteen different functions of citta in all:
 12. The function of javana, javana kicca, which is “running through
  the object” or partaking of the object. There are fifty-five types
  of citta that can perform the function of javana: 
-
     - akusala cittas 
    12 cittas[145](#ftn145) 
     - ahetuka kiriyacitta (hasituppada citta of the
@@ -483,7 +473,6 @@ There are fourteen different functions of citta in all:
  which is the function of knowing the object after the javana-cittas
  have fallen away. There are eleven types of vipākacittas that can
  perform this function: 
-
     - investigation-consciousness, santīraṇa-citta  
       3 cittas 
     - kāmāvacara sahetuka kusala vipākacitta 
