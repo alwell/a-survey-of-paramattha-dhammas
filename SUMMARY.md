@@ -19,7 +19,7 @@
    * [The Ephemeral Experience of Objects](the_ephemeral_experience_of_objects.md)
    * [The Cycle of Birth and Death](the_cycle_of_birth_and_death.md)
    * [The Nature of Vipāka](the_nature_of_vipaka.md)
-   * Citta and Cetasika
+   * [Citta and Cetasika](citta_and_cetasika.md)
    * Cittas of the Sense-Sphere
    * Planes of Existence
    * Feelings
