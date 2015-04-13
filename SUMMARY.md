@@ -23,7 +23,7 @@
    * [Cittas of the Sense-Sphere](cittas_of_the_sense-sphere.md)
    * [Planes of Existence](planes_of_existence.md)
    * [Feelings](feelings.md)
-   * Associated Dhammas
+   * [Associated Dhammas](associated_dhammas.md)
    * Roots
    * Sobhana and Asobhana
    * The World
