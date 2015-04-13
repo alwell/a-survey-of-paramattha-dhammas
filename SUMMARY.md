@@ -20,7 +20,7 @@
    * [The Cycle of Birth and Death](the_cycle_of_birth_and_death.md)
    * [The Nature of Vipāka](the_nature_of_vipaka.md)
    * [Citta and Cetasika](citta_and_cetasika.md)
-   * Cittas of the Sense-Sphere
+   * [Cittas of the Sense-Sphere](cittas_of_the_sense-sphere.md)
    * Planes of Existence
    * Feelings
    * Associated Dhammas
