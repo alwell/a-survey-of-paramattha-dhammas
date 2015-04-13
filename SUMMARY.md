@@ -22,7 +22,7 @@
    * [Citta and Cetasika](citta_and_cetasika.md)
    * [Cittas of the Sense-Sphere](cittas_of_the_sense-sphere.md)
    * [Planes of Existence](planes_of_existence.md)
-   * Feelings
+   * [Feelings](feelings.md)
    * Associated Dhammas
    * Roots
    * Sobhana and Asobhana
