@@ -24,7 +24,7 @@
    * [Planes of Existence](planes_of_existence.md)
    * [Feelings](feelings.md)
    * [Associated Dhammas](associated_dhammas.md)
-   * Roots
+   * [Roots](roots.md)
    * Sobhana and Asobhana
    * The World
    * The Variegated Nature of Citta
