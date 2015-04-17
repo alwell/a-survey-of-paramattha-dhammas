@@ -26,7 +26,7 @@
    * [Associated Dhammas](associated_dhammas.md)
    * [Roots](roots.md)
    * [Sobhana and Asobhana](sobhana_and_asobhana.md)
-   * The World
+   * [The World](the_world.md)
    * The Variegated Nature of Citta
 * Part III Concepts
    * Concepts (I)
