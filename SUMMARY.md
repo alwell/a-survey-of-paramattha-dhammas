@@ -27,7 +27,7 @@
    * [Roots](roots.md)
    * [Sobhana and Asobhana](sobhana_and_asobhana.md)
    * [The World](the_world.md)
-   * The Variegated Nature of Citta
+   * [The Variegated Nature of Citta](the_variegated_nature_of_citta.md)
 * Part III Concepts
    * Concepts (I)
    * Concepts (II)
