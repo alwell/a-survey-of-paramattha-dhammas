@@ -29,7 +29,7 @@
    * [The World](the_world.md)
    * [The Variegated Nature of Citta](the_variegated_nature_of_citta.md)
 * [Part III Concepts](part_iii_concepts.md)
-   * Concepts (I)
+   * [Concepts (I)](concepts_i.md)
    * Concepts (II)
    * Concepts (III)
 * Part IV The Development of Samatha
