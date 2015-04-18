@@ -31,7 +31,7 @@
 * [Part III Concepts](part_iii_concepts.md)
    * [Concepts (I)](concepts_i.md)
    * [Concepts (II)](concepts_ii.md)
-   * Concepts (III)
+   * [Concepts (III)](concepts_iii.md)
 * Part IV The Development of Samatha
    * Development of Samatha
 * Part V The Development of Insight
