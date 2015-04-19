@@ -33,7 +33,7 @@
    * [Concepts (II)](concepts_ii.md)
    * [Concepts (III)](concepts_iii.md)
 * [Part IV The Development of Samatha](part_iv_the_development_of_samatha.md)
-   * Development of Samatha
+   * [Development of Samatha](development_of_samatha.md)
 * Part V The Development of Insight
    * The Factors Leading to Enlightenment
    * The Stages of Vipassanā
