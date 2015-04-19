@@ -46,6 +46,6 @@
    * [The Meaning of Anattā](the_meaning_of_anatta.md)
 * [Appendices](appendices.md)
    * [Appendix I: Citta](appendix_i_citta.md)
-   * Appendix II: Cetasika
+   * [Appendix II: Cetasika](appendix_ii_cetasika.md)
    * Appendix III: Rūpa
 
