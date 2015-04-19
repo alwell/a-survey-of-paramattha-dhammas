@@ -45,7 +45,7 @@
    * [The Characteristic of Dukkha](the_characteristic_of_dukkha.md)
    * [The Meaning of Anattā](the_meaning_of_anatta.md)
 * [Appendices](appendices.md)
-   * Appendix I: Citta
+   * [Appendix I: Citta](appendix_i_citta.md)
    * Appendix II: Cetasika
    * Appendix III: Rūpa
 
