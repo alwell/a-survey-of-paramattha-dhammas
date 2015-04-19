@@ -39,7 +39,7 @@
    * [The Stages of Vipassanā](the_stages_of_vipassana.md)
    * [Different Kinds of Purity](different_kinds_of_purity.md)
    * [The Three Kinds of Full Understanding](the_three_kinds_of_full_understanding.md)
-   * The Three Attainments
+   * [The Three Attainments](the_three_attainments.md)
 * Part VI Dialogue on Vipassana
    * The Natural Way of Development
    * The Characteristic of Dukkha
