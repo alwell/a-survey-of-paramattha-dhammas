@@ -43,7 +43,7 @@
 * [Part VI Dialogue on Vipassana](part_vi_dialogue_on_vipassana.md)
    * [The Natural Way of Development](the_natural_way_of_development.md)
    * [The Characteristic of Dukkha](the_characteristic_of_dukkha.md)
-   * The Meaning of Anattā
+   * [The Meaning of Anattā](the_meaning_of_anatta.md)
 * Appendices
    * Appendix I: Citta
    * Appendix II: Cetasika
