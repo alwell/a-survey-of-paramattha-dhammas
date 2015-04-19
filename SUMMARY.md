@@ -32,7 +32,7 @@
    * [Concepts (I)](concepts_i.md)
    * [Concepts (II)](concepts_ii.md)
    * [Concepts (III)](concepts_iii.md)
-* Part IV The Development of Samatha
+* [Part IV The Development of Samatha](part_iv_the_development_of_samatha.md)
    * Development of Samatha
 * Part V The Development of Insight
    * The Factors Leading to Enlightenment
