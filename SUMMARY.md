@@ -44,7 +44,7 @@
    * [The Natural Way of Development](the_natural_way_of_development.md)
    * [The Characteristic of Dukkha](the_characteristic_of_dukkha.md)
    * [The Meaning of Anattā](the_meaning_of_anatta.md)
-* Appendices
+* [Appendices](appendices.md)
    * Appendix I: Citta
    * Appendix II: Cetasika
    * Appendix III: Rūpa
