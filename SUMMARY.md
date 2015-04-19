@@ -47,6 +47,6 @@
 * [Appendices](appendices.md)
    * [Appendix I: Citta](appendix_i_citta.md)
    * [Appendix II: Cetasika](appendix_ii_cetasika.md)
-   * Appendix III: Rūpa
+   * [Appendix III: Rūpa](appendix_iii_rupa.md)
    * Questions With Regard to the Appendices
 
