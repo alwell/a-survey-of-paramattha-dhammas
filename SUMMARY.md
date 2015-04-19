@@ -35,7 +35,7 @@
 * [Part IV The Development of Samatha](part_iv_the_development_of_samatha.md)
    * [Development of Samatha](development_of_samatha.md)
 * [Part V The Development of Insight](part_v_the_development_of_insight.md)
-   * The Factors Leading to Enlightenment
+   * [The Factors Leading to Enlightenment](the_factors_leading_to_enlightenment.md)
    * The Stages of Vipassanā
    * Different Kinds of Purity
    * The Three Kinds of Full Understanding
