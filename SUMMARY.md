@@ -37,7 +37,7 @@
 * [Part V The Development of Insight](part_v_the_development_of_insight.md)
    * [The Factors Leading to Enlightenment](the_factors_leading_to_enlightenment.md)
    * [The Stages of Vipassanā](the_stages_of_vipassana.md)
-   * Different Kinds of Purity
+   * [Different Kinds of Purity](different_kinds_of_purity.md)
    * The Three Kinds of Full Understanding
    * The Three Attainments
 * Part VI Dialogue on Vipassana
