@@ -42,7 +42,7 @@
    * [The Three Attainments](the_three_attainments.md)
 * [Part VI Dialogue on Vipassana](part_vi_dialogue_on_vipassana.md)
    * [The Natural Way of Development](the_natural_way_of_development.md)
-   * The Characteristic of Dukkha
+   * [The Characteristic of Dukkha](the_characteristic_of_dukkha.md)
    * The Meaning of Anattā
 * Appendices
    * Appendix I: Citta
