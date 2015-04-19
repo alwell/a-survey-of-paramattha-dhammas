@@ -34,7 +34,7 @@
    * [Concepts (III)](concepts_iii.md)
 * [Part IV The Development of Samatha](part_iv_the_development_of_samatha.md)
    * [Development of Samatha](development_of_samatha.md)
-* Part V The Development of Insight
+* [Part V The Development of Insight](part_v_the_development_of_insight.md)
    * The Factors Leading to Enlightenment
    * The Stages of Vipassanā
    * Different Kinds of Purity
