@@ -49,4 +49,5 @@
    * [Appendix II: Cetasika](appendix_ii_cetasika.md)
    * [Appendix III: Rūpa](appendix_iii_rupa.md)
    * Questions With Regard to the Appendices
+   * Footnotes
 
