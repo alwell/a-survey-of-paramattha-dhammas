@@ -40,7 +40,7 @@
    * [Different Kinds of Purity](different_kinds_of_purity.md)
    * [The Three Kinds of Full Understanding](the_three_kinds_of_full_understanding.md)
    * [The Three Attainments](the_three_attainments.md)
-* Part VI Dialogue on Vipassana
+* [Part VI Dialogue on Vipassana](part_vi_dialogue_on_vipassana.md)
    * The Natural Way of Development
    * The Characteristic of Dukkha
    * The Meaning of Anattā
