@@ -1,7 +1,7 @@
 # Preface
 
 “A Survey of Paramattha Dhammas” is a masterwork, written by
-Acharn [^1](#sdfootnote1sym) Sujin Boriharnwanaket with great patience
+Acharn [^1] Sujin Boriharnwanaket with great patience
 and a sense of urgency to help others understand reality. The whole
 book, in which she explains with great detail citta (consciousness),
 cetasika (mental factors), and rūpa (physical phenomena), radiates
