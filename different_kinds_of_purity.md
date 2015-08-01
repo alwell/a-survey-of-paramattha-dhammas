@@ -29,11 +29,11 @@ visuddhi, because there was never before such clear realization of the
 different characteristics of nāma and rūpa as non-self.
 
 The fourth purity is purity by overcoming doubt,
-kaṅkhāvitaraṇa visuddhi.[305](#ftn305) 
+kaṅkhāvitaraṇa visuddhi.[^305] 
 
 When purity of view has arisen, paññā developed through
 satipaṭṭhāna sees the characteristics of dhammas as they really
-are.[306](#ftn306) Paññā sees realities as they are while sati is aware
+are.[^306] Paññā sees realities as they are while sati is aware
 of the characteristics of realities as they appear through the eyes, the
 ears, the nose, the tongue, the body-sense and the mind-door. In that
 way, paññā becomes accomplished to the degree that the second stage of
@@ -45,7 +45,7 @@ overcoming doubt.
 
 The fifth purity is purity by knowledge and vision of
 what is the path and what is not the path, maggāmagga-ñāṇadassana
-visuddhi.[307](#ftn307)
+visuddhi.[^307]
 
 When purity by overcoming doubt has arisen, paññā
 becomes more accomplished through satipaṭṭhāna, which is aware of the
@@ -86,7 +86,7 @@ As to the first imperfection arising on account of
 illumination, this can occur when the fourth stage of insight, Knowledge
 of the arising and falling away of nāma and rūpa, has fallen away. The
 citta may have reached such a degree of calm that it conditions the
-arising of illumination.[308](#ftn308) When attachment to this arises,
+arising of illumination.[^308] When attachment to this arises,
 it is an imperfection of insight. This imperfection causes the
 interruption of the development of insight. One does not investigate the
 arising and falling away of realities anymore and does not attend to
@@ -140,10 +140,10 @@ what is the path and what is not the path,
 maggāmagga-ñāṇadassana-visuddhi. Then there can be insight knowledge of
 the fourth stage, Knowledge of the arising and falling away of nāma and
 rūpa, while the person who develops insight is now free from the
-imperfections of insight.[309](#ftn309) 
+imperfections of insight.[^309] 
 
 The sixth purity is purity by knowledge and vision of
-the path, paṭipadā-ñāṇadassana-visuddhi.[310](#ftn310)
+the path, paṭipadā-ñāṇadassana-visuddhi.[^310]
 
 When the imperfections of insight have been overcome,
 paññā becomes more accomplished as the development of satipaṭṭhāna
@@ -156,7 +156,7 @@ are the three moments of citta arising in the magga-vīthi: parikamma or
 preparatory citta, upacāra or access and anuloma or adaptation. 
 
 The seventh purity is purity by knowledge and vision,
-ñāṇadassana-visuddhi.[311](#ftn311)
+ñāṇadassana-visuddhi.[^311]
 
 When the three moments of Adaptation knowledge have
 fallen away, Change-of-lineage knowledge, gotrabhū ñāṇa, arises. It has

@@ -39,11 +39,11 @@ where in the scriptures he can find explanations about processes of
 citta. Acharn Sujin has a profound understanding of the whole Tipiṭaka,
 the Commentaries and sub-commentaries, and she used these texts as her
 sources. The “Path of Discrimination” (“Paṭisambhidāmagga” of the
-Khuddaka Nikāya)[^2](#sdfootnote2sym) and the “Conditional Relations”
-(“Paṭṭhāna”)[^3](#sdfootnote3sym) deal with the processes of cittas.
+Khuddaka Nikāya)[^2] and the “Conditional Relations”
+(“Paṭṭhāna”)[^3] deal with the processes of cittas.
 Many details have been given in the
-“Visuddhimagga”,[^4](#sdfootnote4sym) and the “Expositor”
-(“Aṭṭhasālinī”)[^5](#sdfootnote5sym), which are entirely based on
+“Visuddhimagga”,[^4] and the “Expositor”
+(“Aṭṭhasālinī”)[^5], which are entirely based on
 canonical tradition. Also, the “Manual of Abhidhamma” (“Abhidhammattha
 Saṅgaha”) and the sub-commentary, the “Abhidhammattha-vibhāvinī-ṭīka”,
 which are also derived from canonical tradition, deal with the processes
@@ -68,7 +68,7 @@ necessary for the attainment of jhāna and how difficult this is.
 In the development of vipassanā, insight, paññā is developed in stages.
 The book explains about these different stages of insight knowledge in
 detail, in order to show that the development of paññā is an extremely
-long process.[^6](#sdfootnote6sym) One may read the “Visuddhimagga” (Ch
+long process.[^6] One may read the “Visuddhimagga” (Ch
 XVIII-XXI) or the “Path of Discrimination” (Treatise on Knowledge, Ch
 V-XI) about the stages of insight with wrong understanding. Or, one may
 erroneously believe that these stages are reached by thinking of nāma,
@@ -84,7 +84,7 @@ Tipiṭaka.
 With my deepest appreciation of Acharn Sujin’s inspiring guidance, I
 offer the translation of this book to the English speaking reader.
 
-The part of this book on Concepts[^7](#sdfootnote7sym) has been printed
+The part of this book on Concepts[^7] has been printed
 separately under the sponsorship of Robert Kirkpatrick, whose efforts I
 greatly appreciate.
 

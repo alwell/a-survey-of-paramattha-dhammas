@@ -112,7 +112,7 @@ a friend. When we think of an enemy we may be afraid, and we do not like
 his company. However, it is akusala citta that is wicked, it is a
 condition for creating an enemy in the future. Whereas, kusala citta,
 which is like a dear relative or friend, is a condition for a dear
-relative or friend to come in the future.[117](#ftn117)
+relative or friend to come in the future.[^117]
 
 Rūpa is not a condition for foe or friend, because rūpa
 does not know anything, it has no evil or good intentions. The sound
@@ -154,7 +154,7 @@ Thus, the five-sense-door adverting-consciousness is the
 first vīthi-citta in a sense-door process and it adverts to the object
 through one of the five sense-doors. Therefore, it is called
 five-sense-door adverting-consciousness,
-pañca-dvārāvajjana-citta,[118](#ftn118) and is named after the
+pañca-dvārāvajjana-citta,[^118] and is named after the
 corresponding doorway, as the case may be. When it adverts to visible
 object through the eye-door, it is called eye-door
 adverting-consciousness, cakkhu-dvārāvajjana-citta. In the same way, the
@@ -199,7 +199,7 @@ arise which again experience the same object as the vīthi-cittas of the
 preceding sense-door process. They experience this object through the
 mind-door, which is the citta preceding the mind-door
 adverting-consciousness, the bhavangupaccheda, arrest
-bhavanga.[119](#ftn119) 
+bhavanga.[^119] 
 
 When we are fast sleep, we do not experience any object
 through one of the six doors. The five-sense-door
@@ -250,7 +250,7 @@ are different types of kusala cittas, of akusala cittas and of
 mahā-kiriyacittas, and when the series of javana cittas occurs, these
 cittas are all of the same type of kusala citta, of akusala citta or of
 mahā-kiriyacitta. They perform the function of javana,
-impulsion,[120](#ftn120) “running through” the object. As has been
+impulsion,[^120] “running through” the object. As has been
 stated, this type of citta “arranges itself in its own series or
 continuity by way of javana.” 
 
@@ -321,7 +321,7 @@ arises.
 
 The “Atthasālinī” states (I, Book I, Part I, Ch I,
 Triplets in the Mātikā, 44) that akusala dhamma as well as kusala dhamma
-that are not of the Eightfold Path,[121](#ftn121) are leading to
+that are not of the Eightfold Path,[^121] are leading to
 accumulation, to the continuation of the cycle of birth and death. We
 read about akusala and kusala that are not of the Path:
 
@@ -335,7 +335,7 @@ no matter whether akusala dhamma or kusala dhamma presents itself, we
 accumulate and build up life after life, just like the bricklayer who
 piles up bricks one by one until they become a wall. However, when sati
 is aware of the characteristics of realities that appear as they really
-are, this is the Path, it is dispersion (apācayagāmin)[122](#ftn122),
+are, this is the Path, it is dispersion (apācayagāmin)[^122],
 because then one does not build up dhammas that lead to accumulation,
 just as a man tears down the bricks that the bricklayer has piled up.
 Are we at this moment like the man who knocks down the bricks, or are we
@@ -350,7 +350,7 @@ determining-consciousness. These do not arise in their own series,
 because there is only one citta of each type that arises and then falls
 away. Even though the determining-consciousness, votthapana-citta, can
 arise two or three times when the rūpa that is the object falls away
-before the javana-citta arises,[123](#ftn123) it cannot be said that the
+before the javana-citta arises,[^123] it cannot be said that the
 votthapana-citta arises in its own series, like the javana-cittas.
 
 It is only the sixth type of vīthi-citta, the

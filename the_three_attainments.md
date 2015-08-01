@@ -1,6 +1,6 @@
 ## The Three Attainments
 
-There are three attainments or samāpattis:[319](#ftn319)
+There are three attainments or samāpattis:[^319]
 
 - attainment of jhāna, jhāna-samāpatti, 
 - fruition attainment, phala-samāpatti, 
@@ -9,7 +9,7 @@ There are three attainments or samāpattis:[319](#ftn319)
 An ordinary person who is not an ariyan may attain jhāna
 and acquire the skills, vasīs, in jhāna, such as attaining jhāna and
 emerging from it in the order of the successive stages of jhāna. Someone
-who is proficient in jhāna[320](#ftn320) can
+who is proficient in jhāna[^320] can
 
 have jhāna-samāpatti, that is, jhānacittas arising in succession in a
 mind-door process without bhavanga-cittas in between, for a period
@@ -45,7 +45,7 @@ as that person has determined.
 
 The anāgāmī and the arahat who have attained the fourth
 arūpa-jhāna, the stage of
-neither-perception-nor-non-perception,[321](#ftn321) can attain
+neither-perception-nor-non-perception,[^321] can attain
 cessation, nirodha-samāpatti. This is the attainment of the temporary
 cessation of citta and cetasikas. They do not arise anymore, but this
 stage cannot last longer than seven days. The reason is that food that
@@ -55,7 +55,7 @@ by samatha and by vipassanā. The anāgāmī and the arahat who have not
 attained calm to the degree of the fourth arūpa-jhāna cannot attain
 cessation. Neither can the sotāpanna and the sakadāgāmī attain
 cessation, even if they have reached the fourth stage of
-arūpa-jhāna.[322](#ftn322) 
+arūpa-jhāna.[^322] 
 
 Those who are able to attain cessation should first
 attain successively all the stages of rūpa-jhāna. They should emerge
@@ -94,5 +94,5 @@ this state can last for seven days. When he emerges from cessation, one
 moment of phala-citta arises, to be followed by bhavanga-cittas. The
 attainment of cessation can occur only in the planes where there are
 five khandhas. It cannot occur in the arūpa-brahma planes where
-rūpa-jhānacitta does not arise.[323](#ftn323)
+rūpa-jhānacitta does not arise.[^323]
 

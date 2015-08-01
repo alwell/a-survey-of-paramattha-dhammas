@@ -38,7 +38,7 @@ which for him is wholly perished, wholly finished; little is the dukkha
 that remains, not worth the hundredth part, not worth the thousandth
 part, not worth the hundred thousandth part when measured with the
 former dukkha which for him is wholly perished, wholly finished, to wit,
-a term of seven times.[327](#ftn327) 
+a term of seven times.[^327] 
 
 > So great in good, monks, is it to be wise in the Dhamma; so great a good
 is it to have gained the eye of the Dhamma.’ ”
@@ -114,7 +114,7 @@ Could you explain about this?
 Sujin: There is only one rūpa among the twenty-eight
 rūpas that can be seen, and that is visible object that appears through
 the eyesense. Visible object can be seen and it is among the rūpas that
-impinge or contact (sappaṭigha rūpas)[328](#ftn328). There are other
+impinge or contact (sappaṭigha rūpas)[^328]. There are other
 rūpas that can impinge: the sense objects, apart from visible object,
 which are sound, odour, flavour and tangible object, consisting of
 solidity (appearing as hardness or softness), temperature (appearing as
@@ -122,7 +122,7 @@ heat or cold) and motion (appearing as motion or pressure). Furthermore,
 there are the senses that can be contacted or impinged on, namely,
 eyesense, earsense, smelling-sense, tasting-sense and bodysense. These
 eleven rūpas can impinge or can be impinged on, but they cannot be seen,
-whereas visible object can impinge and can be seen.[329](#ftn329) The
+whereas visible object can impinge and can be seen.[^329] The
 twelve rūpas that can impinge are coarse rūpas. They are also called
 rūpas that are “near”, because they can be investigated and known. 
 
@@ -365,8 +365,8 @@ Ch XIX, §1, Forest-gone) that the Buddha said to the monks:
 folly and blindness; one out of evil desires and longings; one foolish
 and mind-tossed; one at the thought: ‘It is praised by Buddhas and their
 disciples’; and one is forest-gone just because his wants are little,
-just for contentment, just to mark (his own faults),[330](#ftn330) just
-for seclusion, just because it is the very thing.[331](#ftn331) 
+just for contentment, just to mark (his own faults),[^330] just
+for seclusion, just because it is the very thing.[^331] 
 
 > Verily, monks, of these five who have gone to the forest, he who has
 gone just because his wants are little, for contentment, to mark (his

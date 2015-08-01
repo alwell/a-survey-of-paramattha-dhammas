@@ -65,7 +65,7 @@ therefore, you think that there should also be two jātis of cittas that
 are result: kusala vipāka and akusala vipāka. In that case, there would
 be five jātis. However, there are only four jātis, because vipāka is
 mere result, it cannot be called inferior, medium or superior, as is the
-case with kamma.[136](#ftn136) Kusala citta and akusala citta, the
+case with kamma.[^136] Kusala citta and akusala citta, the
 cittas that are cause, have many varieties. They are of different shades
 and degrees, examples of which I shall give below. 
 
@@ -83,7 +83,7 @@ vipassanā.
 
 Kammas are different since they are performed through
 body, speech or mind. They are accompanied by different cetasikas and
-they have different predominant factors.[137](#ftn137) Thus, we see that
+they have different predominant factors.[^137] Thus, we see that
 the realities that are cause, kusala and akusala, are of great
 diversity, that they have many shades and degrees, whereas vipākacittas
 do not have such variety. Vipāka is only result of kamma that has been
@@ -103,7 +103,7 @@ vipāka. Thus, vipākacitta is not cause; it does not produce result. It
 is incapable of performing deeds through body or speech. It cannot be
 accompanied by cetasikas that are the wholesome qualities of compassion,
 sympathetic joy or the three abstinences (virati cetasikas) of right
-speech, right action and right livelihood.[138](#ftn138) 
+speech, right action and right livelihood.[^138] 
 
 Vipākacitta itself is not a dhamma that is inferior,
 medium or superior, but kamma that is inferior, medium or superior
@@ -210,7 +210,7 @@ moments.”
 
 These three moments are the moment of arising (uppāda
 khaṇa), the moment of presence (tiṭṭhi khaṇa) and the moment of falling
-away (bhanga khaṇa)[139](#ftn139).
+away (bhanga khaṇa)[^139].
 
 Citta has only an extremely short duration: it arises,
 it is present and then it falls away immediately. Its arising moment is
@@ -228,19 +228,19 @@ of presence of citta and at the moment of the falling away of citta.
 Rūpa produced by kamma arises at the three moments of citta throughout
 our life. However, it does not arise anymore during the sixteen moments
 of citta before the dying-consciousness; rūpa produced by kamma comes to
-an end when the dying-consciousness falls away.[140](#ftn140) That is
+an end when the dying-consciousness falls away.[^140] That is
 the end of the five khandhas that constitute the life of a particular
 person.
 
 The rūpa that originates from citta (cittaja rūpa)
 arises at the arising moment of citta. The rebirth-consciousness, the
 five pairs of sense-cognitions, the four arūpāvacara
-vipākacittas[141](#ftn141) and the dying-consciousness of the arahat do
+vipākacittas[^141] and the dying-consciousness of the arahat do
 not produce any rūpa. 
 
 The rūpa that originates from temperature (utuja rūpa,
 the Element of Heat that is of the right temperature) arises at the
-moment of presence of the temperature that originates it.[142](#ftn142)
+moment of presence of the temperature that originates it.[^142]
 
 The rūpa that originates from nutrition (ahāraja rūpa)
 arises at the moment of presence of nutritive essence, oja rūpa, present
@@ -364,13 +364,13 @@ There are fourteen different functions of citta in all:
 
 1. The function of rebirth, paṭisandhi, which follows upon the
  function of dying, cuti, of the previous life. The cittas that
- perform the function of rebirth are nineteen types[143](#ftn143) of
+ perform the function of rebirth are nineteen types[^143] of
  vipākacittas:
     - kāmāvacara vipākacittas (results of the sense sphere)     10
  cittas 
     - rūpāvacara vipākacittas (results of rūpa jhāna) 
    5 cittas 
-    - arūpāvacara vipākacittas (results of arūpa jhāna)[144](#ftn144) 
+    - arūpāvacara vipākacittas (results of arūpa jhāna)[^144] 
    4 cittas 
    
 2. The function of life-continuum, bhavanga, the preservation of
@@ -448,10 +448,10 @@ There are fourteen different functions of citta in all:
  the object” or partaking of the object. There are fifty-five types
  of citta that can perform the function of javana: 
     - akusala cittas 
-   12 cittas[145](#ftn145) 
+   12 cittas[^145] 
     - ahetuka kiriyacitta (hasituppada citta of the
- arahat)[146](#ftn146)    1 citta
-    - kāmāvacara kusala cittas (of the sense sphere[147](#ftn147))  
+ arahat)[^146]    1 citta
+    - kāmāvacara kusala cittas (of the sense sphere[^147])  
   8 cittas
     - kāmāvacara kiriyacittas (of the arahat)     
        8 cittas 
@@ -516,7 +516,7 @@ Investigating-consciousness accompanied by indifferent
 feeling, that is akusala vipāka, is the result of akusala kamma and it
 can perform the function of rebirth in four classes of unhappy planes of
 existence: the hell planes, the ghost-realm (of petas), the demon-world
-(asura-kāya) and the animal world.[148](#ftn148)
+(asura-kāya) and the animal world.[^148]
 
 Investigating-consciousness accompanied by indifferent
 feeling that is kusala vipāka, is the result of kusala kamma that is
@@ -532,7 +532,7 @@ The eight types of mahā-vipākacittas can perform the
 function of rebirth in the human plane and in six classes of heavenly
 planes, and their different qualities depend on the strength and the
 degree of excellence of the kusala kammas that condition
-them.[149](#ftn149)
+them.[^149]
 
 The five types of rūpāvacara vipākacittas perform the
 function of rebirth in fifteen rūpa-brahma planes, and the different
@@ -547,7 +547,7 @@ that is the cause of them.
 The eleven kinds of tadālambana-cittas, which perform
 the function of retention or registering and which follow upon the
 javana-cittas, do not arise in the rūpa-brahma planes and the
-arūpa-brahma planes.[150](#ftn150)
+arūpa-brahma planes.[^150]
 
 There are two types of cittas performing five functions,
 which are the function of rebirth, bhavanga, santīraṇa, tadālambana and
@@ -565,9 +565,9 @@ three functions, which are the function of rebirth, of bhavanga and of
 dying. 
 
 There are two types of citta that can perform two
-functions, namely the mind-door adverting-consciousness[151](#ftn151)
+functions, namely the mind-door adverting-consciousness[^151]
 and the investigating-consciousness accompanied by pleasant
-feeling.[152](#ftn152)
+feeling.[^152]
 
 All the other types of cittas perform only one function,
 their own proper function.

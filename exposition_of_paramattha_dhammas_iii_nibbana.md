@@ -3,29 +3,29 @@
 
 Nibbāna paramattha dhamma is another kind of paramattha
 dhamma. The Buddha called it “nibbāna,” because it is the end of “vāna,”
-which means craving.[70](#ftn70) The paramattha dhamma that is nibbāna
+which means craving.[^70] The paramattha dhamma that is nibbāna
 is the cessation of dukkha. Citta, cetasika and rūpa are dukkha, because
 they are impermanent, they arise and then fall away. Desire should be
 eradicated so that there can be an end to dukkha. Desire is the origin,
 the cause of the arising of dukkha. It is the cause of the arising of
-the five khandhas, which are citta, cetasika and rūpa.[71](#ftn71)
+the five khandhas, which are citta, cetasika and rūpa.[^71]
 Desire can be eradicated by developing paññā, wisdom, so that the
 characteristics of the arising and falling away of citta, cetasika and
 rūpa are penetrated. When paññā has been developed to the degree that
 nibbāna can be realized and clearly known, clinging and wrong view with
 regard to citta, cetasika and rūpa can be eradicated. Nibbāna is the
 dhamma that is the cessation of dukkha and the cessation of the
-khandhas.[72](#ftn72) Nibbāna is reality, it is a paramattha dhamma, an
+khandhas.[^72] Nibbāna is reality, it is a paramattha dhamma, an
 ultimate reality and it is a dhamma that can be clearly known. 
 
-Nibbāna paramattha dhamma[73](#ftn73) has been
+Nibbāna paramattha dhamma[^73] has been
 classified as twofold:
 
 - sa-upādisesa nibbāna dhātu, nibbāna with the khandhas remaining;
  
 
 - an-upādisesa nibbāna dhātu, nibbāna without the
- khandhas.[74](#ftn74)
+ khandhas.[^74]
 
 
 
@@ -38,7 +38,7 @@ the final falling away of the five khandhas, not to arise again, that
 is, the parinibbāna, the final passing away, of an arahat. 
 
 Thus, two kinds of nibbāna have been
-proclaimed.[75](#ftn75) 
+proclaimed.[^75] 
 
 When the Buddha attained enlightenment under the
 Bodhi-tree, he attained nibbāna with the khandhas remaining,
@@ -63,7 +63,7 @@ element of nibbāna with the basis still remaining.”
 
  An-upādisesa nibbāna is nibbāna without the khandhas
 remaining. When the Buddha, between the twin Sal trees, attained
-parinibbāna, his final passing away,[76](#ftn76) this was an-upādisesa
+parinibbāna, his final passing away,[^76] this was an-upādisesa
 nibbāna, the final falling away of the khandhas. Citta, cetasika and
 rūpa fell away for good, never to arise again. This was the cessation of
 rebirth, the end of the cycle of birth and death. 
@@ -106,14 +106,14 @@ on which of the three general characteristics of conditioned dhammas he
 has realized in the process during which enlightenment is attained. When
 he realizes dhammas that appear as impermanent, he becomes liberated
 (realizes the four noble Truths) by the emancipation of signlessness
-(animitta vimokkha).[77](#ftn77) When he realizes dhammas as dukkha, he
+(animitta vimokkha).[^77] When he realizes dhammas as dukkha, he
 becomes liberated by the emancipation of desirelessness (appaṇihita
-vimokkha).[78](#ftn78) When he realizes dhammas as anattā, non-self, he
+vimokkha).[^78] When he realizes dhammas as anattā, non-self, he
 becomes liberated by the emancipation of voidness (suññatta
-vimokkha).[79](#ftn79)
+vimokkha).[^79]
 
 With regard to these three ways of emancipation,
-vimokkha, four different aspects can be discerned:[80](#ftn80)
+vimokkha, four different aspects can be discerned:[^80]
 
 - By predominance – when someone realizes dhammas as impermanent,
  signlessness emancipation, animitta vimokkha, is predominant. When

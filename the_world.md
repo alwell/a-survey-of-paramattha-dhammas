@@ -85,7 +85,7 @@ magga-citta of that stage. The sotapatti magga-citta is lokuttara kusala
 citta, and it conditions the lokuttara vipākacitta to succeed it
 immediately, without any interval. The expression “without delay,”
 “akaliko,” is used in the Tipiṭaka, referring to the fact that the
-lokuttara magga-citta produces its result immediately.[205](#ftn205) One
+lokuttara magga-citta produces its result immediately.[^205] One
 does not have to wait for the arising of result until the next life. In
 the case of other kusala kamma or akusala kamma, the result does not
 succeed the kamma immediately. 
@@ -93,7 +93,7 @@ succeed the kamma immediately.
 The person who develops samatha until the jhānacitta
 arises will not receive its result so long as he is in the human plane.
 The reason is that jhāna vipākacitta performs the functions of rebirth,
-bhavanga and dying in a brahma plane.[206](#ftn206) If one’s skill in
+bhavanga and dying in a brahma plane.[^206] If one’s skill in
 jhāna does not decline and jhānacitta arises shortly before the
 dying-consciousness, it will, after the dying-consciousness has fallen
 away, produce vipākacitta. This vipākacitta performs the function of
@@ -203,14 +203,14 @@ appearing one at a time, the difference between nāma and rūpa cannot be
 realized. The difference between the characteristic of nāma and the
 characteristic of rūpa should be realized through the mind-door as they
 appear one at a time, so that they are clearly known as they are. This
-is realized at the first stage of insight,[207](#ftn207) but so long as
+is realized at the first stage of insight,[^207] but so long as
 this stage has not been reached, paññā cannot develop further to the
 degree of knowing that all conditioned dhammas are merely the world
 which is void, void of what one takes for self, for a being or for a
 person. 
 
 We read in the “Culla Niddesa”, in “Mogharāja’s
-Questions” (“Khuddaka Nikāya”)[208](#ftn208) that the Buddha spoke to
+Questions” (“Khuddaka Nikāya”)[^208] that the Buddha spoke to
 the monks about detachment. He said:
 
 > “Just as if, monks, a man should gather, burn or do what he please with
@@ -370,7 +370,7 @@ Some people believe that the Buddha still exists,
 although he attained parinibbāna. They want to visit him in order to
 offer food to him. We should consider the Phagguna Sutta (“Kindred
 Sayings” IV, Saḷāyatana vagga, Kindred Sayings on Sense, Second Fifty,
-Ch III, §83)[209](#ftn209): 
+Ch III, §83)[^209]: 
 
 > “Then the venerable Phagguna approached the Blessed One... and said to
 him: ‘Venerable sir, is there any eye by means of which one describing
@@ -431,7 +431,7 @@ appears. There are six doors through which vīthi-cittas, cittas arising
 in processes, know the world. Five doors are rūpa and one door is nāma,
 and they are the following:
 
-- the cakkhuppasāda rūpa, the eye-door,[210](#ftn210) 
+- the cakkhuppasāda rūpa, the eye-door,[^210] 
 - the sotappasāda rūpa, the ear-door, 
 - the ghāṇappasāda rūpa, the nose-door, 
 - the jivhāppasāda rūpa, the tongue-door, 
@@ -451,7 +451,7 @@ about different objects. When citta receives and experiences an object
 after it has been experienced through the eye-door or through the other
 sense-doors, the citta is at such moments not dependent on the pasāda
 rūpas that are the sense-doors. It is then dependent on the mind-door,
-the arrest bhavanga, bhavangupaccheda,[211](#ftn211) which arises before
+the arrest bhavanga, bhavangupaccheda,[^211] which arises before
 the mind-door adverting-consciousness, the manodvārāvajjana-citta. The
 mind-door is the doorway for the vīthi-cittas of the mind-door process
 that arise after the sense-door process and which experience the sense
@@ -483,7 +483,7 @@ that.
 
 > ‘Invisible’: what cannot be seen by visual cognition. 
 
-> ‘Reacting’: reaction, friction is here produced.[212](#ftn212) ” 
+> ‘Reacting’: reaction, friction is here produced.[^212] ” 
 
 It cannot be seen, but it can be impinged on by visible object. The term
 cakkhāyatana is composed of cakkhu and āyatana. Cakkhu means eye.

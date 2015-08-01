@@ -254,7 +254,7 @@ refers to the arising and falling away of cittas in succession, in their
 own series. The citta that sees, hears, smells, tastes or experiences
 tangible object is vipākacitta, not kusala citta or akusala citta.
 Therefore, these cittas are not javana-cittas which arise and fall away
-in their own series in the process of cittas.[114](#ftn114) Vipākacittas
+in their own series in the process of cittas.[^114] Vipākacittas
 are results of past kammas. When a deed or kamma has ripened and it is
 ready to produce result, and there are also other conditioning factors
 that play their part, vipākacitta can arise. There are different kinds
@@ -273,7 +273,7 @@ arising in a process, vīthi-cittas, are, which types of cittas they are
 and when they arise. Javana cittas in a process are a succession or
 series of kusala cittas or akusala cittas. For the arahat there is,
 instead of kusala citta or akusala citta, mahā-kiriyacitta performing
-the function of javana.[115](#ftn115) Also, the arahat has different
+the function of javana.[^115] Also, the arahat has different
 types of cittas that condition the movement of the body, which condition
 speech and which think, arising in the series of javana-cittas.
 
@@ -376,7 +376,7 @@ moments of citta.
 When the atīta bhavanga has fallen away, it conditions
 the succeeding bhavanga-citta, which “vibrates,” and which is stirred by
 the object, so it is called bhavanga calana, vibrating
-bhavanga.[116](#ftn116) This citta is still bhavanga-citta, since
+bhavanga.[^116] This citta is still bhavanga-citta, since
 vīthi-citta cannot arise yet and the stream of bhavanga-cittas still
 continues. When the bhavanga calana has fallen away, the succeeding
 bhavanga-citta arises, and this is the bhavangupaccheda, arrest

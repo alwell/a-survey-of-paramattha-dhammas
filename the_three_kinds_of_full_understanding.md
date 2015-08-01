@@ -4,9 +4,9 @@ The development of satipaṭṭhāna is the development of
 paññā leading to the realization of the noble Truths. In the course of
 the development of insight, three degrees of full understanding,
 pariññā, can be discerned: full understanding of the known, ñāta
-pariññā,[312](#ftn312) full understanding as investigation, tīraṇa
-pariññā,[313](#ftn313) and full understanding as abandoning, pahāna
-pariññā.[314](#ftn314)
+pariññā,[^312] full understanding as investigation, tīraṇa
+pariññā,[^313] and full understanding as abandoning, pahāna
+pariññā.[^314]
 
 Full understanding of the known, ñāta pariññā, is paññā
 realizing the characteristics of nāma and rūpa that appear as non-self.
@@ -28,7 +28,7 @@ and thus it can see them as only dhammas. When paññā clearly realizes
 that all nāma and rūpa are equal, in as far as they are only dhammas, it
 becomes more accomplished. Thus it can realize the fourth stage of
 insight, knowledge of the arising and falling away of
-nāma and rūpa.[315](#ftn315) Full understanding of investigation begins
+nāma and rūpa.[^315] Full understanding of investigation begins
 at this stage. 
 
 The third kind of full understanding is full
@@ -123,7 +123,7 @@ penetrated, many people could realize the noble Truths. People who had
 formerly developed samatha to the degree of jhāna could, if they also
 had developed satipaṭṭhāna, realize the noble Truths. Thus, two kinds of
 ariyans can be discerned: those who had not developed jhāna, who were
-“sukkha vipassaka”,[316](#ftn316) and those who had developed jhāna. 
+“sukkha vipassaka”,[^316] and those who had developed jhāna. 
 
 The ariyan with “mere insight,” who is sukkha vipassaka,
 attains enlightenment without jhānacitta as basis or proximate cause.
@@ -139,7 +139,7 @@ who are sukkha vipassaka, are taken into account.
 
 The ariyan who has developed jhāna can attain
 magga-citta and phala-citta with jhāna as basis or proximate cause but
-he must acquire “masteries,” vasīs, of jhāna.[317](#ftn317) In that
+he must acquire “masteries,” vasīs, of jhāna.[^317] In that
 case, jhānacitta can be the object of mahā-kusala citta accompanied by
 paññā that investigates and realizes its true nature, and then
 enlightenment can be attained. The ariyan who attains enlightenment with
@@ -147,5 +147,5 @@ magga-citta and phala-citta accompanied by jhāna factors of the
 different stages of jhāna is delivered from defilements by paññā and by
 calm associated with the different stages of jhāna. When cittas are
 counted as one hundred twenty-eight, the lokuttara cittas of the ariyan
-who has developed jhāna are included.[318](#ftn318)
+who has developed jhāna are included.[^318]
 

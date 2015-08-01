@@ -1,14 +1,14 @@
 ## Concepts (I)
 
 
-Paramattha dhammas[217](#ftn217) are realities; they are
+Paramattha dhammas[^217] are realities; they are
 not beings, people, or self. The paramattha dhammas that arise are only
-citta, cetasika, and rūpa,[218](#ftn218) each of which has its own
+citta, cetasika, and rūpa,[^218] each of which has its own
 characteristic, its own nature. They arise because of conditions and
 then they fall away again very rapidly. If one does not know the
 characteristics of citta, cetasika and rūpa, namely, the paramattha
 dhammas that arise, fall away and succeed one another very rapidly, one
-knows just concepts. One takes rūpa and nāma,[219](#ftn219) which arise
+knows just concepts. One takes rūpa and nāma,[^219] which arise
 and fall away in succession, for things that are lasting. Thus, one
 lives in the world of conventional truth, sammutti sacca. When realities
 appear, one clings to shape and form, to a “whole,” one takes fleeting
@@ -48,7 +48,7 @@ If we only know conventional truth, and do not develop
 right understanding of nāma (mentality) and rūpa (physical phenomena),
 realities appear as if they do not arise and fall away. It seems that we
 see things, beings, and people. We may touch a cup, a plate, a spoon or
-fork, but in reality it is just the element of earth[220](#ftn220) or
+fork, but in reality it is just the element of earth[^220] or
 hardness that is touched. What do we see or touch in daily life? When we
 touch something, we are not used to realizing that the reality of
 hardness is touched. We have the feeling that we touch a spoon, a fork,
@@ -107,7 +107,7 @@ appears through the ears. It is not nāma (mentality), a reality which
 experiences.
 
 The commentary to the “Abhidhammattha
-Sangaha”,[221](#ftn221) the “Abhidhammattha Vibhāvinī”, (Book 8), gives
+Sangaha”,[^221] the “Abhidhammattha Vibhāvinī”, (Book 8), gives
 an explanation of paramattha dhammas (fundamental or ultimate
 realities), sammutti (conventional truth) and paññatti (concepts). This
 subject pertains to daily life, it is deep in meaning and it should be
@@ -133,7 +133,7 @@ aspects concerning different kinds of names. It distinguishes between
 four kinds of names. There are names which are generally agreed upon
 (sāmañña nāma), such as sky, rain, wind, or rice. There are names
 denoting a special quality (guṇa nāma), such as Arahatta
-Sammāsambuddho.[222](#ftn222) Someone who does not have the special
+Sammāsambuddho.[^222] Someone who does not have the special
 qualities of a Buddha cannot have this name. Then there are names
 denoting activity (kiriya nāma) and names that are given according to
 one’s liking. The Dhamma is very intricate and detailed. We should study
@@ -155,15 +155,15 @@ and there are people who like detailed explanations.
 
 Those among the different groups who are slow in understanding nāma can
 understand realities as explained by way of the five
-khandhas,[223](#ftn223) because nāma is classified by way of four
+khandhas,[^223] because nāma is classified by way of four
 khandhas, thus, in a more extensive way. Those who are slow in
 understanding rūpa can understand realities as explained by way of
-āyatanas.[224](#ftn224) The five senses and the five sense objects are
+āyatanas.[^224] The five senses and the five sense objects are
 ten kinds of rūpa which are āyatanas. As to dhammāyatana, this comprises
 both nāma and rūpa. Thus, in this classification rūpa is explained more
 extensively. Those who are slow in understanding as to both nāma and
 rūpa can understand realities as explained by way of elements,
-dhātus,[225](#ftn225) because in this classification both nāma and rūpa
+dhātus,[^225] because in this classification both nāma and rūpa
 are explained in detail.”
 
 We should consider whether we are people who are slow in
@@ -182,18 +182,18 @@ between six kinds of concepts that are names, that is, “nāma-paññatti”
 
 1. Vijjamāna paññattis, concepts which make known what is real, for
  example, the words rūpa, nāma, vedanā (feeling), or saññā
- (perception).[226](#ftn226)
+ (perception).[^226]
 2. Avijjamāna paññattis, concepts that make known what is not real,
  such as the words Thai or foreigner. These concepts do not represent
  absolute realities, citta and cetasika that are nāma, and rūpa. Thai
  or foreigners are not real in the absolute sense; they are
  conventional realities, sammutti dhammas. Could akusala
- citta[227](#ftn227) (unwholesome consciousness) be Thai or foreign?
+ citta[^227] (unwholesome consciousness) be Thai or foreign?
  Akusala citta is a paramattha dhamma (a reality); it is a dhamma
  that has its own characteristic. It is not Thai or foreign. 
 3. Vijjamānena avijjamāna paññattis, concepts of what is not real
  based on what is real. There is the expression “the person with the
- six abhiññās.”[228](#ftn228) The six abhiññās are real, but person
+ six abhiññās.”[^228] The six abhiññās are real, but person
  is not. Thus, this is concept of what is not real based on what is
  real. 
 4. Avijjamānena vijjamāna paññattis, concepts of what is real based
@@ -229,9 +229,9 @@ classified as sixfold:
 
 
 As to visible object, this is the reality that appears
-through the eyes. It is the object of vīthi-cittas[229](#ftn229) that
+through the eyes. It is the object of vīthi-cittas[^229] that
 arise depending on the eyesense, the cakkhuppasāda-rūpa. When visible
-object has fallen away there are many bhavanga-cittas[230](#ftn230)
+object has fallen away there are many bhavanga-cittas[^230]
 arising and falling away, and then vīthi-cittas of the mind-door process
 experience the visible object which has just fallen away. Thus, visible
 object can be experienced through two doors: through the eye-door and,
@@ -285,7 +285,7 @@ There is another class of objects, namely dhammārammaṇa
 the mind-door. There are six kinds of dhammārammaṇa:
 
 - The five pasāda-rūpas (senses),
-- Sixteen subtle rūpas (sukhuma rūpas),[231](#ftn231) 
+- Sixteen subtle rūpas (sukhuma rūpas),[^231] 
 - Citta, 
 - Cetasika, 
 - Nibbāna, 
@@ -300,7 +300,7 @@ One class, the paññattis, is not paramattha dhamma.
 The cittas of the eye-door process, namely, the eye-door
 adverting-consciousness, seeing-consciousness, receiving-consciousness,
 investigating-consciousness, determining-consciousness, the
-javana-cittas[232](#ftn232) and the tadālambana-cittas[233](#ftn233)
+javana-cittas[^232] and the tadālambana-cittas[^233]
 (retention), experience visible object that has not yet fallen away.
 They do not have a concept as object.
 

@@ -3,11 +3,11 @@
 The word of the Buddha, the Dhamma and the Vinaya as
 taught by him, consists of nine divisions, which are Sutta, Geyya,
 Veyyākaraṇa, Gāthā, Udāna, Itivuttaka, Jātaka, Abbhuta and
-Vedalla.[8](#ftn8)
+Vedalla.[^8]
 
-1. Sutta[9](#ftn9) includes all Discourses, such as the
+1. Sutta[^9] includes all Discourses, such as the
 Mangala sutta (Good Discourse, “Minor Readings”, V), and also the Vinaya
-Piṭaka[10](#ftn10) and the “Niddesa”.
+Piṭaka[^10] and the “Niddesa”.
 
 2. Geyya includes all suttas with verses (gāthā), such as
 the Sagāthā-vagga of the “Saṃyutta Nikāya”, or “Kindred Sayings” (I).
@@ -26,7 +26,7 @@ connected with verses recited by the Buddha, inspired by knowledge and
 joy.
 
 6. Itivuttaka or “As it was said” includes one hundred ten
-suttas[11](#ftn11) beginning with “Thus it was said by the Blessed One”
+suttas[^11] beginning with “Thus it was said by the Blessed One”
 (in Pāli: “Vuttaṃ h’etaṃ Bhagavatā”).
 
 7. ātaka or Birth Stories include five hundred fifty
@@ -64,22 +64,22 @@ five Books, namely:
 
 - “Cullavagga”
 
-- “Parivāra”[12](#ftn12)
+- “Parivāra”[^12]
 
 The commentary that explains the Vinaya is the
-“Samantapāsādikā”.[13](#ftn13)
+“Samantapāsādikā”.[^13]
 
  The Suttanta Piṭaka, or Discourses, consists of five
-Nikāyas,[14](#ftn14) namely, “Dīgha Nikāya” or “Dialogues of the
-Buddha,”[15](#ftn15) “Majjhima Nikāya” or “Middle Length
-Sayings,”[16](#ftn16) “Saṃyutta Nikāya” or “Kindred
-Sayings,”[17](#ftn17) “Aṅguttara Nikāya” or “Gradual
-Sayings,”[18](#ftn18) “Khuddaka Nikāya” or “The Minor
-Collection.”[19](#ftn19)
+Nikāyas,[^14] namely, “Dīgha Nikāya” or “Dialogues of the
+Buddha,”[^15] “Majjhima Nikāya” or “Middle Length
+Sayings,”[^16] “Saṃyutta Nikāya” or “Kindred
+Sayings,”[^17] “Aṅguttara Nikāya” or “Gradual
+Sayings,”[^18] “Khuddaka Nikāya” or “The Minor
+Collection.”[^19]
 
 The “Dīgha Nikāya” is a collection of long dialogues
 (dīgha means long), consisting of thirty-four suttas. This collection is
-divided into three sections (in Pāli: vagga):[20](#ftn20)
+divided into three sections (in Pāli: vagga):[^20]
 
 - Sīla-kkhandha-vagga (sīla means morality and khandha means group);
  
@@ -162,8 +162,8 @@ Apart from these four Nikāyas, there is the “Khuddaka
 Nikāya”, which contains the word of the Buddha. This consists of the
 following books:
 
-- “Khuddakapāṭha” or “Minor Readings”;[21](#ftn21)
-- “Dhammapada” (pada means word or phrase);[22](#ftn22)
+- “Khuddakapāṭha” or “Minor Readings”;[^21]
+- “Dhammapada” (pada means word or phrase);[^22]
 - “Udāna” or “Verses of Uplift”;
 
 - “Itivuttaka” or “As it was said”;
@@ -185,10 +185,10 @@ following books:
 
 - “Mahā-Niddesa” (niddesa means descriptive exposition);
 
-- “Cūḷa-Niddesa” (cūḷa or culla means small);[23](#ftn23)
+- “Cūḷa-Niddesa” (cūḷa or culla means small);[^23]
 - “Paṭisambhidāmagga” or “The Path of Discrimination”;
 
-- “Apadāna” (life histories);[24](#ftn24)
+- “Apadāna” (life histories);[^24]
 - “Buddhavaṃsa” or “Chronicle of the Buddhas” (in “Minor Anthologies
  III”);
 
@@ -199,16 +199,16 @@ The commentaries to these collections of the “Khuddaka
 Nikāya” are the following:
 
 - The “Paramatthajotikā”, which is the commentary to the
- “Khuddaka-pātha” and the “Suttanipāta”;[25](#ftn25) 
+ “Khuddaka-pātha” and the “Suttanipāta”;[^25] 
 - “Dhammapadaṭṭhakathā” or “Buddhist Legends” (in three volumes by
  the P.T.S.), which is the commentary to the “Dhammapada”;
 
 - The “Paramatthadīpanī”, which is the commentary to the “Udāna”,
  the “Itivuttaka”, the “Petavatthu”, the “Theragāthā”, the
- “Therīgāthā”, the “Cariyāpiṭaka” and the “Vimānavatthu”;[26](#ftn26)
+ “Therīgāthā”, the “Cariyāpiṭaka” and the “Vimānavatthu”;[^26]
  
 - The “Jātakatthavaṇṇanā”, which is the commentary to the
- “Jātaka”;[27](#ftn27) 
+ “Jātaka”;[^27] 
 - The “Saddhammapajjotika”, which is the commentary to the
  “Mahā-Niddesa” and the “Cūḷa-Niddesa”;
 
@@ -229,21 +229,21 @@ Books:
  commentary the “Aṭṭhasālinī” (“The Expositor”);
 
 - “Vibhaṅga” or “The Book of Analysis,” which has as commentary the
- “Sammohavinodanī” or “Dispeller of Delusion”;[28](#ftn28) 
+ “Sammohavinodanī” or “Dispeller of Delusion”;[^28] 
 - “Dhātukathā” or “Discourse on Elements”;
 
 - “Puggalapaññatti” or “a Designation of Human Types”; 
 
 - “Kathāvatthu” or “Points of Controversy”; 
 
-- “Yamaka”;[29](#ftn29) 
-- “Paṭṭhāna” or “Conditional Relations”.[30](#ftn30) 
+- “Yamaka”;[^29] 
+- “Paṭṭhāna” or “Conditional Relations”.[^30] 
 
 As to the commentary to the last five Books of the Abhidhamma, this is
-the “Pañcappakaraṇatthakathā”.[31](#ftn31)
+the “Pañcappakaraṇatthakathā”.[^31]
 
 The greater part of the commentaries to the Tipiṭaka is
-from the hand of the great commentator Buddhaghosa.[32](#ftn32) He
+from the hand of the great commentator Buddhaghosa.[^32] He
 translated into Pāli, compiled and arranged material from the ancient
 commentaries, which were in Sinhalese. These commentaries, the
 “Mahā-Atthakathā”, the “Mahā-Paccarī” and the “Kuruṇḍi”, stemmed from
@@ -258,17 +258,17 @@ the “Paramatthapakāsinī”, a sub-commentary to the Abhidhamma Piṭaka; and
 the anuṭīkā (anu meaning: along, alongside), which explains words and
 expressions in the sub-commentaries. Apart from the aforementioned
 works, there are several other texts in Buddhism needed for the study of
-the Dhamma that were composed by the “Elders”[33](#ftn33) who were
+the Dhamma that were composed by the “Elders”[^33] who were
 qualified to pass on the tradition of the Dhamma. These are the
 following texts:
 
-- “Milindapañha” or “Milinda’s Questions,”[34](#ftn34) composed
+- “Milindapañha” or “Milinda’s Questions,”[^34] composed
  about 500 Buddhist Era (43 B.C.);
-- “Visuddhimagga” or “Path of Purification,”[35](#ftn35) an
+- “Visuddhimagga” or “Path of Purification,”[^35] an
  Encyclopedia on Buddhism, composed by Buddhaghosa about 1000 B.E.
  (457 A.D.);
-- “Abhidhammattha Saṅgaha” or “A Manual of Abhidhamma,”[36](#ftn36)
- composed by Ven. Anuruddha about 1000 B.E. (457 A.D.);[37](#ftn37)
+- “Abhidhammattha Saṅgaha” or “A Manual of Abhidhamma,”[^36]
+ composed by Ven. Anuruddha about 1000 B.E. (457 A.D.);[^37]
  
 - “Sārattha Saṅgaha”, composed by Nanda about 1000 B.E. (457 A.D.);
  
@@ -280,7 +280,7 @@ following texts:
  Ven. Dhammapala;
 
 - “Abhidhammattha-vibhāvinī-ṭīkā”, a sub-commentary to the
- “Abhidhammattha Saṅgaha”[38](#ftn38) composed by Sumangala, of Sri
+ “Abhidhammattha Saṅgaha”[^38] composed by Sumangala, of Sri
  Lanka;
 
 - “Moha Vicchedanī”, an explanation of the “Dhammasangaṇi” and the
@@ -289,7 +289,7 @@ following texts:
 
 - “Mangalattha Dīpanī”, an explanation of the Mangala sutta (Good
  Omen Discourse, Khuddakapāṭha, “Minor Readings”, no 5) composed by
- Ven. Sirimangala in Chiangmai.[39](#ftn39)
+ Ven. Sirimangala in Chiangmai.[^39]
 
 
 

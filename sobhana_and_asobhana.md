@@ -42,8 +42,8 @@ is akusala citta, kusala citta, vipākacitta, kiriyacitta, lokuttara
 citta or any other type of citta. The seven “universals” and six other
 cetasikas, the particulars (pakiṇṇakā), which do not arise with every
 citta, can be of four jātis according to the type of citta they
-accompany.[201](#ftn201) The “universals” and the “particulars”, taken
-together, are the aññasamāna cetasikas.[202](#ftn202) When the
+accompany.[^201] The “universals” and the “particulars”, taken
+together, are the aññasamāna cetasikas.[^202] When the
 aññasamāna cetasikas arise with akusala citta, they are akusala, and
 when they arise with kusala citta, they are kusala. Whereas akusala
 cetasikas accompany only akusala citta and sobhana cetasikas accompany
@@ -222,7 +222,7 @@ neither akusala cittas nor kusala cittas.
 There are fifty-two cetasikas in all: thirteen
 aññasamāna cetasikas, which can be of four jātis and which are of the
 same jāti as the citta and cetasikas they accompany, fourteen akusala
-cetasikas and twenty-five sobhana cetasikas.[203](#ftn203)
+cetasikas and twenty-five sobhana cetasikas.[^203]
 
 It is important to have right understanding of the
 realities that are sobhana or asobhana. The Pāli term sobhana is often
@@ -268,7 +268,7 @@ about all these objects.
 
 The five khandhas are objects of clinging, and this is
 shown in different similes. In the commentary to the “Visuddhimagga”,
-the “Paramattha Mañjūsa” (See Vis. XIV, 221, footnote 83)[204](#ftn204)
+the “Paramattha Mañjūsa” (See Vis. XIV, 221, footnote 83)[^204]
 it is said that rūpakkhandha is like a dish because it bears the food
 which will bring happiness. Vedanākkhandha is like the food in that
 dish. Saññākkhandha is like the curry sauce poured over the food that

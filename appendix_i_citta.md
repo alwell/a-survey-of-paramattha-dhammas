@@ -178,7 +178,7 @@ the type of citta concerned. Each citta is accompanied by feeling,
 vedanā cetasika, which is different depending on the type of citta. 
 
 Each type of akusala citta is accompanied by four
-akusala cetasikas (akusala sādhāraṇa[340](#ftn340) cetasikas) which are:
+akusala cetasikas (akusala sādhāraṇa[^340] cetasikas) which are:
 moha cetasika; shamelessness, ahirika cetasika, which has no shame of
 evil; lack of moral dread, anottappa cetasika, which does not fear the
 danger of akusala; restlessness or agitation, uddhacca cetasika, which
@@ -238,14 +238,14 @@ the following:
  Wrong view that is akusala kamma-patha are the three following
  views: 
 
-1. Natthika[341](#ftn341) diṭṭhi, denial of the result of kamma; any
- result that arises does not originate from kamma.[342](#ftn342) 
+1. Natthika[^341] diṭṭhi, denial of the result of kamma; any
+ result that arises does not originate from kamma.[^342] 
 2. Ahetuka diṭṭhi, denial of both kamma and result. Kamma does not
  produce result, whatever arises has no condition, no
- cause.[343](#ftn343) 
+ cause.[^343] 
 3. Akiriya diṭṭhi, denial of the efficacy of kamma. Kamma, action, is
  merely a behaviour by way of the body; there are no good and bad
- actions that produce results.[344](#ftn344)
+ actions that produce results.[^344]
 
 
 When the akusala citta that motivates akusala
@@ -397,7 +397,7 @@ kiriyacittas:
 
 
 The five-sense-door adverting-consciousness,
-pañcadvārāvajjana-citta,[345](#ftn345) is the first vīthi-citta, citta
+pañcadvārāvajjana-citta,[^345] is the first vīthi-citta, citta
 arising in a process, which experiences the object impinging on the eye,
 ear, nose, tongue or bodysense. Kiriyacitta is different from
 vipākacitta since it can experience both pleasant objects and unpleasant
@@ -428,14 +428,14 @@ seeing-consciousness or one of the other sense-cognitions that arises
 and experiences a sense object through the relevant doorway.
 
 The mind-door adverting-consciousness,
-mano-dvārāvajjana-citta,[346](#ftn346) is the first vīthi-citta that
+mano-dvārāvajjana-citta,[^346] is the first vīthi-citta that
 arises and experiences an object through the mind-door. It is the citta
 arising before akusala citta, kāmāvacara kusala citta, or in the case of
 the arahat, kāmāvacara kiriyacitta. The mind-door
 adverting-consciousness, mano-dvārāvajjana-citta, arises also in a
 sense-door process, but then it does not perform the function of
 adverting, but the function of determining the object, votthapana, and
-it is called after its function votthapana-citta.[347](#ftn347) In that
+it is called after its function votthapana-citta.[^347] In that
 case, it succeeds the investigation-consciousness and it does not
 experience the object through the mind-door, but through one of the
 sense-doors. 
@@ -514,7 +514,7 @@ follows:
 
 The cetanā cetasika (volition) that accompanies these
 eight types of kusala cittas accomplishes kusala kamma consisting of ten
-bases of meritorious deeds, puñña kiriya vatthu.[348](#ftn348) These are
+bases of meritorious deeds, puñña kiriya vatthu.[^348] These are
 the following:
 
 - Dāna or generosity, kusala accomplished by way of dāna, the giving
@@ -642,7 +642,7 @@ concentration (appanā samādhi), the citta is rūpāvacara kusala citta
 1. Kusala citta of the first jhāna, accompanied by the factors of
  applied thinking, sustained thinking, rapture, happy feeling and
  concentration (vitakka vicāra pīti sukh’ekaggatā sahitaṃ
- paṭhamajjhāna kusala-cittaṃ)[349](#ftn349); 
+ paṭhamajjhāna kusala-cittaṃ)[^349]; 
 2. Kusala citta of the second jhāna, accompanied by sustained
  thinking, rapture, happy feeling and concentration (vicāra pīti
  sukh’ekaggatā sahitaṃ dutiyajjhāna kusalacittaṃ); 
@@ -688,7 +688,7 @@ fourfold system.
 
 
 When rūpāvacara kusala citta has become strong, one can
-achieve “masteries,” vasī.[350](#ftn350) Someone with mastery in jhāna
+achieve “masteries,” vasī.[^350] Someone with mastery in jhāna
 has skill in determining the time he enters jhāna, in determining its
 duration, which means, the time jhānacittas are arising and falling away
 in an uninterrupted succession, and in determining the time of emerging
@@ -749,20 +749,20 @@ arūpāvacara vipākacittas and four types of arūpāvacara kiriyacittas.
 4 Types of Arūpāvacara Kusala Cittas:
 
 1. Kusala jhānacitta that has the object of “Infinity of Space”
- (Ākāsānañcāyatana[351](#ftn351) kusalacittaṃ); 
+ (Ākāsānañcāyatana[^351] kusalacittaṃ); 
 2. Kusala jhānacitta that has the object of “Infinity of
- Consciousness” (Viññāṇañcāyatana[352](#ftn352) kusalacittaṃ); 
+ Consciousness” (Viññāṇañcāyatana[^352] kusalacittaṃ); 
 3. Kusala jhānacitta that has the object of “Nothingness”
- (Ākiñcaññāyatana[353](#ftn353) kusalacittaṃ); 
+ (Ākiñcaññāyatana[^353] kusalacittaṃ); 
 4. Kusala jhānacitta that has the object of “Neither Perception nor
- Non-Perception” (N’eva-saññā-n’āsaññāyatana[354](#ftn354)
+ Non-Perception” (N’eva-saññā-n’āsaññāyatana[^354]
  kusalacittaṃ). 
 
 
 
 The arūpa-jhānacittas are of the same type of citta as
 the rūpa-jhānacitta of the fifth stage and therefore, they are also
-called arūpa pañcama jhānacitta.[355](#ftn355) 
+called arūpa pañcama jhānacitta.[^355] 
 
 The first type of arūpa-jhāna kusala citta meditates on
 the subject of space that is of an extension without limits, which is
@@ -873,7 +873,7 @@ When kāmāvacara kusala citta (of the sense sphere)
 accompanied by paññā arises and investigates the characteristics of nāma
 and rūpa, their characteristics can be realized as they are and clinging
 to the wrong view of realities can be eliminated. When the different
-stages of insight-knowledge, vipassanā ñāṇa,[356](#ftn356) have been
+stages of insight-knowledge, vipassanā ñāṇa,[^356] have been
 successively attained, lokuttara citta can arise. Lokuttara magga-citta
 directly realizes the characteristic of nibbāna and eradicates
 defilements in accordance with the stage of enlightenment that has been
@@ -926,7 +926,7 @@ eradicated.
 40 Types of Lokuttara Cittas:
 
 Those who have developed samatha and acquired great
-skill in jhāna, who are “jhāna lābhī,”[357](#ftn357) can have kāmāvacara
+skill in jhāna, who are “jhāna lābhī,”[^357] can have kāmāvacara
 citta accompanied by paññā arising in between jhānacittas of any stage;
 in that case, paññā can investigate the characteristics of nāma and rūpa
 appearing at that moment. When paññā investigates the characteristics of
@@ -940,7 +940,7 @@ that was their base, and thus, there are forty lokuttara cittas,
 classified as follows:
 
 - Magga-citta of the sotāpanna with factors of the first, second,
- third, fourth and fifth stage of jhāna;[358](#ftn358)
+ third, fourth and fifth stage of jhāna;[^358]
 - Phala-citta of the sotāpanna with factors of the first, second,
  third, fourth and fifth stage of jhāna; 
 - Magga-citta of the sakadāgāmī with factors of the first, second,

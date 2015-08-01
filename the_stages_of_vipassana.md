@@ -15,7 +15,7 @@ can be attained.
 
 The first stage of insight is Knowledge of the
 difference between nāma and rūpa,
-nāma-rūpa-pariccheda-ñāṇa.[286](#ftn286)
+nāma-rūpa-pariccheda-ñāṇa.[^286]
 
 Mahā-kusala citta ñāṇa-sampayutta arises and clearly
 distinguishes the difference between the characteristic of nāma and the
@@ -32,7 +32,7 @@ attā-saññā, which has been accumulated for a long time in the cycle of
 birth and death, cannot be eradicated.
 
 The second stage of vipassanā ñāṇa is Discerning
-conditions for nāma and rūpa, paccaya-pariggaha-ñāṇa.[287](#ftn287)
+conditions for nāma and rūpa, paccaya-pariggaha-ñāṇa.[^287]
 
 When the moments of vipassanā ñāṇa have fallen away, the
 world appears as it used to appear, as a “whole”. The person who
@@ -41,7 +41,7 @@ vipassanā ñāṇa and the moment that is not vipassanā ñāṇa. When vipassa
 ñāṇa has fallen away, ignorance and doubt about realities can arise
 again, since these defilements have not been eradicated. When the first
 stage of insight has been reached, there is full comprehension of what
-has been known, ñāta pariññā.[288](#ftn288) Paññā realizes as they are
+has been known, ñāta pariññā.[^288] Paññā realizes as they are
 the characteristics of realities that appear at the moments of vipassanā
 ñāṇa. Then there is no ignorance and doubt about those realities. The
 first stage of insight is only a beginning stage that can lead to the
@@ -77,7 +77,7 @@ vipassanā ñāṇa has fallen away, the world appears as it used to appear,
 as a “whole”.
 
 The third vipassanā ñāṇa is Comprehension by groups,
-sammasana ñāṇa.[289](#ftn289)
+sammasana ñāṇa.[^289]
 
 This is the paññā that clearly realizes the rapid
 succession of nāmas and rūpas as they arise and fall away. When this
@@ -91,7 +91,7 @@ does not yet realize their rapid succession as they arise and fall away.
 
 The first, the second and the third stages of insight
 are only beginning stages, they are called “tender insight”, taruṇa
-vipassanā. They are not “insight as power”, balava[290](#ftn290)
+vipassanā. They are not “insight as power”, balava[^290]
 vipassanā, that is, insight which has become more powerful at the higher
 stages. At the stages of tender insight, there is still thinking of the
 nāmas and rūpas that are realized. However, although there is thinking,
@@ -119,7 +119,7 @@ rūpa, nāma-rūpa-pariccheda-ñāṇa. A person can have such misunderstanding
 because he does not yet know that vipassanā ñāṇa must appear as anattā,
 as not self, just as the other types of nāma that appear. When vipassanā
 ñāṇa arises, characteristics of nāma and rūpa appear through the
-mind-door.[291](#ftn291) The rūpas that are sense-objects are
+mind-door.[^291] The rūpas that are sense-objects are
 experienced through the corresponding sense-doors and after each
 sense-door process, the object is experienced through the mind-door.
 However, when there is no vipassanā ñāṇa, the mind-door process does not
@@ -171,11 +171,11 @@ go the wrong way and the wrong cause cannot bring the right result. If
 someone hopes for a quick result of his practice, it is the wrong path;
 he does not understand what the right Path is. Lobha-mūla-citta
 accompanied by wrong view motivates the development of the wrong path
-and this will lead to the wrong release,[292](#ftn292) not the right
+and this will lead to the wrong release,[^292] not the right
 release that is freedom from defilements. 
 
 The fourth vipassanā ñāṇa is Knowledge of the arising
-and falling away of nāma and rūpa, udayabbaya ñāṇa.[293](#ftn293)
+and falling away of nāma and rūpa, udayabbaya ñāṇa.[^293]
 
 Vipassanā ñāṇa of the third stage realizes the rapid
 succession of nāmas and rūpas as they arise and fall away. However, at
@@ -197,7 +197,7 @@ through which doorway they appear. The fourth stage of vipassanā ñāṇa,
 udayabbaya ñāṇa, knows more precisely the arising and falling away of
 each kind of nāma and of rūpa as it appears one at a time. This stage of
 insight can arise when “full understanding of investigation,” tīraṇa
-pariññā, has become more accomplished.[294](#ftn294) Full understanding
+pariññā, has become more accomplished.[^294] Full understanding
 of investigation is the kind of paññā that considers and clearly
 understands the characteristics of all kinds of nāma and rūpa as they
 appear through the six doors. So long as this is not the case, there are
@@ -220,7 +220,7 @@ falling away of nāma and rūpa cannot be realized. Then, ignorance, doubt
 and wrong view about realities cannot be eradicated. 
 
 The fifth stage of vipassanā ñāṇa is Knowledge of
-dissolution, bhaṅga ñāṇa.[295](#ftn295) 
+dissolution, bhaṅga ñāṇa.[^295] 
 
 Even though the fourth stage of vipassanā ñāṇa clearly
 realizes the arising and falling away of one characteristic of nāma and
@@ -289,7 +289,7 @@ nāma and rūpa that appear. Then there is knowledge of dispassion,
 nibbidā ñāṇa.
 
 The ninth stage of vipassanā ñāṇa is Knowledge of desire
-for deliverance, muccitukamyatā ñāṇa.[296](#ftn296)
+for deliverance, muccitukamyatā ñāṇa.[^296]
 
 When paññā realizes more and more clearly the futility
 of the nāma and rūpa that appear, and it becomes more detached from
@@ -298,7 +298,7 @@ fall away. The paññā that wants to be liberated is knowledge of desire
 for deliverance, mucitukamyatā ñāṇa. 
 
 The tenth stage of vipassanā ñāṇa is Knowledge of
-reflection, paṭisaṅkhā ñāṇa.[297](#ftn297) 
+reflection, paṭisaṅkhā ñāṇa.[^297] 
 
 When desire for deliverance has become stronger, paññā
 will be inclined to consider over and over again the three general
@@ -332,7 +332,7 @@ appears as object. The paññā that leads to equanimity towards the
 conditioned dhammas that arise and fall away is knowledge of equanimity
 about conditioned dhammas, saṅkhārupekkhā ñāṇa. This knowledge is the
 insight that leads to attainment of what is supreme; it leads to
-emergence.[298](#ftn298) It is the paññā which conditions someone to
+emergence.[^298] It is the paññā which conditions someone to
 leave the state of an ordinary person, and this occurs when the
 magga-citta, path-consciousness, arises. 
 
@@ -342,11 +342,11 @@ knowledge, anuloma ñāṇa.
 Adaptation knowledge, or conformity knowledge, is the
 vipassanā ñāṇa that arises in the process during which enlightenment is
 attained, the magga-vīthi. This kind of knowledge conforms to the clear
-understanding of the noble Truths.[299](#ftn299) Adaptation knowledge is
+understanding of the noble Truths.[^299] Adaptation knowledge is
 the three moments of mahā-kusala cittas accompanied by paññā arising in
 the magga-vīthi. They are: parikamma or preparatory consciousness,
 upacāra or access and anuloma or adaptation. These three cittas have as
-their object one of the three general characteristics.[300](#ftn300)
+their object one of the three general characteristics.[^300]
 They realize the conditioned dhamma appearing at that moment either as
 impermanent, or as dukkha or as anattā. Adaptation knowledge adapts or
 conforms to detachment from the objects that are conditioned dhammas.
@@ -362,9 +362,9 @@ Change-of-lineage knowledge, gotrabhū ñāṇa.
 This knowledge succeeds the anuloma ñāṇa, which includes
 three moments of citta for the person who realizes the Noble Truths more
 slowly than a person with keen paññā, and two moments for a person with
-keen paññā.[301](#ftn301) Change-of-lineage knowledge is mahā-kusala
+keen paññā.[^301] Change-of-lineage knowledge is mahā-kusala
 citta ñāṇa-sampayutta and this citta has nibbāna as object. It is
-repetition-condition, asevana-paccaya,[302](#ftn302) for the succeeding
+repetition-condition, asevana-paccaya,[^302] for the succeeding
 magga-citta of the stage of the sotāpanna, which is lokuttara kusala
 citta. The magga-citta has nibbāna as object and eradicates defilements.
 
@@ -383,7 +383,7 @@ object. The “Visuddhimagga” (XXII, 11) states that this citta, since it
 can only realize nibbāna but not dispel defilements, is called
 “adverting to the Path.” We read: 
 
-> “For although it is not adverting (āvajjana)[303](#ftn303), it occupies
+> “For although it is not adverting (āvajjana)[^303], it occupies
 the position of adverting; and then, after as it were giving a sign to
 the path to come into being, it ceases.” 
 
@@ -426,7 +426,7 @@ phala-citta, which is lokuttara vipākacitta, immediately succeeds the
 magga-citta without any interval. Lokuttara kusala citta is
 kamma-condition for the vipākacitta which follows without delay, without
 there being other cittas in between, and therefore it is called “without
-delay,” akāliko.[304](#ftn304) Thus, lokuttara vipākacitta is different
+delay,” akāliko.[^304] Thus, lokuttara vipākacitta is different
 from other kinds of vipākacitta. The lokuttara vipākacittas, which are
 two or three moments of citta arising in the magga-vīthi and succeeding
 the magga-citta, perform the function of javana. Thus, they perform a

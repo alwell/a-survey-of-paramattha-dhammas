@@ -15,7 +15,7 @@ arising of rūpas in the body, namely: kamma, citta, temperature (utu)
 and nutrition (āhāra). 
 
 Rūpas which originate from kamma are called kammaja
-rūpas.[379](#ftn379)
+rūpas.[^379]
 
 Rūpas which originate from citta are called cittaja
 rūpas.
@@ -58,7 +58,7 @@ rūpa. Jīvitindriya rūpa arises in each group of rūpas, kalāpa,
 originated from kamma. 
 
 For beings of the brahma plane who are without
-consciousness, asañña satta,[380](#ftn380) there is only rūpa, not nāma.
+consciousness, asañña satta,[^380] there is only rūpa, not nāma.
 So long as they are asañña satta brahmas, citta and cetasika do not
 arise. There is for them only the kalāpa, group of rūpas, with life
 faculty. They do not have the rūpas that are the senses, sex or
@@ -66,10 +66,10 @@ heart-base.
 
 The nine types of kammaja rūpas are derived rūpas,
 upādāya rūpas, which have to arise together with the eight inseparable
-rūpas, avinibbhoga rūpas.[381](#ftn381) There are the following groups
+rūpas, avinibbhoga rūpas.[^381] There are the following groups
 or kalāpas originated from kamma:
 
-1. The decad of the eyesense, cakkhudasaka[382](#ftn382) kalāpa,
+1. The decad of the eyesense, cakkhudasaka[^382] kalāpa,
  consisting of the eight inseparable rūpas, eyesense and life
  faculty. 
 2. The decad of earsense, sotadasaka kalāpa, consisting of the eight
@@ -86,7 +86,7 @@ or kalāpas originated from kamma:
  the eight inseparable rūpas, masculinity and life faculty. 
 8. The decad of heart-base, hadayadasaka kalāpa, consisting of the
  eight inseparable rūpas, heart-base and life faculty. 
-9. The vital nonad, jīvitanavaka[383](#ftn383) kalāpa, consisting of
+9. The vital nonad, jīvitanavaka[^383] kalāpa, consisting of
  the eight inseparable rūpas and life faculty. 
 
 
@@ -96,11 +96,11 @@ arising moment, the uppāda khaṇa, of the rebirth-consciousness,
 paṭisandhi-citta, in accordance with the plane of existence where one is
 born. Kamma produces rūpa at the three moments of each citta, namely, at
 the arising moment, uppāda khaṇa, the moment of presence, tiṭṭhi khaṇa,
-and the moment of falling away, bhanga khaṇa.[384](#ftn384) Kamma ceases
+and the moment of falling away, bhanga khaṇa.[^384] Kamma ceases
 to produce rūpa shortly before death, that is to say, from the
 seventeenth moment of citta reckoned backward from the
 dying-consciousness. Thus, all kammajarūpa falls away together with the
-dying-consciousness, cuti-citta, at the end of a lifespan.[385](#ftn385)
+dying-consciousness, cuti-citta, at the end of a lifespan.[^385]
 
 For those who are born by way of the womb, in the human
 plane of existence, there are three kalāpas of kammajarūpa, groups of
@@ -112,7 +112,7 @@ the smelling-sense and the tasting-sense arise at the appropriate time.
 
 
 For those who have a spontaneous birth (opapātika),
-without the instrumentality of parents,[386](#ftn386) namely, heavenly
+without the instrumentality of parents,[^386] namely, heavenly
 beings (devas), petas (ghosts), demons (asurakāyas) and beings born in
 hell planes, there are immediately all seven decads of kammajarūpa .
 Thus, they have a complete body with the decads of heart-base, bodysense
@@ -154,7 +154,7 @@ Cittaja Rūpa
 
 There are six kalāpas of rūpa originated from citta:
 
-1. The pure octad, suddhatthaka[387](#ftn387) kalāpa, a group of
+1. The pure octad, suddhatthaka[^387] kalāpa, a group of
  eight rūpas consisting of only the eight inseparable rūpas
  (avinibbhoga rūpas). Cittajarūpa which is a pure octad is produced
  at the arising moment (uppāda khaṇa) of the first bhavanga-citta,
@@ -184,7 +184,7 @@ There are six kalāpas of rūpa originated from citta:
  vikāra rūpas, speech intimation and sound. The citta that wants the
  utterance of a specific sound produces at its arising moment this
  kalāpa. That sound arises in dependence on the vikāra rūpas at the
- rūpa which is the base of that sound.[388](#ftn388) 
+ rūpa which is the base of that sound.[^388] 
 
 
 
@@ -232,7 +232,7 @@ temperature, which is the element of heat:
  its turn produce new rūpas. Utu that is present, after it has
  arisen, originates a pure octad, the eight inseparable rūpas, and
  from that moment on utu originates at the moment of its presence
- other rūpas.[389](#ftn389) 
+ other rūpas.[^389] 
 2. The sound nonad, which is a kalāpa of nine rūpas: the eight
  inseparable rūpas and sound. If sound does not originate from citta,
  in the case of speech intimation, sound originates from temperature,
@@ -256,7 +256,7 @@ temperature, which is the element of heat:
 
 Āhāraja rūpa is rūpa originated from ojā rūpa, nutritive
 essence present in food consisting of morsels that can be swallowed
-(kabaliṅkāra[390](#ftn390) āhāra). The kalāpas of āhāraja rūpa arise
+(kabaliṅkāra[^390] āhāra). The kalāpas of āhāraja rūpa arise
 only in the body of living beings. There are two kalāpas of āhāraja
 rūpa:
 
@@ -273,7 +273,7 @@ rūpa:
 
 Āhāraja rūpa can arise when the nutritive essence
 present in morsel food has been absorbed, and at the moment of its
-presence ojā rūpa can produce other rūpas.[391](#ftn391) 
+presence ojā rūpa can produce other rūpas.[^391] 
 
 
 
@@ -314,7 +314,7 @@ kalāpas originated from citta, temperature or nutrition.
 The 4 lakkhaṇa rūpas (origination, continuity, decay and
 falling away, characteristics inherent in all rūpas) do not originate
 from any of the 4 factors, because they are only characteristics of the
-18 sabhāva rūpas.[392](#ftn392) 
+18 sabhāva rūpas.[^392] 
 
 
 Classifications
@@ -377,7 +377,7 @@ Rūpas can be classified as oḷārika, coarse and sukhuma,
 subtle:
 
 - 12 oḷārika rūpas. They are: the 7 visaya rūpas, rūpas that are the
- objects experienced through the senses[393](#ftn393), and the 5
+ objects experienced through the senses[^393], and the 5
  pasāda rūpas. 
 - 16 sukhuma rūpas are the other 16 rūpas. 
 
@@ -395,7 +395,7 @@ Rūpas can be classified as santike, near, and dūre, far:
 
 
 Rūpas can be classified as impinging on each other,
-sappaṭigha[394](#ftn394) rūpas, and as not impinging and not being
+sappaṭigha[^394] rūpas, and as not impinging and not being
 impinged on, asappaṭigha rūpas:
 
 - 12 sappaṭigha rūpas, namely the 5 pasāda rūpas that are impinged
@@ -406,7 +406,7 @@ impinged on, asappaṭigha rūpas:
 
 
 Rūpas can be classified as being impinged on by external
-objects, gocaraggāhika rūpas[395](#ftn395) and as not being impinged on
+objects, gocaraggāhika rūpas[^395] and as not being impinged on
 by external objects, agocaraggāhika rūpas: 
 
 - 5 gocāraggāhika rūpas that can be impinged on by external objects,

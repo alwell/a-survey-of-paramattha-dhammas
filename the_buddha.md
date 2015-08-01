@@ -7,7 +7,7 @@ From then on, the living beings in this world no longer had an
 opportunity to hear the teaching of the Dhamma directly from the Buddha
 himself. However, the Buddha left us the Dhamma and the Vinaya he had
 taught and laid down as our teacher, representing him after he had
-finally passed away.[40](#ftn40)
+finally passed away.[^40]
 
 The measure of regard and respect Buddhists have for the
 Buddha’s excellent Dhamma is in accordance with the degree of their
@@ -17,7 +17,7 @@ listen to the teaching of the Dhamma directly from him, or seize the hem
 of his garment and walk behind him step by step, but did not understand
 the Dhamma, he would not really see the Buddha. But if one sees and
 understands the Dhamma, one is called a person who sees the
-Tathāgata.[41](#ftn41)
+Tathāgata.[^41]
 
 There are three levels of understanding of the Buddhist
 teachings, the Dhamma as taught by the omniscient Buddha, namely:
@@ -37,7 +37,7 @@ The saying of the Buddha that whoever sees the Dhamma
 sees the Tathāgata, refers to the seeing and realization of the Dhamma
 the Buddha attained at the moment of his enlightenment. This is the
 Dhamma consisting of the nine supramundane, or lokuttara,
-dhammas.[42](#ftn42) The direct realization of the Dhamma, which is the
+dhammas.[^42] The direct realization of the Dhamma, which is the
 level of paṭivedha, is the result of the practice, paṭipatti, the
 development of the understanding of the Dhamma. The level of paṭipatti
 must depend on pariyatti, the study of the Dhamma and the Vinaya. The
@@ -64,7 +64,7 @@ three parts, namely:
 
 The Vinaya Piṭaka concerns mostly the rules of conduct
 for the monks so that they can lead the “holy life” (brahma
-cariya)[43](#ftn43) perfectly, to the highest degree. The Suttanta
+cariya)[^43] perfectly, to the highest degree. The Suttanta
 Piṭaka mostly concerns the principles of the Dhamma as preached to
 different people at different places. The Abhidhamma Piṭaka deals with
 the nature of dhammas, realities, and their interrelation by way of
@@ -78,11 +78,11 @@ world. In his incomparable wisdom, purity and compassion, he explained
 the Dhamma from the time of his enlightenment until the time of his
 parinibbāna, his final passing away. The Buddha fulfilled the
 perfections in order to become the Perfectly Enlightened One, the
-Arahat, the Sammāsambuddha.[44](#ftn44) He was endowed with
-extraordinary accomplishments (in Pāli, sampadā),[45](#ftn45) and these
+Arahat, the Sammāsambuddha.[^44] He was endowed with
+extraordinary accomplishments (in Pāli, sampadā),[^45] and these
 were the “accomplishment of cause” (hetu), the “accomplishment of
 fruition” (phala) and the “accomplishment of assistance to other beings”
-(sattupakāra)[46](#ftn46).
+(sattupakāra)[^46].
 
 As regards the “accomplishment of cause,” this is the
 fulfilment of the right cause, namely the perfections necessary to
@@ -94,20 +94,20 @@ accomplishments:
 
 1. The accomplishment of wisdom (ñāṇa sampadā), the wisdom arising
  with the path-consciousness, at the moment of his
- enlightenment.[47](#ftn47) This wisdom is the basis and root-cause
- of his omniscience and his ten powers[48](#ftn48) (dasa bala).
+ enlightenment.[^47] This wisdom is the basis and root-cause
+ of his omniscience and his ten powers[^48] (dasa bala).
 2. The accomplishment of abandoning (pahāna sampadā). This is the
  complete eradication of all defilements, together with all
  accumulated tendencies for conduct which may not be agreeable,
  called in Pāli: vāsanā. Vāsanā is conduct through body or speech,
  which may not be agreeable and has been accumulated in the past.
  This disposition can only be eradicated by a
- Sammāsambuddha.[49](#ftn49)
+ Sammāsambuddha.[^49]
 3. The accomplishment of power (ānubhāva sampadā), which is the power
  to achieve what one aspires to.
 4. The accomplishment of physical excellence (rūpa-kāya sampadā).
  This consists of the special bodily characteristics manifesting his
- excellent qualities accumulated in the past[50](#ftn50) and also,
+ excellent qualities accumulated in the past[^50] and also,
  apart from these, other physical qualities, which were pleasing to
  the eye, impressive to all people, and which gave them joy.
 
@@ -124,7 +124,7 @@ and to become freed from dukkha only for his own sake, he could not be
 called the Sammāsambuddha.
 
 There are two kinds of Buddha: the Sammāsambuddha and
-the Pacceka Buddha, or “Silent Buddha.”[51](#ftn51)
+the Pacceka Buddha, or “Silent Buddha.”[^51]
 
 As regards the Sammāsambuddha, he is someone who has
 realized by his profound wisdom, all by himself, the truths concerning
@@ -146,7 +146,7 @@ The third accomplishment of the Buddha regards the
 assistance to living beings (sattupakāra). This is the accomplishment of
 constant assistance to the living beings of this world because of his
 disposition and his efforts to do so. He wanted to help even people of
-evil character such as Devadatta.[52](#ftn52) In the case of people
+evil character such as Devadatta.[^52] In the case of people
 whose faculty of understanding was not yet strong enough, the Buddha
 waited with the teaching of Dhamma until the time was ripe for them. He
 taught Dhamma with the sole purpose to help people to gain freedom from
@@ -177,7 +177,7 @@ The Buddha realized the truth through his enlightenment
 and taught it to his followers so that they too would have understanding
 and practise the Dhamma accordingly until they would realize the truth
 themselves. The truth the Buddha taught is that everything which appears
-is a type of dhamma,[53](#ftn53) a reality that is not self, not a
+is a type of dhamma,[^53] a reality that is not self, not a
 being, not a person. All dhammas that arise do so because there are
 conditions for their arising, such as attachment, anger, regret, unhappy
 feeling, happy feeling, jealousy, avarice, loving-kindness, compassion,
@@ -215,7 +215,7 @@ or does not know them, whether he calls them by a name in whatever
 language, or does not call them by a name. Their characteristics are
 always the same. The dhammas that arise do so because there are the
 appropriate conditions for their arising and then they fall away. Just
-as the Buddha said to the venerable Ānanda,[54](#ftn54) “Whatever has
+as the Buddha said to the venerable Ānanda,[^54] “Whatever has
 arisen, has come into being because of conditions, is by nature subject
 to dissolution.”
 

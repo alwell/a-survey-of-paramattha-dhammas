@@ -140,7 +140,7 @@ there are four human planes where one can be reborn:
 - The Jambudīpa continent, situated to the South of Mount Sineru,
  and this is the human world where we live;
 - The Uttarakurū continent, situated to the North of Mount
- Sineru.[179](#ftn179) 
+ Sineru.[^179] 
 
 
 
@@ -152,7 +152,7 @@ not able to go to the other three human worlds.
 There are six heavenly planes and these have different
 degrees of excellence. As to the first plane, this is the heaven of the
 four deva rulers or guardians of the world, the “cātu-mahārājika
-plane.”[180](#ftn180) These four deva rulers are:
+plane.”[^180] These four deva rulers are:
 
 - Dhaṭarattha, sometimes called Inda, ruling over the East, over the
  Gandhabba devas; 
@@ -177,7 +177,7 @@ Thirty-three, Tāvatimsa, and this plane is higher than the plane of the
 four deva rulers. Inda is the chief of this plane. In the heaven of the
 Thirty-three there are four heavenly groves: 
 
-- Nandana Grove in the East,[181](#ftn181) 
+- Nandana Grove in the East,[^181] 
 - Cittalatā Grove in the West, 
 - Missaka Grove in the North, 
 - Phārusaka Grove in the South. 
@@ -209,7 +209,7 @@ deed that has been performed during the cycle of lives.
 The rūpāvacara bhūmis, fine material planes of
 existence, are the planes where rūpa brahmas are born. Birth in these
 planes is the result of fine-material jhāna, rūpa-jhāna. There are
-sixteen rūpa brahma planes.[182](#ftn182)
+sixteen rūpa brahma planes.[^182]
 
 The result of the first jhāna can be birth in three
 planes: 
@@ -224,7 +224,7 @@ planes:
 
 
 The result of the second jhāna of the fourfold system
-(and the third jhāna of the fivefold system)[183](#ftn183) can be birth
+(and the third jhāna of the fivefold system)[^183] can be birth
 in three planes. This depends on the degree of jhāna, which can be weak,
 medium or superior. These planes are:
 
@@ -250,7 +250,7 @@ Vehapphala bhūmi.
 
 Moreover, there can be birth in the Asaññāsatta bhūmi as
 result of the fifth jhāna. Beings who are born in this plane are born
-only with rūpa, not with citta and cetasika.[184](#ftn184)
+only with rūpa, not with citta and cetasika.[^184]
 
 There are five Suddhāvāsā planes (Pure Abodes) for
 anāgāmīs and these births are the results of the fourth jhāna of the
@@ -343,7 +343,7 @@ Rūpāvacara citta and arūpāvacara citta are sublime
 consciousness, mahaggatā citta. The “Atthasālinī” (I, Book I, Part I, Ch
 I, Mātikā, Triplets, 44) states:
 
-> “ ‘Sublime’ (mahaggatā) means, ‘having reached greatness’[185](#ftn185),
+> “ ‘Sublime’ (mahaggatā) means, ‘having reached greatness’[^185],
 from ability to discard corruptions, from the abundance of fruition,
 from the length of duration...”
 
@@ -355,7 +355,7 @@ experienced through the mind-door. At such moments, there is no seeing,
 hearing, smelling, tasting or the experience of tangible object. When
 there are jhānacittas, no matter for how long, there cannot be
 bhavanga-cittas in between, such as in the case of kāmāvacara
-cittas.[186](#ftn186) Kāmāvacara cittas experience an object for an
+cittas.[^186] Kāmāvacara cittas experience an object for an
 extremely short moment, they are insignificant dhammas (paritta
 dhammas). The kāmāvacara cittas of seeing, hearing or thinking occur in
 processes that are of extremely short duration, they experience an
@@ -470,7 +470,7 @@ the arahat.
 
 The four types of lokuttara vipākacitta, the
 phala-cittas, cannot perform the functions of rebirth, bhavanga and
-dying. They are different from mundane vipākacittas.[187](#ftn187) The
+dying. They are different from mundane vipākacittas.[^187] The
 lokuttara vipākacitta that immediately succeeds the lokuttara kusala
 citta also has nibbāna as object. The lokuttara vipākacitta, the
 phala-citta, performs the function of javana in the same process as the

@@ -60,7 +60,7 @@ arising when there is worry or anxiety. If one does not know one’s
 defilements and one does not see the danger of lobha, one will not be
 able to develop samatha. The person who develops samatha should be
 truthful, he should have paññā that sees the danger of lobha; he should
-have sati-sampajañña;[250](#ftn250) he should know the difference
+have sati-sampajañña;[^250] he should know the difference
 between lobha-mūla-citta and mahā-kusala citta accompanied by paññā.
 Then he can develop mahā-kusala accompanied by paññā, so that there are
 no longer akusala cittas arising in between the moments of developing
@@ -75,11 +75,11 @@ It is not easy to develop mahā-kusala citta accompanied
 by paññā to such degree that it can be the foundation of kusala
 jhānacitta of the first stage, which is rūpāvacara kusala citta. Someone
 who wants to attain jhāna should not have the impediments that cause him
-to be unable to do so.[251](#ftn251) Such a person cannot attain jhāna
+to be unable to do so.[^251] Such a person cannot attain jhāna
 or enlightenment, even if he cultivates samatha or vipassanā. For the
 person who can develop samatha and attain jhāna or develop vipassanā and
 attain enlightenment, there are the following
-requirements:[252](#ftn252)
+requirements:[^252]
 
 1. He should not have vipāka that is an impediment, that is, he
  should be born with rebirth-consciousness accompanied by paññā,
@@ -98,7 +98,7 @@ requirements:[252](#ftn252)
  micchādiṭṭhi). These are the wrong views of natthika-diṭṭhi (denial
  of the result of kamma), of ahetuka-diṭṭhi (denial of both kamma and
  result) and of akiriya-diṭṭhi (denial of the efficacy of
- kamma).[253](#ftn253) 
+ kamma).[^253] 
 
 
 
@@ -146,7 +146,7 @@ divine abidings (brahmavihāras) and the four subjects of arūpa-jhāna.
 
 ### The Ten Kasinas
 
-The ten kasinas are the following:[254](#ftn254)
+The ten kasinas are the following:[^254]
 
 1. Earth kasina (paṭhavī kasiṇa), by means of which one meditates
  only on earth; 
@@ -177,7 +177,7 @@ is akusala citta that desires to think of earth or to focus on earth.
 
 When paññā arises, the citta that meditates on earth is
 kusala. It can be realized that all material phenomena that appear
-cannot be without the element of earth[255](#ftn255) and that all the
+cannot be without the element of earth[^255] and that all the
 things one is attached to or desires are only earth. When one realizes
 that all the things in the world one used to be attached to are in
 essence only earth, it is a condition for subduing attachment to them. 
@@ -191,7 +191,7 @@ quiet place, where he is not disturbed by the noise of people. One
 should make the earth kasina of smooth clay in the form of a circle,
 without flaws and imperfections, so that it is suitable for meditation.
 Otherwise, the citta would be inclined to delight in and have attachment
-to the outward appearance of it.[256](#ftn256) When the person who
+to the outward appearance of it.[^256] When the person who
 develops the earth kasina looks at it and contemplates it with right
 understanding, there is kusala citta accompanied by paññā, and there is
 true calm. He should look at the earth kasina in order to remind himself
@@ -203,7 +203,7 @@ only earth with kusala citta that is calm, free from akusala. As the
 “Visuddhimagga” states, the kasina should not be too small, nor too
 large, it should not be too far away nor too near, it should not be
 placed too high nor too low. Vitakka cetasika, applied thinking, is one
-of the jhāna factors[257](#ftn257) that is indispensable. Vitakka
+of the jhāna factors[^257] that is indispensable. Vitakka
 cetasika arising with mahā-kusala citta accompanied by paññā should
 “touch” or “strike at” the earth kasina. The citta should be free from
 akusala when one’s eyes are closed as well as when they are open, so
@@ -237,8 +237,8 @@ In that way calm to the degree of attainment-concentration, appanā
 samādhi, can be reached, and the jhānacitta of the first stage can
 arise, which is of the level of rūpāvacara citta. However, in order to
 reach this stage, he should guard the counter-image as if it were the
-unborn child of a “Wheel-Turning Monarch.”[258](#ftn258) He should avoid
-conditions not beneficial for the development of calm[259](#ftn259) and
+unborn child of a “Wheel-Turning Monarch.”[^258] He should avoid
+conditions not beneficial for the development of calm[^259] and
 these are the following:
 
 1. He should avoid a dwelling where the mental image that has not yet
@@ -263,13 +263,13 @@ these are the following:
 If he avoids what is unsuitable and cultivates what is
 suitable, but appanā samādhi does not yet arise, he should have recourse
 to ten kinds of skill in absorption, dhammas beneficial for the arising
-of jhānacitta:[260](#ftn260)
+of jhānacitta:[^260]
 
 1. He should make the basis (vatthu) clean, that is the internal
  basis, which is his body, and the external basis, which are his
  clothing and his dwelling. Otherwise, the citta will not be
  purified. 
-2. He should balance the faculties, indriyas.[261](#ftn261) For
+2. He should balance the faculties, indriyas.[^261] For
  example, confidence and understanding should be balanced, energy and
  concentration should be balanced. They are balanced through
  mindfulness. 
@@ -299,7 +299,7 @@ the mind-door process during which jhāna is attained, there are the
 following cittas arising in succession:
 
 - bhavanga-citta, which is mahā-vipāka
- ñāṇa-sampayutta;[262](#ftn262) 
+ ñāṇa-sampayutta;[^262] 
 - bhavanga calana (vibrating bhavanga), which is mahā-vipāka,
  ñāṇa-sampayutta; 
 - bhavangupaccheda (arrest bhavanga), which is mahā-vipāka,
@@ -626,11 +626,11 @@ successively more subtle.
 
 The first stage of arūpa-jhāna is the jhānacitta that
 has as object infinity of space, it is ākāsanañcāyatana
-jhānacitta.[263](#ftn263)
+jhānacitta.[^263]
 
 The second stage of arūpa-jhāna is the jhānacitta that
 has as object infinity of consciousness, it is viññāṇañcāyatana
-jhānacitta.[264](#ftn264) This citta has as object the jhānacitta of the
+jhānacitta.[^264] This citta has as object the jhānacitta of the
 first stage of arūpa-jhāna that experiences infinity of space. The
 person who cultivates this stage of arūpa-jhāna sees that the object of
 infinity of space is not as subtle as the object that is the jhānacitta
@@ -641,7 +641,7 @@ stage of arūpa-jhāna, of infinity of consciousness.
 
 The third stage of arūpa-jhāna is the jhānacitta that
 has as object “there is nothing,” it is ākiñcaññāyatana
-jhānacitta.[265](#ftn265) When the person who cultivates this stage sees
+jhānacitta.[^265] When the person who cultivates this stage sees
 that the object of the second stage, the infinity of consciousness, is
 not as subtle and refined as the object of nothingness, he transcends
 the object of the second stage and turns to the object of nothingness,
@@ -661,7 +661,7 @@ that appanā-samādhi arises, and he attains the fourth stage of
 arūpa-jhāna. Saññā and the accompanying dhammas at this stage of jhāna
 are so subtle that it cannot be said that they are present nor that they
 are not present; they are present in a residual way and cannot
-effectively perform their functions.[266](#ftn266) The arūpa-jhāna of
+effectively perform their functions.[^266] The arūpa-jhāna of
 the fourth stage, the “sphere of neither-perception-nor-non-perception”
 is so called, because it cannot be said that there is perception, saññā,
 nor can it be said that there is not. 
@@ -706,7 +706,7 @@ kasina preliminary work is difficult for a beginner and only one in a
 hundred or a thousand can do it. The arousing of the (acquired) mental
 image is difficult for one who has done the preliminary work and only
 one in a hundred or a thousand can do it. To extend the sign when it has
-arisen[267](#ftn267) and to reach absorption is difficult and only one
+arisen[^267] and to reach absorption is difficult and only one
 in a hundred or a thousand can do it. To tame one’s mind in fourteen
 ways after reaching absorption is difficult and only one in a hundred or
 a thousand can do it. The transformation by supernatural power after
@@ -795,7 +795,7 @@ four noble Truths had cultivated jhāna and some had not cultivated
 jhāna. The ariyans who had become enlightened without having attained
 jhāna were greater in number than those who had attained enlightenment
 with lokuttara cittas accompanied by jhāna-factors of different
-stages.[268](#ftn268) This shows us again that the development of
+stages.[^268] This shows us again that the development of
 samatha in the right way is extremely difficult and most intricate.
 
 

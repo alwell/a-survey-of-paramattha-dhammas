@@ -59,7 +59,7 @@ The characteristics of sampayutta dhammas, citta and
 cetasikas, have been explained in detail so that it can be clearly known
 that nāma is completely different from rūpa. When we listen to the
 teachings and study them, conditions are gradually being built up (as
-saṅkhārakkhandha)[166](#ftn166) for the arising of sati and paññā. Thus,
+saṅkhārakkhandha)[^166] for the arising of sati and paññā. Thus,
 satipaṭṭhāna will arise and the characteristics of nāma and rūpa will be
 investigated and known, one at a time. They will appear as clearly
 distinct from each other, as being not associated (not sampayutta),
@@ -102,7 +102,7 @@ because citta is a paramattha dhamma, an absolute or ultimate reality.
 When the associated dhammas, the cetasikas, are akusala, the citta is
 akusala. When the associated dhammas are sobhana (beautiful), citta can
 be kusala, kusala vipāka or sobhana kiriyacitta (of the arahat), in
-accordance with the jāti of the citta.[167](#ftn167)
+accordance with the jāti of the citta.[^167]
 
 The “Atthasālini” (I, Book I, Part IV, Ch II, Section of
 Exposition, 142) states that the Buddha has accomplished a difficult
@@ -174,7 +174,7 @@ threefold (“Atthasālinī”, Book I, Part I, Mātikā, Ch I, The Triplets,
 
 All paramattha dhammas that are not kusala dhammas or
 akusala dhammas are indeterminate dhammas, avyākata
-dhammas.[168](#ftn168) Thus, when citta and cetasika are classified
+dhammas.[^168] Thus, when citta and cetasika are classified
 according to this threefold method, the cittas and cetasikas which are
 avyākata dhammas are: cittas and cetasikas which are vipāka, and cittas
 and cetasikas which are kiriya. The four paramattha dhammas of citta,

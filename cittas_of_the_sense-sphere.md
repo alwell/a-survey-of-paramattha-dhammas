@@ -16,7 +16,7 @@ terms, 62) gives an explanation of the meaning of kāmāvacara, sensuous,
 according to different methods. According to one method of explanation,
 kāmāvacara is used for the citta that is involved in kāmāvacara dhammas,
 thus, it is the citta which is of the grade of the sensuous plane of
-consciousness. “Kāmāvacara” is the complete term,[169](#ftn169) but the
+consciousness. “Kāmāvacara” is the complete term,[^169] but the
 abridged form of “kāma” is also used. Citta of the grade or plane of
 kāma, kāmāvacara citta, frequents objects of sense, namely: visible
 object, sound, odour, flavour and tangible object.
@@ -40,10 +40,10 @@ the supramundane plane, lokuttara bhūmi. Thus, cittas are varied as they
 are of different planes of citta. The eighty-nine cittas can be
 classified according to the planes of citta in the following way:
 
-- 54 kāmāvacara cittas,[170](#ftn170) 
-- 15 rūpāvacara cittas,[171](#ftn171) 
-- 12 arūpāvacara cittas,[172](#ftn172) 
-- 8 lokuttara cittas.[173](#ftn173) 
+- 54 kāmāvacara cittas,[^170] 
+- 15 rūpāvacara cittas,[^171] 
+- 12 arūpāvacara cittas,[^172] 
+- 8 lokuttara cittas.[^173] 
 
 
 
@@ -68,8 +68,8 @@ clings to them. Vatthu kāma are the objects that are the basis on which
 desire or clinging depends, that which is desired. Vatthu kāma also
 comprises the three classes of planes of existence where a person can be
 reborn: the sensuous planes of existence (kāma bhūmi), the fine material
-planes (rūpa bhūmi)[174](#ftn174) and the immaterial
-planes.[175](#ftn175) So long as lobha has not been eradicated, one is
+planes (rūpa bhūmi)[^174] and the immaterial
+planes.[^175] So long as lobha has not been eradicated, one is
 not free from the cycle of birth and death and, thus, one can be reborn
 in those planes. They are vatthu kāma, the objects for kilesa kāma, the
 sensuousness of defilements. 
@@ -139,7 +139,7 @@ attained the third stage of enlightenment) or an arahat still clings to
 visible object, sound, odour, flavour and tangible object. This shows
 how difficult it is to eradicate clinging to the sense objects that
 appear through the six doors. Even if someone has cultivated calm to the
-degree of jhāna and he is reborn in a brahma plane,[176](#ftn176)
+degree of jhāna and he is reborn in a brahma plane,[^176]
 clinging to the sense objects cannot be completely eradicated. If he is
 not yet an anāgāmī, he will again and again return to a life of clinging
 to visible object and the other sense objects that appear through six
@@ -163,7 +163,7 @@ vatthu kama, this has, according to the “Atthasālinī, a wider meaning
 than visible object, sound, odour, flavour or tangible object. Any kind
 of dhamma that is a basis or foundation for attachment is actually
 vatthu kāma. Lobha cetasika is the reality that is attached, which
-clings to everything, except lokuttara dhammas.[177](#ftn177) Lobha
+clings to everything, except lokuttara dhammas.[^177] Lobha
 clings to the rūpa-brahma planes and the arūpa -brahma planes, thus,
 these are vatthu kāma, the basis on which clinging depends. All dhammas
 other than lokuttara dhammas are vatthu kāma, they are the basis of
@@ -175,7 +175,7 @@ explanation, kāmāvacara citta is the citta of the grade or plane of
 sensuousness, kāma; it is not free from kāma, sensuousness. According to
 the second method, kāmāvacara citta is the citta which frequents,
 “travels” to the sensuous planes of existence: the four unhappy
-planes,[178](#ftn178) the human plane and the six classes of heavenly
+planes,[^178] the human plane and the six classes of heavenly
 planes (of the devas). According to the third explanation, kāmāvacara
 citta is so called because it attends to, frequents, the sense objects:
 visible object, sound, odour, flavour and tangible object. Since the

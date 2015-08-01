@@ -20,9 +20,9 @@ And citta it is above all other things
 That brings everything under its sway.”
 
 ```
-This sutta shows us the power of citta.[98](#ftn98) Citta is an element
+This sutta shows us the power of citta.[^98] Citta is an element
 that experiences something, a reality that experiences an object. It is
-the “chief,” the leader in knowing the object that appears.[99](#ftn99)
+the “chief,” the leader in knowing the object that appears.[^99]
 There is not only citta that sees, citta that hears, citta that smells,
 citta that tastes or citta that experiences tangible object, there is
 also citta that thinks about many diverse subjects. The world of each
@@ -85,7 +85,7 @@ have been given. Citta is called mind (mano or mānasa), heart (hadaya),
 “that which is pure”(paṇḍara), mind-base (manāyatana), faculty of mind
 (manindriya), consciousness (viññāṇa), the khandha of consciousness
 (viññāṇakkhandha), and the element of “mind-consciousness” (mano-viññāṇa
-dhātu).[100](#ftn100)
+dhātu).[^100]
 
 The Buddha used several synonyms for citta so that the
 characteristic of citta that is common to everybody could be understood.
@@ -162,7 +162,7 @@ When we develop understanding, we should investigate the
 characteristics of realities as they are, according to the truth the
 Buddha realized through his attainment of Buddhahood, and that he taught
 to others. He taught the four “Applications of
-Mindfulness.”[101](#ftn101) Mindfulness of citta (cittanupassanā
+Mindfulness.”[^101] Mindfulness of citta (cittanupassanā
 satipaṭṭhāna) means that when there is, for instance seeing, sati is
 mindful, non-forgetful, of its characteristic. We should investigate,
 study and apply our attention to the reality of seeing so that we shall
@@ -197,7 +197,7 @@ paṇḍaraṃ), with reference to the life-continuum (bhavanga). So the
 Buddha has said: 'Bhikkhus, the mind is luminous (pabhassaraṃ), but is
 corrupted by adventitious corruptions.' ” The “Atthasālinī” then
 explains that when the citta is akusala, it is still called ‘pure’
-(paṇḍaraṃ).[102](#ftn102)
+(paṇḍaraṃ).[^102]
 
 The characteristic of citta is clearly knowing an
 object, and hence citta is by nature (sabhāva) pure. Even when it is
@@ -221,7 +221,7 @@ Bhavanga-cittas arise and fall away until another type of citta arises
 that experiences an object through the eyes, the ears, the nose, the
 tongue, the bodysense or the mind-door. The bhavanga-cittas arise in
 between the processes of cittas that experience objects
-through the six doors[103](#ftn103) and this goes on continuously until
+through the six doors[^103] and this goes on continuously until
 the end of one’s lifespan as a particular person. 
 
 The bhavanga-citta does not experience an object through
@@ -263,7 +263,7 @@ citta is akusala, because it is accompanied by the cetasika that is
 attachment, lobha cetasika. Lobha is the dhamma that takes pleasure in
 an object, which clings to it, and is absorbed in it. The Buddha taught
 people to study and investigate realities so that sati of satipaṭṭhāna
-could be aware of the characteristics of the realities that are appearing[104](#ftn104) and right understanding of them could be
+could be aware of the characteristics of the realities that are appearing[^104] and right understanding of them could be
 developed. This means that one should investigate realities, notice
 their characteristics and be aware of them in order to know them
 precisely, just as they are. In this way, we can come to know which
@@ -402,12 +402,12 @@ cetasika must always arise at a particular rūpa that is the place of
 origin for citta and cetasikas. That rūpa is called “vatthu rūpa,”
 physical base. The eyesense is vatthu rūpa, the eye-base, since it is
 the place of origin for seeing-consciousness and the cetasikas that
-arise together with it.[105](#ftn105) Realities cannot arise singly, on
+arise together with it.[^105] Realities cannot arise singly, on
 their own. When a reality arises, there must be other realities that
 arise together with it at that moment and that condition it. Whatever
 reality conditions another reality to arise simultaneously with it,
 conditions that reality by way of conascence-condition,
-sahajāta-paccaya.[106](#ftn106)
+sahajāta-paccaya.[^106]
 
 A conditioning dhamma, a paccaya, is a dhamma that
 assists or supports another dhamma to arise or to subsist. Thus, it is
@@ -478,7 +478,7 @@ smelling-consciousness, tasting-consciousness and body-consciousness.
 Also, the dying-consciousness of the arahat does not produce any rūpa.
 Apart from these types of cittas, each type of citta arising in the
 planes where there are five khandhas conditions rūpa to arise
-simultaneously with it at its arising moment.[107](#ftn107) 
+simultaneously with it at its arising moment.[^107] 
 
 Each person accumulates inclinations that are variegated
 (vicitta). Some people accumulate a great deal of akusala

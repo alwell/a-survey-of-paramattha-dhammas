@@ -65,7 +65,7 @@ vipākacitta can experience only a pleasant object.
 
 The “Atthasālinī” (II, Book I, Part X, Ch VI, 293)
 explains that the characteristic of kiriyacitta is the “mere acting or
-doing of a function.”[131](#ftn131) There are different types of
+doing of a function.”[^131] There are different types of
 kiriyacitta: those of the arahat, which perform the function of javana,
 and those which do not perform the function of javana, but carry out
 other functions and are common to the arahat and the non-arahat. As to
@@ -218,7 +218,7 @@ Therefore, there are conditions for the arising of kusala cittas,
 akusala cittas or kiriyacittas, which run through the object in a
 succession of seven cittas of the same type. The javana vīthi-cittas can
 partake of the object, they “consume” it. In the case of a “futile
-course”[132](#ftn132), sound, for example, may impinge on the ear-sense,
+course”[^132], sound, for example, may impinge on the ear-sense,
 but there will not be hearing, and javana-cittas will not arise either.
 Even so, in the case of a course ending with determining-consciousness,
 votthapana-citta, javana-cittas that are kusala cittas, akusala cittas
@@ -257,9 +257,9 @@ There are three levels of defilements:
 - subtle defilement, anusaya kilesa, accumulated defilements which
  lie dormant in the citta as latent tendencies; 
 
-- medium defilement, pariyuṭṭhāna[133](#ftn133) kilesa, arising
+- medium defilement, pariyuṭṭhāna[^133] kilesa, arising
  together with the javana-citta; 
-- coarse defilement, vītikkama[134](#ftn134) kilesa, arising
+- coarse defilement, vītikkama[^134] kilesa, arising
  together with the javana-citta. 
 
 
@@ -276,7 +276,7 @@ themselves in their own series of several kāmāvacara cittas of the same
 type: akusala citta, kusala citta or kiriyacitta. 
 
 In the case of the eye-door process, there are seven
-different types of vīthi-cittas.[135](#ftn135) It is the same in the
+different types of vīthi-cittas.[^135] It is the same in the
 case of the ear-door process or the other sense-door processes, there
 are seven different types of vīthi-cittas. In the case of the mind-door
 process, there are three different types of vīthi-cittas.

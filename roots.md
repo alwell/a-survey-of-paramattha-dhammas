@@ -49,7 +49,7 @@ hetus. For the arahat there are no akusala hetus nor are there kusala
 hetus. The cetasikas alobha, adosa and paññā (amoha), that accompany the
 kiriyacitta which performs the function of javana in the case of the
 arahat are indeterminate roots, avyākata hetus, roots that are neither
-kusala nor akusala.[197](#ftn197) 
+kusala nor akusala.[^197] 
 
 Indeterminate dhammas, avyākata dhammas, are realities
 that are neither kusala nor akusala, namely: vipākacitta, kiriyacitta,
@@ -61,7 +61,7 @@ three sobhana hetus of alobha, adosa and paññā. In this classification
 the term sobhana, beautiful, is used and not kusala. The hetus that are
 kusala condition kusala vipāka, result, which arises later on. Whereas
 sobhana hetus arise with kusala citta, with kusala
-vipākacitta[198](#ftn198) and with sobhana kiriyacitta. Thus, sobhana
+vipākacitta[^198] and with sobhana kiriyacitta. Thus, sobhana
 hetus do not merely arise with kusala citta.
 
 The four paramattha dhammas can be classified as twofold
@@ -75,7 +75,7 @@ by way of not hetu (in Pāli na-hetu) and hetu:
 
 Citta and forty-six cetasikas are na-hetu. Some cittas
 and cetasikas are accompanied by cetasikas that are hetus; they are
-sahetuka citta and cetasika.[199](#ftn199) Some cittas and cetasikas are
+sahetuka citta and cetasika.[^199] Some cittas and cetasikas are
 not accompanied by hetus, they are ahetuka citta and cetasika.
 
 Seeing-consciousness, which sees visible object that
@@ -175,7 +175,7 @@ different kind of condition.
 
 Phassa cetasika is nutrition-condition, āhāra-paccaya.
 This type of condition brings its own fruit or result, in this case
-feeling.[200](#ftn200) This type of condition is different from
+feeling.[^200] This type of condition is different from
 root-condition, hetu-paccaya; a root is a firm foundation for the
 dhammas it conditions. As we have seen, the hetus have been
 

@@ -9,7 +9,7 @@
 
 
 The aññāsamāna cetasikas are of the same nature (jāti)
-as the other cetasikas they accompany.[359](#ftn359) When aññāsamāna
+as the other cetasikas they accompany.[^359] When aññāsamāna
 cetasika accompanies akusala cetasikas, it is also akusala, and when it
 accompanies sobhana cetasikas it is also sobhana. The aññāsamāna
 cetasikas can accompany akusala cetasikas as well as sobhana cetasikas.
@@ -17,8 +17,8 @@ cetasikas can accompany akusala cetasikas as well as sobhana cetasikas.
 
 The thirteen aññāsamāna cetasikas can be classified as
 two categories: seven universals (sabbacitta sādhāraṇā
-cetasikas)[360](#ftn360) and six particulars (pakiṇṇakā
-cetasikas)[361](#ftn361). The seven universals are cetasikas
+cetasikas)[^360] and six particulars (pakiṇṇakā
+cetasikas)[^361]. The seven universals are cetasikas
 accompanying each type of citta. Every citta that arises has to be
 accompanied by at least seven cetasikas, the seven universals. The five
 pairs of sense-cognitions (seeing, hearing, etc. which can be kusala
@@ -43,7 +43,7 @@ than these seven cetasikas, depending on the type of citta concerned.
  arise together and manifest their specific characteristics while
  they perform their functions. Therefore, phassa cetasika is
  nutrition-condition, āhāra-paccaya, for the citta and the other
- cetasikas arising together with it.[362](#ftn362) 
+ cetasikas arising together with it.[^362] 
 
 2. Feeling, vedanā cetasika, is the cetasika that feels. When citta
  arises and cognizes an object, the feeling that arises together with
@@ -77,9 +77,9 @@ than these seven cetasikas, depending on the type of citta concerned.
  dhammas arising together with it at that moment. Cetanā cetasika is
  kamma-condition, kamma-paccaya. Cetanā cetasika accompanying
  vipākacitta is conascent kamma-condition,
- sahajāta-kamma-paccaya,[363](#ftn363) it performs its function as
+ sahajāta-kamma-paccaya,[^363] it performs its function as
  cetanā that is vipāka, arising together with vipākacitta and the
- other cetasikas that are also vipāka[364](#ftn364) and then it falls
+ other cetasikas that are also vipāka[^364] and then it falls
  away. Cetanā cetasika that is kiriya is also conascent
  kamma-condition. It performs its function as it arises together with
  kiriyacitta and the other cetasikas that are kiriya cetasikas, and
@@ -88,7 +88,7 @@ than these seven cetasikas, depending on the type of citta concerned.
  which is completed) and kusala cetanā which accompanies kusala citta
  and accomplishes kusala kamma patha, are, after they have fallen
  away, “kamma-condition operating from a different moment,”
- nānā-khaṇika kamma-paccaya.[365](#ftn365) This type of kamma
+ nānā-khaṇika kamma-paccaya.[^365] This type of kamma
  produces vipāka citta and cetasikas arising later on. Thus, when
  akusala cetanā and kusala cetanā that are cause, have fallen away,
  they can produce results in the form of vipākacitta and cetasikas
@@ -116,7 +116,7 @@ than these seven cetasikas, depending on the type of citta concerned.
  which arises together with them and maintains their life at that
  moment. Jīvitindriya cetasika is faculty-condition, indriya-paccaya,
  for the citta and cetasikas it accompanies; it is a
- “leader”[366](#ftn366) in watching over the accompanying dhammas so
+ “leader”[^366] in watching over the accompanying dhammas so
  that they subsist just for a moment before they fall away. 
 
 7. Attention or manasikāra, is the cetasika that is attentive to the
@@ -151,11 +151,11 @@ citta.
 1. Applied thinking, vitakka cetasika, touches the object which
  phassa cetasika contacts. Applied thinking accompanies fifty-five
  kāmāvacara cittas and eleven jhānacittas of the first
- stage.[367](#ftn367) It does not arise with the five pairs of
+ stage.[^367] It does not arise with the five pairs of
  sense-cognitions nor does it arise with the jhānacittas of the
  second stage up to the fifth stage. Applied thinking touches the
  object, it “thinks” of it in accordance with the citta and cetasikas
- it accompanies.[368](#ftn368) Applied thinking, which thinks of the
+ it accompanies.[^368] Applied thinking, which thinks of the
  object, is like the feet of the world; it causes the world to
  progress, as it accompanies the citta which cognizes the object. 
 
@@ -300,7 +300,7 @@ other akusala cetasikas accompany akusala cittas as the case demands.
  completely eradicated when the magga-citta of the sotāpanna arises
  and realizes the four noble Truths. Thus, the ariyans do not have
  avarice anymore. As regards the lay follower who is ariyan but not
- yet arahat,[369](#ftn369) he has not given up all his possessions,
+ yet arahat,[^369] he has not given up all his possessions,
  because he still has lobha cetasika. However, he has no avarice,
  since it was eradicated at the stage of enlightenment of the
  sotāpanna. He follows the right Path and when there is a proper
@@ -340,12 +340,12 @@ other akusala cetasikas accompany akusala cittas as the case demands.
 For the convenience of memorizing, the akusala cetasikas
 can be classified in the following categories:
 
-- Mocātuka, the quartet[370](#ftn370) of moha and three other
+- Mocātuka, the quartet[^370] of moha and three other
  cetasikas that are the akusala cetasikas common to all akusala
  cittas, the akusala sādhāraṇā cetasikas. These are: moha, ahirika,
  anottappa and uddhacca. 
 
-- Lotika, the triad[371](#ftn371) of lobha and two other cetasikas
+- Lotika, the triad[^371] of lobha and two other cetasikas
  that can arise together with lobha. This triad is: lobha, diṭṭhi,
  wrong view, and māna, conceit. Diṭṭhi and māna arise with lobha
  cetasika, but diṭṭhi and māna cannot arise at the same time. When
@@ -363,7 +363,7 @@ can be classified in the following categories:
  time and they do not always accompany dosa-mūla-citta. Sometimes
  they accompany dosa-mūla-citta, sometimes they don’t. 
 
-- Thīduka, the dyad[372](#ftn372) of thīna, sloth, and middha,
+- Thīduka, the dyad[^372] of thīna, sloth, and middha,
  torpor. These two cetasikas always arise together, they cannot be
  separated. They can accompany the five types of akusala cittas that
  are sasaṇkhārika, but they do not always accompany these cittas. 
@@ -402,13 +402,13 @@ types:
 
 - Abstinences, virati cetasikas, of which there are three types,
  accompanying sixteen types of citta: eight mahā-kusala cittas and
- eight lokuttara cittas (or forty types).[373](#ftn373) 
+ eight lokuttara cittas (or forty types).[^373] 
 - Illimitables, appamaññā cetasikas, among which two types
  (compassion and sympathetic joy) can accompany eight types of
  mahā-kusala citta, eight types of mahā-kiriyacitta, four types of
  rūpāvacara kusala citta (not those of the fifth stage of jhāna),
  four types of rūpāvacara vipākacitta and four types of rūpāvacara
- kiriyacitta.[374](#ftn374) 
+ kiriyacitta.[^374] 
 - Wisdom, paññā cetasika, which accompanies forty-seven cittas:
  twelve types of kāmāvacara cittas called ñāṇa sampayutta,
  accompanied by paññā; twenty-seven types of mahaggata cittas
@@ -460,11 +460,11 @@ types:
 7. Equanimity, tatramajjhattatā cetasika, is mental balance,
  evenmindedness, impartiality. It is neutrality (upekkhā) towards the
  object that is experienced. There are ten kinds of Equanimity,
- Upekkhā:[375](#ftn375)
+ Upekkhā:[^375]
     - Sixfold Upekkhā, chaḷaṅga upekkhā, which is tatramajjhattatā
  cetasika. This is the evenmindedness or neutrality of the arahat
  towards the objects appearing through the six doors. 
-    - Equanimity of one of the brahma-vihāras,[376](#ftn376)
+    - Equanimity of one of the brahma-vihāras,[^376]
  brahma-vihārupekkhā. This is tatramajjhattatā cetasika which is
  evenmindedness towards beings. 
     - Equanimity that is one of the enlightenment factors,
@@ -498,7 +498,7 @@ types:
  all that opposes calm. At this stage there are no more jhāna-factors
  to be abandoned. 
 
-8. Tranquility of body, kāya-passaddhi.[377](#ftn377) This is the
+8. Tranquility of body, kāya-passaddhi.[^377] This is the
  cetasika that is calm, not restless, and it conditions the
  accompanying cetasikas to be calm and not restless. 
 
@@ -540,7 +540,7 @@ types:
  conditions the citta it accompanies to be suitable in its
  functioning as sobhana dhamma. Wieldiness of body and wieldiness of
  citta are opposed to the akusala dhammas which cause citta to be
- unwieldy with regard to sobhana dhammas.[378](#ftn378) 
+ unwieldy with regard to sobhana dhammas.[^378] 
 
 16. Proficiency of body, kāya-pāguññatā. This is the cetasika that is
  skilful and it conditions the accompanying cetasikas to be skilful

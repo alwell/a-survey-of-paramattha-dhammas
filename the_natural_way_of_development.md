@@ -182,10 +182,10 @@ When sati is aware of the realities that are appearing,
 there is higher sīla, sīla that is more refined. Sati is aware of the
 characteristics of citta, cetasika and rūpa. It is aware of kusala
 dhammas and akusala dhammas before actions through the body or through
-speech arise.[324](#ftn324) 
+speech arise.[^324] 
 
 Satipaṭṭhāna is training in higher consciousness, which
-means concentration, samādhi or ekaggatā cetasika.[325](#ftn325) When
+means concentration, samādhi or ekaggatā cetasika.[^325] When
 sammā-sati arises, there is concentration on the nāma or rūpa that
 appears, on the dhamma that arises and falls away very rapidly.
 
@@ -412,7 +412,7 @@ away today, thus much yesterday, and thus much at other times.’ But he
 knows the wearing away of them just by their wearing away.”
 
  Understanding has to be developed for an endlessly long
-time.[326](#ftn326) Some people dislike it that sati and paññā develop
+time.[^326] Some people dislike it that sati and paññā develop
 only very gradually, but there is no other way. If someone is impatient
 and tries to combine different ways of practice in order to hasten the
 development of paññā, he makes his life very complicated. 

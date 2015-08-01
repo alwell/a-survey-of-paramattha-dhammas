@@ -6,14 +6,14 @@ because it thinks of its object, it clearly cognizes its object. We then
 read:
 
 “Or, inasmuch as this word citta is common to all states or classes of
-citta, that which is known as mundane (lokiya)[108](#ftn108): kusala
-(wholesome), akusala (unwholesome), or mahā-kiriya,[109](#ftn109) is
+citta, that which is known as mundane (lokiya)[^108]: kusala
+(wholesome), akusala (unwholesome), or mahā-kiriya,[^109] is
 termed ‘citta’, because it arranges itself (cināti) in its own series or
 continuity by way of javana (impulsion), in a process of citta. And the
 vipāka is also termed ‘citta’ because it is conditioned by accumulated
-(cita)[110](#ftn110) kamma and the defilements.
+(cita)[^110] kamma and the defilements.
 
-Moreover, all (four classes)[111](#ftn111) are termed citta because they
+Moreover, all (four classes)[^111] are termed citta because they
 are variegated (citra or vicitta) according to circumstance. The meaning
 of citta may also be understood from its capacity of producing a variety
 or diversity of effects.”
@@ -25,10 +25,10 @@ commentary to the “Dhammasangaṇi” (“Buddhist Psychological Ethics”), t
 first Book of the “Abhidhamma”. The aspects of citta can be classified
 as five or six categories:
 
-1. Citta is so called because it thinks (cinteti)[112](#ftn112) of an
+1. Citta is so called because it thinks (cinteti)[^112] of an
  object, it clearly knows an object.
 2. Citta is so called because it arranges itself in its own series or
- continuity, by way of javana in a process.[113](#ftn113)
+ continuity, by way of javana in a process.[^113]
 3. Citta is so called because it is result (vipāka), conditioned by
  accumulated (cita) kamma and defilements.
 4. Citta is so called because it is variegated (vicitta), according

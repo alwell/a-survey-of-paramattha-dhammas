@@ -29,14 +29,14 @@ of the Buddha when he met the venerable Assaji, one of the monks from
 the group of the first five disciples of the Buddha. The venerable
 Sāriputta was so impressed by the venerable Assaji’s comportment that he
 followed him, asking him who his preceptor was and what his preceptor
-was teaching. The venerable Assaji answered:[81](#ftn81)
+was teaching. The venerable Assaji answered:[^81]
 
 “Ye dhammā hetuppabhavā tesaṃ hetuṃ Tathāgato āha, tesañ ca yo nirodho,
 evaṃvādī Mahāsamaṇo ti.”
 
 This means:
 
-“Those things [dhammas] which proceed from a cause, of these the
+“Those things (dhammas) which proceed from a cause, of these the
 Truth-finder has told the cause. And that which is their stopping – the
 great recluse has such a doctrine.”
 
@@ -68,7 +68,7 @@ explained that whatever dhamma arises has conditions for its arising.
 The dhammas that arise are saṅkhāra dhammas, conditioned
 dhammas. We know that there are citta, cetasika and rūpa, because they
 arise, and they arise because of the appropriate conditions. Hence,
-citta, cetasika and rūpa are saṅkhāra dhammas.[82](#ftn82) 
+citta, cetasika and rūpa are saṅkhāra dhammas.[^82] 
 
 The Buddha’s teaching is complete as to the letter and
 meaning. But, he gave further explanations of Dhamma subjects, whose
@@ -77,14 +77,14 @@ meaning, making it even clearer. People might have misunderstandings
 about saṅkhāra dhamma, dhammas which arise because of conditions: they
 might mistakenly believe that dhammas that arise could continue to
 exist. Hence, the Buddha taught that saṅkhāra dhammas are also saṅkhata
-dhammas,[83](#ftn83) dhammas that have already been conditioned and then
-fall away.[84](#ftn84) The Buddha used the term saṅkhata dhamma in
+dhammas,[^83] dhammas that have already been conditioned and then
+fall away.[^84] The Buddha used the term saṅkhata dhamma in
 addition to saṅkhāra dhamma in order to explain that a dhamma that
 arises has conditions for its arising and that when the conditions fall
 away, that dhamma, which has arisen because of conditions, also must
 fall away. Saṅkhata dhamma is the dhamma that has been conditioned and
 then falls away. Hence, saṅkhāra dhamma, the dhamma that is compounded
-by conditioning factors, is also saṅkhata dhamma.[85](#ftn85) The
+by conditioning factors, is also saṅkhata dhamma.[^85] The
 paramattha dhammas, which are citta, cetasika and rūpa, are saṅkhāra
 dhamma as well as saṅkhata dhamma and they have the following
 characteristics:
@@ -93,7 +93,7 @@ characteristics:
 
 - Sabbe saṅkhāra dukkha - All conditioned dhammas are dukkha.
 
-- Sabbe dhammā anattā - All dhammas are non-self.[86](#ftn86) 
+- Sabbe dhammā anattā - All dhammas are non-self.[^86] 
 
 
 
@@ -151,16 +151,16 @@ understands this not merely by theoretical knowledge of the dhammas the
 Buddha taught, but by direct understanding of the dhammas the Buddha had
 penetrated by his enlightenment. The ariyan has eradicated all doubt
 concerning the dhammas the Buddha had penetrated, because the ariyan has
-realized those dhammas himself.[87](#ftn87) The ariyan has realized the
+realized those dhammas himself.[^87] The ariyan has realized the
 meaning of “Buddhahood” because by attaining enlightenment he has
 penetrated himself the true nature of the dhammas the Buddha taught. The
 person who understands and sees the Dhamma, sees the
-Tathāgata.[88](#ftn88) The person who studies the Dhamma and practises
+Tathāgata.[^88] The person who studies the Dhamma and practises
 the Dhamma in order to penetrate the true nature of realities can attain
 enlightenment and eradicate defilements. But this depends on the stage
 of enlightenment he has attained, be it the stage of the “stream-winner”
 (sotāpanna), the “once-returner” (sakadāgāmī), the “non-returner”
-(anāgāmī) or the arahat.[89](#ftn89)
+(anāgāmī) or the arahat.[^89]
 
 
 
@@ -195,23 +195,23 @@ citta, cetasika, rūpa and nibbāna are anattā. They are not self; they
 are not under anyone’s control. 
 
 Nibbāna is paramattha dhamma; it is reality. Nibbāna is
-not saṅkhāra dhamma, it is visaṅkhāra dhamma,[90](#ftn90) unconditioned
-dhamma. Nibbāna is the dhamma that does not arise,[91](#ftn91) it is the
+not saṅkhāra dhamma, it is visaṅkhāra dhamma,[^90] unconditioned
+dhamma. Nibbāna is the dhamma that does not arise,[^91] it is the
 opposite of saṅkhāra dhamma. Saṅkhāra dhamma is the dhamma that arises
 because of conditions whereas visaṅkhāra dhamma is the dhamma that does
 not arise, that is unconditioned. 
 
 Nibbāna is asaṅkhata dhamma, the dhamma that is not
-saṅkhata.[92](#ftn92) Saṅkhata dhamma is the dhamma that arises and
+saṅkhata.[^92] Saṅkhata dhamma is the dhamma that arises and
 falls away whereas asaṅkhata dhamma is the dhamma that does not arise
 and fall away. Nibbāna is not conditioned, and, thus, it does not arise
 and fall away.
 
 Citta, cetasika and rūpa, which are saṅkhāra dhammas,
-are lokiya, “mundane.” They are susceptible to destruction.[93](#ftn93)
+are lokiya, “mundane.” They are susceptible to destruction.[^93]
 Nibbāna, which is visaṅkhāra dhamma or asaṅkhata dhamma, is lokuttara.
 The word lokuttara means beyond the world, supramundane, free from the
-world.[94](#ftn94) 
+world.[^94] 
 
 Summarizing the paramattha dhammas, they are:
 
@@ -244,7 +244,7 @@ The five khandhas, groups or aggregates, comprise:
 - saṅkhārakkandha (all cetasikas, except feeling and remembrance),
  
 
-- viññāṇakkhandha (all cittas).[95](#ftn95) 
+- viññāṇakkhandha (all cittas).[^95] 
 
 
 
@@ -267,7 +267,7 @@ subtle, inferior or superior, far or near. Hence, khandha is saṅkhata
 dhamma, the dhamma that is conditioned, which arises and falls away, and
 thus, it can be described as past, present, future, etc. Whereas
 asaṅkhata dhamma, nibbāna, is the dhamma that does not arise, that is
-unconditioned.[96](#ftn96) It cannot be said of nibbāna that it has
+unconditioned.[^96] It cannot be said of nibbāna that it has
 arisen, that it has not yet arisen, or that it will arise. It cannot be
 described as past, future or present. Therefore, visaṅkhāra dhamma,
 nibbāna, is not khandha, it is freedom from khandha (khandha vimutti). 
@@ -292,7 +292,7 @@ khandhas.
 
 And what, monks, are the five khandhas that have to do with grasping
 (upādāna khandhas)? Any rūpa, monks, be it past, future or present...be
-it far or near, goes together with the āsavas (intoxicants)[97](#ftn97),
+it far or near, goes together with the āsavas (intoxicants)[^97],
 and is a condition for upādāna, grasping. That is called khandha of
 grasping, upādāna khandha. Any feeling...any perception...any group of
 “activities”...any consciousness, monks, be it past, future or

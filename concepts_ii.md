@@ -15,7 +15,7 @@ know that we see a man or woman, we don’t just know the reality that
 appears through the eyes, but we have an image (nimitta), a concept on
 account of what appears through the eyes. The image of the general
 appearance of a man or woman is the foundation of
-defilements.[234](#ftn234) Through the power of desire (chanda raga) we
+defilements.[^234] Through the power of desire (chanda raga) we
 take that image for something attractive. When we like a concept such as
 a belt, it shows that the belt is an attractive image. One is attached
 to it, one is ruled by desire. If the belt is not beautiful, if it is
@@ -68,7 +68,7 @@ Questioner: Are there also paramattha dhammas (ultimate
 realities) which are dhammārammaṇa?
 
 Sujin: There are six classes of
-dhammārammaṇa.[235](#ftn235) Five classes are paramattha dhammas and one
+dhammārammaṇa.[^235] Five classes are paramattha dhammas and one
 class is not paramattha dhamma. We should know when an object is a
 concept. When an object is not a paramattha dhamma, the object is a
 concept.
@@ -201,7 +201,7 @@ right?
 Sujin: The vīthi-cittas of the mind-door process, which
 follow vīthi-cittas of a sense-door process, have to experience the same
 rūpa. If the javana-cittas of the sense-door process are
-lobha-mūla-cittas[236](#ftn236) (cittas rooted in attachment), the
+lobha-mūla-cittas[^236] (cittas rooted in attachment), the
 javana-cittas of the first mind-door process after that sense-door
 process have to be the same types of lobha-mūla-citta. The mind-door
 process follows extremely rapidly upon the sense-door process. With
@@ -279,8 +279,8 @@ characteristics, such as the following names:
 - The five khandhas, 
 - The twelve āyatanas, 
 - The eighteen elements, 
-- The four noble Truths,[237](#ftn237) 
-- The twenty two indriyas,[238](#ftn238) 
+- The four noble Truths,[^237] 
+- The twenty two indriyas,[^238] 
 - The different groups of people (puggala). 
 
 
@@ -289,7 +289,7 @@ Thus, the Dhamma the Buddha taught needs different terms
 and names in order to be understood.
 
 The “Atthasālinī” uses different synonyms for nāma
-paññatti, concepts that are names.[239](#ftn239) It is an
+paññatti, concepts that are names.[^239] It is an
 interpretation, an expression that renders the meaning of something in
 language (nirutti). A name is a distinctive sign that shows the meaning
 of something (vyañcana). There are sounds which people utter, sounds
@@ -356,13 +356,13 @@ concepts and thus the characteristics of paramattha dhammas are hidden,
 they are not known as they are.
 
 Questioner: When we touch grapes or a picture of grapes,
-softness and hardness[240](#ftn240) are paramattha dhammas, the flavour
+softness and hardness[^240] are paramattha dhammas, the flavour
 of grapes is a paramattha dhamma. Many realities that are joined
 together constitute a real grape and this we call a concept. Thus, I am
 inclined to think that a concept is real.
 
 Sujin: The rūpa of flavour arises and then falls away;
-it can only last as long as seventeen moments of citta.[241](#ftn241)
+it can only last as long as seventeen moments of citta.[^241]
 The rūpa that is the colour of grapes arises and then falls away very
 rapidly since it only lasts as long as seventeen moments of citta. Can
 we then say that grapes exist?
@@ -418,7 +418,7 @@ away before the citta that hears arises.
 It seems that there can be hearing and seeing at the
 same time, but these are different moments of citta experiencing
 different objects. Rūpas arise and fall away and succeed one
-another.[242](#ftn242) Visible object appears through the eye-door and
+another.[^242] Visible object appears through the eye-door and
 after there have been bhavanga-cittas in between, it appears through the
 mind-door. Then, there are many mind-door processes of cittas that think
 of concepts. That is why people who walk, lift their hands or move, can

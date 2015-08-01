@@ -6,7 +6,7 @@
 Citta, or consciousness, is the dhamma that is the
 leader in knowing what appears, such as seeing or hearing. Cittas have
 been classified as 89 types in all, or, in special cases, as 121
-types.[55](#ftn55)
+types.[^55]
 
 Cetasika, or mental factor, is another type of dhamma,
 which arises together with citta, experiences the same object as citta,
@@ -29,9 +29,9 @@ not see. The eyes are only a condition for the arising of seeing, which
 is a citta. When sound impinges on the ear, the sound and the ear do not
 experience anything, the ear is not citta. The dhamma that hears the
 sound, that experiences the sound, is citta. Thus, citta
-paramattha[56](#ftn56) is the dhamma which experiences colour, sound or
+paramattha[^56] is the dhamma which experiences colour, sound or
 other objects. These paramattha dhammas, which are real, are
-“abhidhamma,”[57](#ftn57) non-self, beyond control, dependent on the
+“abhidhamma,”[^57] non-self, beyond control, dependent on the
 appropriate conditions. Even if a Buddha had not been born and
 discovered the truth, dhammas arise and fall away because of their own
 conditions and their own true nature. We read in the “Gradual Sayings,”
@@ -151,12 +151,12 @@ that are appropriate for the arising of those types of citta. There are
 the arising of each of these types there are not just one condition, but
 several conditions. For example, the citta which sees needs for its
 arising the condition which is the eye, the rūpa which is eyesense
-(cakkhuppasāda),[58](#ftn58) and the rūpa which is visible object or
+(cakkhuppasāda),[^58] and the rūpa which is visible object or
 colour, that which appears through the eyes.
 
 Citta is a paramattha dhamma that is not rūpa. The
 paramattha dhammas that are not rūpa are nāma-dhammas. Citta, cetasika
-and nibbāna are nāma-dhammas and rūpa is rūpa-dhamma.[59](#ftn59)
+and nibbāna are nāma-dhammas and rūpa is rūpa-dhamma.[^59]
 
 
 #### Cetasika Paramattha
@@ -218,7 +218,7 @@ the Dhamma, they understood and investigated the truth and came to know
 the paramattha dhammas that appeared at that moment as they really are.
 When the Buddha, for example, taught that seeing-consciousness, the
 citta which performs the function of seeing, is impermanent, they had
-sati-sampajañña (sati and paññā)[60](#ftn60) and when they were seeing
+sati-sampajañña (sati and paññā)[^60] and when they were seeing
 they knew the true nature of that citta; they realized it as a
 nāma-dhamma, not self, not a being, not a person. When they were hearing
 they had sati-sampajañña and they knew the characteristic of the dhamma

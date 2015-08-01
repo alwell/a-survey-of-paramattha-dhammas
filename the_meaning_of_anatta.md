@@ -2,7 +2,7 @@
 
 Questioner: There are four Applications of Mindfulness:
 mindfulness of the body, of feeling, of citta and of dhammas. The
-commentator[332](#ftn332) compares these four subjects with four
+commentator[^332] compares these four subjects with four
 gateways of a city, one of which faces east, one west, one north and one
 south. People can go to the centre of the city by anyone of these four
 gates. Many teachers today say that just as one can use anyone of the
@@ -21,7 +21,7 @@ dhammas.
 
 Sujin: What do you know through the bodysense? One
 should really consider all realities in detail, no matter whether they
-are classified as khandhas, āyatanas,[333](#ftn333) dhātus (elements) or
+are classified as khandhas, āyatanas,[^333] dhātus (elements) or
 the noble Truths. They are not beings, people or self. Conditioned
 realities appearing in daily life are either nāma, the reality that
 experiences something, or rūpa, the reality that does not know anything.
@@ -158,7 +158,7 @@ As regards the wording, “while walking, we should know
 that we are walking,” in reality it is not “I” or self who is walking.
 When sati is aware of the characteristics of rūpas of the body that
 appear while walking, there is mindfulness of the body (kāyānupassanā
-satipaṭṭhāna)[334](#ftn334). However, people cannot force sati to be
+satipaṭṭhāna)[^334]. However, people cannot force sati to be
 aware all the time of rūpas appearing through the bodysense. Sati is
 anattā and it depends on conditions whether it will arise and be aware
 of a characteristic of nāma or rūpa. It can be aware of any
@@ -203,7 +203,7 @@ gateways mentioned in the commentary refer to the moments before
 lokuttara citta arises and realizes nibbāna. In the process of attaining
 enlightenment, mahā-kusala kāmāvacara cittas (of the sense sphere) arise
 before lokuttara citta arises, and it depends on conditions which of the
-four satipaṭṭhānas this kāmāvacara citta takes as object.[335](#ftn335)
+four satipaṭṭhānas this kāmāvacara citta takes as object.[^335]
 However, this does not mean that someone could enter the city, that is,
 realizing nibbāna, without clearly knowing the characteristics of
 rūpakkhandha, vedanākkhandha, saññākkhandha, saṅkhārakkhandha and
@@ -288,7 +288,7 @@ away, how could there be seeing? Seeing must have fallen away.
 If someone at this moment would clearly know the
 characteristic of the reality which experiences an object, as an element
 which experiences, he would have attained already the first stage of
-insight knowledge, the “defining of nāma and rūpa.”[336](#ftn336) One
+insight knowledge, the “defining of nāma and rūpa.”[^336] One
 cannot develop paññā immediately to the degree of insight that is the
 fifth stage of “principal insight,” “knowledge of dispassion” (nibbidā
 ñāṇa). After the first stage of insight, paññā has to be developed
@@ -411,7 +411,7 @@ wood. As we have read, Ānanda said: “Even so, friend, a monk beholds no
 trace of self nor what pertains to the self in the sixfold
 sense-sphere.” 
 
-In the sixfold sense-sphere (phassāyatana)[337](#ftn337)
+In the sixfold sense-sphere (phassāyatana)[^337]
 there is no posture. Eyesense is an internal “āyatana”, and visible
 object is rūpāyatana, an external āyatana, it is only what appears
 through the eyes. Someone may see a person who is sitting and cling to
@@ -599,13 +599,13 @@ type of nāma. If sati is aware of nāma and rūpa and paññā understands
 them clearly, one can let go of the wrong view of a self or person who
 exists in this life. Then one has realized the characteristic of
 “momentary death” (khaṇika maraṇa) of realities, their passing away at
-each moment. There are three kinds of death:[338](#ftn338)
+each moment. There are three kinds of death:[^338]
 
 - momentary death, khaṇika maraṇa, which is the arising and falling
  away of all conditioned dhammas; 
 - conventional death, sammuti maraṇa, which is dying at the end of a
  lifespan; 
-- final death, samuccheda maraṇa,[339](#ftn339) which is
+- final death, samuccheda maraṇa,[^339] which is
  parinibbāna, the final passing away of the arahat who does not have
  to be reborn. 
 

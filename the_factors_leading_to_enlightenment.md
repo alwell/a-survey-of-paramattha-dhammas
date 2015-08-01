@@ -3,24 +3,24 @@
 Defilements can be classified according to different
 degrees; they can be subtle, medium or coarse defilements.
 
-The coarse defilements, vītikkama kilesas,[269](#ftn269)
+The coarse defilements, vītikkama kilesas,[^269]
 are the defilements that are the condition for committing akusala kamma
 through the body or through speech. One can abstain from vītikkama
 kilesa by the observance of sīla. 
 
 The medium defilements, pariyuṭṭhāna
-kilesas,[270](#ftn270) arise with the akusala citta that is not of the
+kilesas,[^270] arise with the akusala citta that is not of the
 degree of akusala kamma. They can be temporarily subdued by kusala
 jhānacitta, and that is elimination by suppression, (vikkhambhana
-pahāna)[271](#ftn271). 
+pahāna)[^271]. 
 
 The subtle defilements are the inherent tendencies,
-anusaya kilesas.[272](#ftn272) So long as defilements have not been
+anusaya kilesas.[^272] So long as defilements have not been
 completely eradicated, the anusaya kilesas lie dormant in the cittas
 that arise and fall away in succession. They are like germs that
 condition the arising of the medium defilements. Defilements cannot
 arise again when they have been completely eradicated (samuccheda
-pahāna)[273](#ftn273). When the lokuttara magga-citta realizes the noble
+pahāna)[^273]. When the lokuttara magga-citta realizes the noble
 Truths and experiences nibbāna, anusaya kilesas are eradicated in
 accordance with the stage of enlightenment that has been attained. They
 are successively eradicated at the different stages of enlightenment. 
@@ -38,7 +38,7 @@ taught the way that should be followed to realize the ariyan Truths.
 
 There were many disciples who could realize the noble
 Truths and eradicate defilements and thus, the ariyan
-Sangha[274](#ftn274) came into being. From that time on, people could
+Sangha[^274] came into being. From that time on, people could
 study and apply the Dhamma, which the Buddha had realized when he
 attained enlightenment, and which he taught in all details for
 forty-five years. The Dhamma the Buddha taught is subtle, intricate and
@@ -136,7 +136,7 @@ as the four Applications of Mindfulness, Satipaṭṭhānas. They are the
 following:
 
 1. Application of mindfulness of the body,
- kāyānupassanā[275](#ftn275) satipaṭṭhāna. When sati arises and is
+ kāyānupassanā[^275] satipaṭṭhāna. When sati arises and is
  aware of a characteristic of a rūpa of the body, there is at such a
  moment kāyānupassanā satipaṭṭhāna. 
 2. Application of mindfulness of feeling, vedanānupassanā
@@ -150,7 +150,7 @@ following:
 4. Application of mindfulness of dhammas, dhammānupassanā
  satipaṭṭhāna. This application of mindfulness includes the realities
  classified under aspects other than those of the first three
- applications of mindfulness.[276](#ftn276) When sati arises and is
+ applications of mindfulness.[^276] When sati arises and is
  aware of a dhamma included in this application of mindfulness, there
  is at such a moment dhammānupassanā satipaṭṭhāna. 
 
@@ -166,7 +166,7 @@ The word satipaṭṭhāna has three meanings:
  regard to the disciples who apply his teaching, with regard to those
  who do not apply it, and with regard to those people some of whom
  apply it and some do not. This is the Path the Sammāsambuddha and
- the ariyan disciples have developed.[277](#ftn277)
+ the ariyan disciples have developed.[^277]
 
 
 
@@ -229,7 +229,7 @@ dhammas that have arisen so that they will reach completion.
 These four right efforts are the foundation for the
 accomplishment of result, but there are other sobhana dhammas that have
 to accompany them in order to reach the goal and among these are the
-four “Roads to Power” or “Bases of Success,” iddhi-pādas.[278](#ftn278)
+four “Roads to Power” or “Bases of Success,” iddhi-pādas.[^278]
 These are the following:
 
 - The Basis of Success of chanda. This is chanda cetasika or
@@ -238,7 +238,7 @@ These are the following:
  they can be known as they are. Chanda is compared to a royal
  attendant who is diligent in his service to the King. Even so is
  chanda a basis of accomplishment so that the right result can be
- reached.[279](#ftn279) 
+ reached.[^279] 
 - The Basis of Success of viriya. This is viriya cetasika or energy,
  energy to notice and consider the characteristics of the nāmas and
  rūpas that are appearing. By dependence on energy, the right result
@@ -334,7 +334,7 @@ of enlightenment. Paññā reaches accomplishment by means of thirty-seven
 dhammas pertaining to enlightenment, the bodhipakkhiya dhammas. These
 are: the four applications of mindfulness, the four right efforts, the
 four bases of success, the five faculties, the five powers, the seven
-factors of enlightenment and the eight Path-factors.[280](#ftn280) 
+factors of enlightenment and the eight Path-factors.[^280] 
 
 The lokuttara citta is accompanied by all eight
 Path-factors. These are the following cetasikas: sammā-diṭṭhi, right
@@ -384,12 +384,12 @@ bhavanga-citta, which is vipākacitta
 
 
 
-In the case of lokuttara jhāna,[283](#ftn283) the
+In the case of lokuttara jhāna,[^283] the
 lokuttara jhānacitta is accompanied by the jhāna-factors of the stage of
 jhāna that was attained just before enlightenment. Thus, if there is
 lokuttara jhānacitta accompanied by the factors of the second stage of
 jhāna, vitakka cetasika, sammā-sankappa (right thinking) does not
-arise.[284](#ftn284) If there is lokuttara jhānacitta accompanied by the
+arise.[^284] If there is lokuttara jhānacitta accompanied by the
 factors of the third stage of jhāna, vicāra cetasika (sustained
 thinking) does not arise. If there is lokuttara jhānacitta accompanied
 by the factors of the fourth stage of jhāna, pīti cetasika (rapture)
@@ -403,7 +403,7 @@ consciousness) in the process during which magga-citta arises. Thus, in
 that process there are upacāra (proximatory consciousness), anuloma
 (adaptation), gotrabhū (change-of-lineage), magga-citta, and then,
 instead of two moments of phala-citta, there are three moments of
-phala-citta.[285](#ftn285) 
+phala-citta.[^285] 
 
 When the magga-vīthi-cittas have fallen away, there are
 bhavanga-cittas arising and falling away, and then there are processes

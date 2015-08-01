@@ -22,7 +22,7 @@ inclinations people have different characters.
 
 The third aspect of citta is the aspect of vipāka, of
 citta as result, conditioned by accumulated kamma and
-defilements.[153](#ftn153) If one has right understanding of
+defilements.[^153] If one has right understanding of
 vīthi-citta, citta arising in a process, it will be clearer what the
 cycle of birth and death is. We are born and we revolve in a threefold
 cycle: the cycle of defilement, the cycle of kamma and the cycle of
@@ -67,7 +67,7 @@ avijjā, is the condition for the arising of kamma-formation, saṅkhāra.
 This means that the cycle of defilement conditions the cycle of kamma.
 Kamma-formation, saṅkhāra, is the condition for the arising of
 consciousness, viññāṇa (in this case vipākacitta); this means that the
-cycle of kamma conditions the cycle of vipāka.[154](#ftn154)
+cycle of kamma conditions the cycle of vipāka.[^154]
 
 Ignorance, avijjā, is actually moha cetasika, the
 akusala dhamma that does not know realities as they are. It represents
@@ -77,8 +77,8 @@ the cycle of defilement that conditions the arising of kamma-formations.
 Kamma-formation, saṅkhāra, which is the fruit of
 ignorance, is threefold:
 
-- meritorious kamma-formation (puññābhisaṅkhāra)[155](#ftn155); 
-- demeritorious kamma-formation (apuññābhisaṅkhāra)[156](#ftn156); 
+- meritorious kamma-formation (puññābhisaṅkhāra)[^155]; 
+- demeritorious kamma-formation (apuññābhisaṅkhāra)[^156]; 
 - imperturbable kamma-formation (āneñjābhisaṅkhāra).
 
 
@@ -161,7 +161,7 @@ kamma and to what extent vipāka produced by akusala kamma.
 In the commentary to the “Gradual Sayings,” the
 “Manoratha Pūraṇi”, in the commentary to the Nidāna Sutta (Book of the
 Threes, Ch IV, §33, Causes), there is an explanation of this sutta
-according to the Abhidhamma method.[157](#ftn157) Kamma is classified as
+according to the Abhidhamma method.[^157] Kamma is classified as
 sixteen kinds: eight kinds of akusala kamma and eight kinds of kusala
 kamma. Akusala kamma as well as kusala kamma need other conditions to be
 able to produce their results. Four of these conditioning factors are
@@ -170,7 +170,7 @@ disadvantageous (vipatti). Some akusala kammas that have been performed
 can be prevented from producing result through four favourable factors:
 favourable place of birth (gati), favourable bodily condition (upadhi),
 favourable time (kāla) and success in means or occupation
-(payoga).[158](#ftn158) Thus, when someone has a favourable place of
+(payoga).[^158] Thus, when someone has a favourable place of
 birth, has a favourable bodily condition, lives in a favourable time and
 has success in his means or occupation, some akusala kammas do not have
 an opportunity to produce results.
@@ -221,7 +221,7 @@ performed both kusala kamma and akusala kamma but the opportunity for
 them to produce result depends on the factors of favourable or
 unfavourable place of birth and on other conditions.
 
-Bodily condition (upadhi)[159](#ftn159) is another
+Bodily condition (upadhi)[^159] is another
 factor that can be favourable or unfavourable. Dukkha, suffering, is
 inherent in bodily condition. Even when someone is born as a human
 being, thus, in a happy plane, akusala kamma that was committed in the
@@ -357,7 +357,7 @@ one is attached, there is ignorance which is unable to see that at such
 moments there are impure dhammas, that there is no inward peace but
 confusion caused by clinging. Whenever one is disturbed by selfish
 desire, by clinging, there are impure, akusala dhammas. People sometimes
-mistake attachment for confidence in kusala (saddhā).[160](#ftn160) If
+mistake attachment for confidence in kusala (saddhā).[^160] If
 sati does not arise and paññā does not investigate realities, it will
 not be known when there is attachment that is akusala and when there is
 confidence in wholesomeness that is kusala.
@@ -399,7 +399,7 @@ is the condition for the vipākacitta that experiences an object through
 one of the senses. 
 
 There are twenty-four principal conditions for all
-realities that arise.[161](#ftn161) Kamma-condition, kamma-paccaya, is
+realities that arise.[^161] Kamma-condition, kamma-paccaya, is
 one condition among them, being the condition for the arising of vipāka.
 Seeing, hearing, smelling, tasting, or the experience of tangible
 object, are vipākacittas accompanied by vipākacetasikas that arise

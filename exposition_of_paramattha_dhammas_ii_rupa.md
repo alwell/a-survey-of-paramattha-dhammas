@@ -2,7 +2,7 @@
 
 
 Rūpa paramattha dhamma is the reality that does not know
-anything.[61](#ftn61) It arises and falls away because of conditions,
+anything.[^61] It arises and falls away because of conditions,
 just as in the case of citta and cetasika.  
 
 Rūpa paramattha dhamma includes 28 different kinds of
@@ -75,7 +75,7 @@ same group. They are the following rūpas:
 - flavour (raso), the rūpa which appears through the tongue;  
 
 - nutritive essence (ojā), the rūpa which is one of the conditions
- for the arising of other rūpas.[62](#ftn62)  
+ for the arising of other rūpas.[^62]  
 
  
 
@@ -84,7 +84,7 @@ rūpas, are included in the eight rūpas that cannot be separated from
 each other. These eight rūpas constitute the minutest unit, kalāpa, of
 rūpas that arise and fall away together very rapidly. The four principle
 rūpas cannot arise without these four derived rūpas (upādāya
-rūpas)[63](#ftn63), which arise dependent on the four principal rūpas.
+rūpas)[^63], which arise dependent on the four principal rūpas.
 
 The four principle rūpas are the condition, the
 foundation, for the derived rūpas that arise together with them in the
@@ -103,21 +103,21 @@ interrelation, to facilitate comprehension and memorization.
 
 The different groups, or kalāpas of rūpas, that arise do
 not fall away immediately. A sabhāva rūpa, a rūpa with its own distinct
-nature or characteristic[64](#ftn64) lasts as long as the duration of
+nature or characteristic[^64] lasts as long as the duration of
 seventeen cittas arising and falling away, succeeding one another. With
 regard to the arising and falling away of rūpa, four different aspects
-can be discerned which have been classified as four lakkhaṇa[65](#ftn65)
+can be discerned which have been classified as four lakkhaṇa[^65]
 rūpas:
 
-- upacaya rūpa, the arising or origination of rūpa;[66](#ftn66)  
-- santati[67](#ftn67) rūpa, the development or continuation of rūpa;
+- upacaya rūpa, the arising or origination of rūpa;[^66]  
+- santati[^67] rūpa, the development or continuation of rūpa;
 - jaratā rūpa, the decay of rūpa;   
 - aniccatā rūpa, the falling away of rūpa.  
 
  
 
 These four lakkhaṇa rūpas are rūpas without their own
-distinct nature, asabhāva rūpas,[68](#ftn68) but they are themselves
+distinct nature, asabhāva rūpas,[^68] but they are themselves
 characteristics inherent in all rūpas. All rūpas, which have their own
 distinct nature, sabhāva rūpas, must have these four characteristics.
 These four characteristics are different: the arising of rūpa, its
@@ -215,7 +215,7 @@ body, in people and other living beings, owing to citta, but there must
 also be specific rūpas that originate from citta. If there were rūpas
 only produced by kamma one could not move or perform different
 functions. For the movement of the body and the performance of its
-functions, there are three kinds of vikāra[69](#ftn69) rūpas, rūpas that
+functions, there are three kinds of vikāra[^69] rūpas, rūpas that
 are changeability, and these are:
 
 - lahūta rūpa, buoyancy or lightness, as occurring in the body of

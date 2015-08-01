@@ -41,7 +41,7 @@ example, we do not know which kamma produces the vipākacitta that hears
 the sound of a child playing football. It is difficult to understand the
 subject of kamma in detail. It is one of the subjects that are
 “unthinkable,” subjects one cannot fathom, and therefore one should not
-speculate about them.[162](#ftn162)
+speculate about them.[^162]
 
 Kamma that has been performed already is a cause
 stemming from the past. Even if kamma has been performed at a time that
@@ -56,7 +56,7 @@ through the senses, is appearing at this moment, and thus it can be
 known.
 
 Among the four “Applications of Mindfulness” the third
-one is “Mindfulness of Citta.”[163](#ftn163) The first type of citta
+one is “Mindfulness of Citta.”[^163] The first type of citta
 mentioned in this section is citta with attachment (sarāgacitta). Sati
 can arise and be aware of the characteristic of the citta with
 attachment and clinging that appears time and again in daily life. If
@@ -217,7 +217,7 @@ since the past. We all should, in the present time, study the Dhamma and
 investigate it in detail.
 
 We read in the “Puggala Paññatti” (“Human Types”, Ch IV,
-§5)[164](#ftn164) that with regard to the grasping of the Dhamma there
+§5)[^164] that with regard to the grasping of the Dhamma there
 are four types of people: people who quickly grasp the Dhamma, can
 realize the four noble Truths and attain enlightenment even during a
 discourse (ugghaṭitaññū), people who attain enlightenment after a more
@@ -225,7 +225,7 @@ detailed explanation of a discourse that was uttered in brief
 (vipacitaññū), people who require guidance and have to study and develop
 paññā a great deal (neyya puggala), and people who, although they listen
 to the Dhamma, read a great deal, often discuss and explain the Dhamma
-to others, cannot attain enlightenment yet (pada parama)[165](#ftn165).
+to others, cannot attain enlightenment yet (pada parama)[^165].
 In the present time, there are no people of the first and second
 category, there are only those of the third and fourth category. 
 

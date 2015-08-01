@@ -70,7 +70,7 @@ variety of action, so that there are diverse effects in the future. We
 should not merely consider the different outward effects of citta. The
 Buddha reminded us to investigate the characteristic of citta arising at
 this moment, and this is “mindfulness of citta,” one of the four
-“applications of mindfulness.”[213](#ftn213) In order to understand the
+“applications of mindfulness.”[^213] In order to understand the
 characteristic of citta we should be aware of citta which sees at this
 moment, which hears, smells, tastes, experiences tangible object or
 thinks at this moment, thus, of the citta which is dependent on one of
@@ -132,7 +132,7 @@ by illusion.’ By a tainted citta, monks, beings are tainted. By purity
 of citta beings are made pure. 
 
 > Monks, have you ever seen a picture which they call a
-show-piece?”[214](#ftn214)
+show-piece?”[^214]
 
 > “Yes, lord.”
 
@@ -146,7 +146,7 @@ of citta beings are made pure.
 
 > Monks, I see not any single group so diverse as the creatures of the
 animal world. Those creatures of the animal world, monks, have their
-origin in citta.[215](#ftn215) Wherefore, monks, citta is even more
+origin in citta.[^215] Wherefore, monks, citta is even more
 variegated than those creatures of the animal world. 
 
 > Wherefore, monks, a monk must again and again thus regard his own citta:
@@ -211,7 +211,7 @@ enlightening, inciting and inspiring the monks by a sermon on the five
 khandhas of grasping. And the monks with their whole mind applied,
 attentive and intent, listened with rapt hearing to the Dhamma...”
 
-We then read that Māra[216](#ftn216) wanted to distract
+We then read that Māra[^216] wanted to distract
 the monks. He took the appearance of a bullock and went towards their
 bowls which were drying in the sun, whereupon the Buddha told the monks
 that it was not a bullock but Māra. The Buddha then said to Māra that

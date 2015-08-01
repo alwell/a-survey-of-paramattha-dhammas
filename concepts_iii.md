@@ -3,7 +3,7 @@
 
 
 Lobha-mūla-citta (consciousness with attachment) without
-wrong view,[243](#ftn243) diṭṭhigata vippayutta, which arises in our
+wrong view,[^243] diṭṭhigata vippayutta, which arises in our
 daily life, is not only attached to visible object, sound, odour,
 flavour, tangible object and concepts, it is also attached to micchā
 samādhi, wrong concentration. Someone may, for example, apply himself to
@@ -26,14 +26,14 @@ that sati is not self, anattā.
 It is not true that when someone applies himself first
 to micchā-samādhi, it will help paññā to know the characteristics of
 nāma and rūpa. In order for sati to be sammā-sati, a factor of the
-Eightfold Path,[244](#ftn244) it must accompany sammā-diṭṭhi, right
+Eightfold Path,[^244] it must accompany sammā-diṭṭhi, right
 understanding, which understands the characteristics of the realities
 that are appearing. These are the objects sati should consider in the
 right way. It should be mindful of them so that right understanding can
 become more and more refined. 
 
 Right understanding of nāma and rūpa is accumulated as
-saṅkhārakkhandha[245](#ftn245) and thus conditions are being developed
+saṅkhārakkhandha[^245] and thus conditions are being developed
 for the arising of direct awareness of the realities that are appearing.
 When there is seeing, one should know when the object is a paññatti, a
 concept, and when a paramattha dhamma. It is the same in the case of
@@ -104,13 +104,13 @@ away. After bhavanga-cittas that arise in between, there can be
 mind-door process cittas that think of the shape and form of what
 appeared. What appears through the eyes is a kind of rūpa, visible
 object, and this arises together with the four Great Elements of earth,
-water, fire and wind.[246](#ftn246) 
+water, fire and wind.[^246] 
 
 We cannot separate colour from these four Great
 Elements. Wherever the four Great Elements are, the rūpas that are
 colour, odour, flavour and nutritive essence also have to be together
 with them. These eight rūpas cannot be separated from each
-other.[247](#ftn247) Thus, since we cannot take colour away from the
+other.[^247] Thus, since we cannot take colour away from the
 four Great Elements, there can, after we have seen colour through the
 eyesense, be a concept on account of colour. Saññā remembers the meaning
 of the shape and form; we can have a concept of a whole, we can know
@@ -155,7 +155,7 @@ stay alive. They must be able to know what is food and what is not.
 
 Is there a difference in the way different people
 experience concepts, namely in the way the Buddha, the arahat, the
-anāgāmī, the sakadāgāmī, the sotāpanna[248](#ftn248) and the ordinary
+anāgāmī, the sakadāgāmī, the sotāpanna[^248] and the ordinary
 person experience them? There is a difference between ariyans and
 non-ariyans as to the way they experience concepts. Ordinary people who
 do not know anything about paramattha dhammas take concepts for things
@@ -344,7 +344,7 @@ of carriages in the Dhamma and Discipline. The Buddha explained that the
 defilements could be eradicated through the development of the Eightfold
 Path, not by seeing a white carriage with white trappings. The best of
 carriages is the ariyan eightfold Path. The Dhamma carriage is
-unsurpassed for its conquest in the fight.[249](#ftn249) The Buddha then
+unsurpassed for its conquest in the fight.[^249] The Buddha then
 said the following verse:
 
 ```

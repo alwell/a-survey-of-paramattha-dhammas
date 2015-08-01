@@ -53,7 +53,7 @@ indifferent feeling.
 Moreover, there is still another differentiation to be
 made. Lobha-mūla-cittas can arise without being prompted, asaṅkhārika,
 and they can arise because they are prompted,
-sasaṅkhārika.[191](#ftn191) Four types are unprompted and four types are
+sasaṅkhārika.[^191] Four types are unprompted and four types are
 prompted. The eight lobha-mūla-cittas are classified as follows:
 
 1. Accompanied by pleasant feeling, with wrong view, unprompted
@@ -120,7 +120,7 @@ the akusala citta is not accompanied by lobha cetasika, dosa cetasika or
 vicikicchā cetasika (doubt). Then we can know the characteristic of
 moha-mūla-citta that is uddhacca-sampayutta, arising when we are
 forgetful of realities and do not know the characteristic of the object
-that appears.[192](#ftn192)
+that appears.[^192]
 
 The two types of moha-mūla-citta are classified as
 follows:
@@ -220,7 +220,7 @@ unshakable.
 
 Kāmāvacara kusala citta (of the sense sphere) arises
 only for a very short moment and this kind of kusala is not unshakable.
-It arises merely seven times in one process.[193](#ftn193) It is only
+It arises merely seven times in one process.[^193] It is only
 occasionally that there is dāna, abstention from akusala or the
 development of other kinds of kusala. When there is no such opportunity,
 akusala citta arises very often, during many processes. Rūpāvacara
@@ -233,7 +233,7 @@ an object connected with rūpa.
 
 Imperturbable kamma formation is cetanā arising with
 arūpa-jhānacitta. This citta is of the same type as the fifth
-rūpa-jhānacitta,[194](#ftn194) but it has an object that is immaterial,
+rūpa-jhānacitta,[^194] but it has an object that is immaterial,
 not connected with rūpa, and therefore it is more refined; it is
 unshakable. It produces abundant result; it conditions the
 
@@ -372,7 +372,7 @@ them in a measure, has classified by means of his omniscience, and has
 shown them to be eight, making them into eight similar groups.”
 
 This classification as eight types of
-mahā-kusala[195](#ftn195) cittas is in accordance with the truth. They
+mahā-kusala[^195] cittas is in accordance with the truth. They
 are classified as eight types: they can be accompanied by pleasant
 feeling, somanassa vedanā, or by indifferent feeling, upekkhā vedanā,
 accompanied by paññā or without paññā, asaṅkhārika or sasaṅkhārika.

@@ -32,7 +32,7 @@ opportunity for the arising of different types of wholesomeness.
 Whereas, when one develops satipaṭṭhāna, it can arise instead of
 akusala, and votthapana-citta (determining-consciousness arising just
 before the javana-cittas) can then be contiguity-condition
-(anantara-paccaya)[124](#ftn124) for the arising of kusala cittas
+(anantara-paccaya)[^124] for the arising of kusala cittas
 according to one’s accumulations. Kusala citta can be accompanied by the
 degree of sati that is mindful of the reality that is appearing.
 
@@ -73,7 +73,7 @@ We should see the danger of the accumulation of akusala
 in the javana vīthi-cittas that arise and fall away in a succession of
 seven cittas. Akusala is accumulated time and again so that it becomes
 one’s nature and appears in one’s behaviour and speech and this
-accumulated behaviour is called “vāsanā”[125](#ftn125) in Pāli. Even
+accumulated behaviour is called “vāsanā”[^125] in Pāli. Even
 when one has become an arahat, there are inclinations accumulated in the
 citta that condition different kinds of behaviour. The Buddha is the
 only person who could eradicate “vāsanā.” All arahats have eradicated
@@ -88,7 +88,7 @@ five-sense-door process, they are the following seven types:
 1. The first vīthi-citta is the five-sense-door
  adverting-consciousness, pañca-dvārāvajjana-citta. 
 
-2. The second vīthi-citta is one of the five pairs[126](#ftn126) of
+2. The second vīthi-citta is one of the five pairs[^126] of
  sense-cognitions, dvi-pañca-viññāṇas, which are
  seeing-consciousness, hearing-consciousness, smelling-consciousness,
  tasting-consciousness and body-consciousness. 
@@ -170,7 +170,7 @@ At the moments one is fast asleep, and also in between processes, there
 are just bhavanga-cittas arising and falling away. The
 rebirth-consciousness, paṭisandhi-citta, the bhavanga-citta and the
 dying-consciousness, cuti-citta, are not vīthi-cittas, they do not
-experience an object through one of the six doors.[127](#ftn127) The
+experience an object through one of the six doors.[^127] The
 dying-consciousness is the last citta of this lifespan; it performs the
 function of passing away from one’s life as a particular individual. It
 is succeeded by the rebirth-consciousness of the next life, and then
@@ -296,7 +296,7 @@ mind-door adverting-consciousness have arisen and fallen away, kusala
 cittas or akusala cittas arise in the case of non-arahats. These types
 of vīthi-cittas perform the function of javana and they arise and fall
 away in a succession of seven cittas. After these have fallen away there
-are, if the object is very clear,[128](#ftn128) tadālambana-cittas
+are, if the object is very clear,[^128] tadālambana-cittas
 arising in a succession of two cittas. 
 
 Thus, there are only three types of vīthi-cittas arising
@@ -482,7 +482,7 @@ experience objects, five doorways are rūpa and one is nāma. Summarizing
 the six doorways, they are:
 
 - the eye-door, cakkhu-dvāra, which is the cakkhuppasāda
- rūpa,[129](#ftn129)
+ rūpa,[^129]
 - the ear-door, sota-dvāra, which is the sotappasāda rūpa, 
 
 - the nose-door, ghāṇa-dvāra, which is the ghāṇappassāda rūpa, 
@@ -492,7 +492,7 @@ the six doorways, they are:
 - the body-door, kāya-dvāra, which is the kāyappassāda rūpa, 
 
 - the mind-door, mano-dvāra, which is the bhavangupaccheda
- citta,[130](#ftn130) preceding the mind-door
+ citta,[^130] preceding the mind-door
  adverting-consciousness. 
 
 

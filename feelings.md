@@ -5,7 +5,7 @@ dhammas, the accompanying cetasikas. Cittas can be classified by way of
 the different accompanying feelings:
 
 - cittas accompanied by pleasant feeling, somanassa
- sahagata;[188](#ftn188) 
+ sahagata;[^188] 
 - cittas accompanied by unpleasant feeling, domanassa sahagata; 
 - cittas accompanied by indifferent feeling (neither pleasant nor
  unpleasant), upekkhā sahagata; 
@@ -130,7 +130,7 @@ is vipāka arises because of kamma-condition, kamma-paccaya. Feeling
 which is kusala, akusala or kiriya is not vipāka, it cannot arise
 because of kamma-condition, but it arises because of other conditions.
 There are different ways of classifying feeling, but when it is
-classified as fivefold,[189](#ftn189) pleasant bodily feeling and
+classified as fivefold,[^189] pleasant bodily feeling and
 painful feeling are of the jāti that is vipāka, they are the results of
 kamma. Kamma that has been performed in the past conditions accordingly
 the arising of the feelings that are vipāka, which feel on account of
@@ -346,7 +346,7 @@ be classified as fivefold in the following way:
 Unpleasant feeling cannot accompany cittas that are
 kusala, vipāka and kiriya. It can accompany only akusala citta, namely,
 the two types of dosa-mūla-citta, citta rooted in
-aversion.[190](#ftn190) If one does not know this, one may take for
+aversion.[^190] If one does not know this, one may take for
 kusala what is in fact akusala. This may happen, for example, when one
 feels sorry for people who suffer and who are in trouble. One wants to
 help them so that they are relieved from their distress. There may be
