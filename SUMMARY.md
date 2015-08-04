@@ -50,4 +50,5 @@
    * [Appendix III: Rūpa](48,appendix_iii_rupa.md)
    * [Questions With Regard to the Appendices](49,questions_with_regard_to_the_appendices.md)
    * [Footnotes](50,footnotes.md)
+* [Pali Glossary](51,pali_glossary.md)
 
